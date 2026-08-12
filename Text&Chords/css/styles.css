@@ -89,13 +89,13 @@ body {
 
   .time, .key {
     font-weight: bold;
-    background: gold;
+    background: red;
   }
   
-  .chords div {
+  .chords div:not(.time, .key) {
     color: grey;
   }
-
+  
   .text {
     padding: 0px 4px;
     margin: 0px 0px;
