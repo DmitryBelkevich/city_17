@@ -15,14 +15,7 @@ h1, h2, h3, h4, h5, h6, p, div {
   border: 1px solid black;
   margin: 0px 0px 0px 0px;
   
-  h1 {
-    font-size: 50px;
-    margin-left: 10px;
-  }
-  h2 {
-    margin-left: 40px;
-    color: grey;
-  }
+  
 }
 
 #info {
