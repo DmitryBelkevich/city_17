@@ -40,6 +40,12 @@ body {
   margin: 0px;
 }
 
+#tabs {
+  .tab {
+    padding: 14px 20px;
+  }
+}
+
 #tuning {
   border: 1px solid black;
   
