@@ -81,7 +81,7 @@ h1, h2, h3, h4, h5, h6, p, div {
     width: fit-content;
 
     padding: 0px 5px;
-    margin: 0px 5px;
+    margin: 5px 5px;
   }
 
   .time, .key {
