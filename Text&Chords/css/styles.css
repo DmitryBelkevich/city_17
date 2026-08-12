@@ -2,9 +2,9 @@ h1, h2, h3, h4, h5, h6, p, div {
   font-size: 40px;
   font-family: Arial;
   font-weight: normal;
-  
-  margin: 0px;
+
   padding: 0px;
+  margin: 0px;
 }
 
 #settings {
@@ -13,7 +13,7 @@ h1, h2, h3, h4, h5, h6, p, div {
 
 #title {
   border: 1px solid black;
-  margin: 0px 0px 0px 0px;
+  margin: 0px;
   
   h1 {
     font-size: 50px;
@@ -27,8 +27,9 @@ h1, h2, h3, h4, h5, h6, p, div {
 
 #info {
   border: 1px solid black;
-  margin: 4px 0px 4px 0px;
+  
   padding: 5px;
+  margin: 4px 0px;
 
   display: none;
 }
@@ -37,9 +38,9 @@ h1, h2, h3, h4, h5, h6, p, div {
   .mark, .part {
     border: 4px solid black;
     border-radius: 10px;
-
-    margin: 8px 4px;
+    
     padding: 5px;
+    margin: 8px 4px;
   }
   
   .mark {
@@ -99,7 +100,9 @@ h1, h2, h3, h4, h5, h6, p, div {
 #footer {
   text-align: center;
   border: 1px solid black;
-  padding: 50px;
+  
   color: grey;
   background-color: lightgrey;
+
+  padding: 50px;
 }
