@@ -42,10 +42,12 @@ body {
 
 #tabs {
   .tab {
-    width: 33.33%;
+    font-size: 35px;
+    
+    width: 32%;
     box-sizing: border-box;
     
-    padding: 20px 0px;
+    padding: 10px 0px;
   }
 }
 
