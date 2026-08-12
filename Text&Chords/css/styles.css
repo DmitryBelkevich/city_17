@@ -8,8 +8,9 @@ h1, h2, h3, h4, h5, h6, p, div {
 }
 
 #header {
-    border: 1px solid black;
-    margin: 0px 0px 0px 0px;
+  border: 1px solid black;
+  margin: 0px 0px 0px 0px;
+  
   h1 {
     font-size: 50px;
     margin-left: 10px;
