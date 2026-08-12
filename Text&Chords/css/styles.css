@@ -75,13 +75,11 @@ h1, h2, h3, h4, h5, h6, p, div {
     
   }
   
-  .time, .key, .chords {
+  .time, .key {
     border: 1px solid black;
     border-radius: 10px;
     width: fit-content;
-  }
 
-  .time, .key {
     font-weight: bold;
     background: gold;
   }
