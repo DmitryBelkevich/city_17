@@ -94,6 +94,7 @@ body {
   
   .chords div:not(.time, .key) {
     color: grey;
+    border-color: grey;
   }
   
   .text {
