@@ -42,6 +42,8 @@ body {
 
 #tabs {
   .tab {
+    width: 50%;
+    
     padding: 20px 10px;
   }
 }
