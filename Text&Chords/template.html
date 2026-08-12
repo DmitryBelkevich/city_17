@@ -18,16 +18,22 @@
 		</div>
 
 		<div id="tabs">
-			<button id="tab-textchords" class="tab" onclick="">📝 Text & Chords</button>
-			<button id="tab-scores" class="tab" class="tab" onclick="">🎵 Scores</button>
-			<button id="tab-playbacks" class="tab" class="tab" onclick="playback()">🎧 Playbacks</button>
-
 			<script>
-				function playback() {
-					var link = "https://drive.google.com/file/d/1wGSeFp-jR9mGPVoczkOaM9j7rK7wN-3_/view?usp=drive_link";
-					window.open(link, "_blank");
+				var score_link = "https://drive.google.com/file/d/1Ozb6GofzZKNbIv5GFti6CTKxG8Qk9BkF/view?usp=drive_link";
+				var playback_link = "https://drive.google.com/drive/folders/17ms-kVQLzpbdPwm3XT1st-mGT8hTtOwM?usp=drive_link";
+				
+				function onScore(score_link) {
+					window.open(score, "_blank");
+				}
+				
+				function onPlayback(playback_link) {
+					window.open(playback, "_blank");
 				}
 			</script>
+			
+			<button id="tab-textchords" class="tab" onclick="">📝 Text & Chords</button>
+			<button id="tab-scores" class="tab" class="tab" onclick="onScore(window[score_link])">🎵 Scores</button>
+			<button id="tab-playbacks" class="tab" class="tab" onclick="onPlayback(window[playback_link])">🎧 Playbacks</button>
 		</div>
 		
 		<div id="tuning">
