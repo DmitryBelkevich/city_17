@@ -43,6 +43,7 @@ body {
 #tabs {
   .tab {
     padding: 20px 100px;
+    margin: 0px;
   }
 }
 
