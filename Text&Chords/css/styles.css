@@ -42,7 +42,8 @@ body {
 
 #tabs {
   .tab {
-    width: 50%;
+    width: 33.33%;
+    box-sizing: border-box;
     
     padding: 20px 10px;
   }
