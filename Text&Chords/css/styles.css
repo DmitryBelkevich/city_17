@@ -89,7 +89,7 @@ body {
 
   .time, .key {
     font-weight: bold;
-    background: red;
+    background: gold;
   }
   
   .chords div:not(.time, .key) {
