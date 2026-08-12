@@ -26,6 +26,10 @@ h1, h2, h3, h4, h5, h6, p, div {
 }
 
 #info {
+  border: 1px solid black;
+  margin: 4px 0px 4px 0px;
+  padding: 5px;
+
   display: none;
 }
 
