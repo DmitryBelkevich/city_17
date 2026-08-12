@@ -78,9 +78,17 @@ h1, h2, h3, h4, h5, h6, p, div {
   .time, .key, .chords {
     border: 1px solid black;
     border-radius: 10px;
+    width: fit-content;
   }
 
-  .chords {}
+  .time, .key {
+    font-weight: bold;
+    background: gold;
+  }
+  
+  .chords {
+    background: grey;
+  }
 }
 
 #footer {
