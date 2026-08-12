@@ -24,6 +24,10 @@
 					playback: "https://drive.google.com/drive/folders/17ms-kVQLzpbdPwm3XT1st-mGT8hTtOwM?usp=drive_link"
 				};
 				
+				function onTextChords() {
+					
+				}
+				
 				function onScore(score) {
 					window.open(score, "_blank");
 				}
@@ -33,7 +37,7 @@
 				}
 			</script>
 			
-			<button id="tab-textchords" class="tab" onclick="">📝 Text & Chords</button>
+			<button id="tab-textchords" class="tab" onclick="onTextChords()">📝 Text & Chords</button>
 			<button id="tab-scores" class="tab" class="tab" onclick="onScore(song.score)">🎵 Scores</button>
 			<button id="tab-playbacks" class="tab" class="tab" onclick="onPlayback(song.playback)">🎧 Playbacks</button>
 		</div>
