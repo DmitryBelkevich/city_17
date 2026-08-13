@@ -14,6 +14,20 @@
     <script>
       const element = document.getElementById("content");
       element.innerHTML = "";
+
+      // Fetch the external HTML file
+      fetch('song')
+        .then(response => {
+        if (!response.ok) {
+        throw new Error('Network response was not ok');
+      }
+        return response.text(); // Convert the file content to text
+      })
+      .then(data => {
+      // Insert the text content as HTML into your placeholder
+        document.getElementById('content').innerHTML = data;
+      })
+      .catch(error => console.error('Error loading the HTML file:', error));
     </script>
   </body>
 
