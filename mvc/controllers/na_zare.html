@@ -13,7 +13,9 @@
 
     <script>
       // Fetch the external HTML file
-      fetch('//mvc/models/song')
+      var path = '//mvc/models/song';
+      
+      fetch(path)
         .then(response => {
         if (!response.ok) {
         throw new Error('Network response was not ok');
