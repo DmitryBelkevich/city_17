@@ -44,15 +44,11 @@
 	<script>
 		const textContainer = document.getElementById("text");
 
-		var isVisible = true;
 		function onText() {
-			if (isVisible) {
+			if (textContainer.style.display == 'block')
 				textContainer.style.display = "none";
-				isVisible = false;
-			} else {
+			else
 				textContainer.style.display = "block";
-				isVisible = true;
-			}
 		}
 	</script>
 	  
