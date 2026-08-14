@@ -33,14 +33,6 @@
 	  
 	<div id="tabs">
 		<button id="tab1" class="tab" onclick="onText()">📝 Text & Chords</button>
-
-		<script>
-			const textContainer = document.getElementById("text");
-			
-			function onText() {
-				textContainer.style.display = "none";
-			}
-		</script>
 	</div>
 	
 	<div id="tuning"></div>
@@ -48,6 +40,14 @@
 	<div id="text"></div>
 	
 	<div id="footer">Copyright © Dmitry Belkevich</div>
+
+	<script>
+		const textContainer = document.getElementById("text");
+	
+		function onText() {
+			textContainer.style.display = "none";
+		}
+	</script>
 	  
 	<script>
 		// set title
