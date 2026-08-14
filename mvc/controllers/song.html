@@ -43,9 +43,16 @@
 
 	<script>
 		const textContainer = document.getElementById("text");
-	
+
+		var isVisible = true;
 		function onText() {
-			textContainer.style.display = "none";
+			if (isVisible) {
+				textContainer.style.display = "none";
+				isVisible = false;
+			} else {
+				textContainer.style.display = "block";
+				isVisible = true;
+			}
 		}
 	</script>
 	  
