@@ -9,7 +9,7 @@
     <script>
       const queryString = window.location.search;
       const urlParams = new URLSearchParams(queryString);
-      const id = urlParams.get('id');
+      const id = urlParams.get('na_zare');
     </script>
   </head>
 
@@ -20,7 +20,7 @@
 
     <script>
       // Fetch the external HTML file
-      var path = '../views/song';
+      var path = '../views/' + id;
       
       fetch(path)
         .then(response => {
