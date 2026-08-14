@@ -11,17 +11,19 @@
       const queryString = window.location.search;
       const urlParams = new URLSearchParams(queryString);
       const id = urlParams.get('id');
-
-      // get model from database by id
-      const song = {
-        id: 5,
-        band: "Альянс",
-        title: "На заре",
-        "text&chords": "../songs/na_zare",
-        score: "https://drive.google.com/file/d/1Ozb6GofzZKNbIv5GFti6CTKxG8Qk9BkF/view?usp=drive_link",
-        playback: "https://drive.google.com/drive/folders/17ms-kVQLzpbdPwm3XT1st-mGT8hTtOwM?usp=drive_link"
-      };
     </script>
+
+	<script>
+		// get model from database by id
+		const song = {
+			id: 5,
+			band: "Альянс",
+			title: "На заре",
+			text: "../texts/na_zare",
+			score: "https://drive.google.com/file/d/1Ozb6GofzZKNbIv5GFti6CTKxG8Qk9BkF/view?usp=drive_link",
+			playback: "https://drive.google.com/drive/folders/17ms-kVQLzpbdPwm3XT1st-mGT8hTtOwM?usp=drive_link"
+		};
+	</script>
   </head>
 
   <body>
@@ -54,7 +56,7 @@
       // set content
       
       // Fetch the external HTML file
-      var path = song["text&chords"];
+      var path = song["text"];
       
       fetch(path)
         .then(response => {
