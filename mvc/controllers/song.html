@@ -25,12 +25,16 @@
   </head>
 
   <body>
-    <div id="title">
-		<h1></h1>
-		<h2></h2>
-	</div>
-
+    <div id="title"></div>
+	  
     <div id="content"></div>
+	  
+	<script>
+		// set title
+		const container = document.getElementById('title');
+		container.innerHTML = "<h1>" + song.title + "</h1>";
+		container.innerHTML =+ "<h2>" + song.title + "</h2>";
+	</script>
 
     <script>
       // set content
