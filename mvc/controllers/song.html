@@ -5,7 +5,12 @@
     <title>Page Title</title>
     <meta charset="UTF-8">
 
-    <link rel="stylesheet" href="css/styles.css">
+    <!-- <link rel="stylesheet" href="css/styles.css"> -->
+    <script>
+      const queryString = window.location.search;
+      const urlParams = new URLSearchParams(queryString);
+      const id = urlParams.get('id');
+    </script>
   </head>
 
   <body>
@@ -15,7 +20,7 @@
 
     <script>
       // Fetch the external HTML file
-      var path = '../models/song';
+      var path = '../views/song';
       
       fetch(path)
         .then(response => {
