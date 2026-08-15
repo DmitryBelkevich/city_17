@@ -2,11 +2,11 @@
   {
     "id": 1,
     "band": "band 1",
-    "title": "song 1",
+    "title": "song 1"
   },
   {
     "id": 2,
     "band": "band 2",
-    "title": "song 2",
+    "title": "song 2"
   }
 ]
