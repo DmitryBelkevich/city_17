@@ -33,13 +33,16 @@
       fetchData();
 
       class Song {
-        constructor(id, title) {
-          this.id = id;
-          this.title = title;
-        }
+        id;
+        title;
+        band;
       }
       
-      const song = new Song(1, "song 1");
+      const song = new Song();
+
+      song.id = 1;
+      song.title = "song 1";
+      song.band = "band 1";
     </script>
   </body>
   
