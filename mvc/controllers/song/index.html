@@ -11,10 +11,14 @@
 	<link rel="stylesheet" href="css/footer.css">
     
     <script>
-		// get id
 		const queryString = window.location.search;
 		const urlParams = new URLSearchParams(queryString);
+		
+		// get id
 		const id = urlParams.get('id');
+
+		// get user
+		const user = urlParams.get('user');
     </script>
 
 	<script>
