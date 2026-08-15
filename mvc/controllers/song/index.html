@@ -115,11 +115,10 @@
       // Fetch the external HTML file
       var path = song.text;
       
-      fetch(path)
-        .then(response => {
-        if (!response.ok) {
-        throw new Error('Network response was not ok');
-      }
+      fetch(path).then(response => {
+		if (!response.ok) {
+			throw new Error('Network response was not ok');
+		}
         return response.text(); // Convert the file content to text
       })
       .then(data => {
