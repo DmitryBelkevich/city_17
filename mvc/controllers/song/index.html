@@ -38,6 +38,8 @@
 			// 3. Parse JSON data into a JavaScript object
 			const data = await response.json();
 			song = data[0];
+
+			console.log(song);
 			
 			} catch (error) {
 				console.error('Failed to get JSON:', error);
