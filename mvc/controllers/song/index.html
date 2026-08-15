@@ -23,14 +23,7 @@
 
 	<script>
 		// get model from database by id
-		const song = {
-			id: 5,
-			band: "Альянс",
-			title: "На заре",
-			text: "../../storage/texts/" + "SynthPop/Альянс/Альянс - На заре.html",
-			score: "https://drive.google.com/file/d/1Ozb6GofzZKNbIv5GFti6CTKxG8Qk9BkF/view?usp=drive_link",
-			playback: "https://drive.google.com/drive/folders/17ms-kVQLzpbdPwm3XT1st-mGT8hTtOwM?usp=drive_link"
-		};
+		const song = {};
 
 		async function getJsonData() {
 			try {
@@ -44,7 +37,7 @@
 		
 			// 3. Parse JSON data into a JavaScript object
 			const data = await response.json();
-			console.log(data);
+			song = date;
 			
 			} catch (error) {
 				console.error('Failed to get JSON:', error);
