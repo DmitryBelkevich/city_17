@@ -23,7 +23,7 @@
 
 	<script>
 		// get model from database by id
-		var song = {};
+		var songs = {};
 
 		async function getJsonData() {
 			try {
@@ -37,7 +37,7 @@
 		
 			// 3. Parse JSON data into a JavaScript object
 			const data = await response.json();
-			song = data;
+			songs = data;
 			
 			} catch (error) {
 				console.error('Failed to get JSON:', error);
@@ -45,6 +45,8 @@
 		}
 		
 		getJsonData();
+
+		var song = song[0];
 	</script>
   </head>
 
