@@ -32,14 +32,16 @@
       
       fetchData();
 
-      class User {
-        constructor(name, age) {
-        this.name = name;
-        this.age = age;
+      class Song {
+        constructor() {}
+        
+        constructor(id, title) {
+          this.id = id;
+          this.title = title;
         }
       }
       
-      const user1 = new User("Bob", 30);
+      const song = new Song(1, "song 1");
     </script>
   </body>
   
