@@ -31,6 +31,27 @@
 			score: "https://drive.google.com/file/d/1Ozb6GofzZKNbIv5GFti6CTKxG8Qk9BkF/view?usp=drive_link",
 			playback: "https://drive.google.com/drive/folders/17ms-kVQLzpbdPwm3XT1st-mGT8hTtOwM?usp=drive_link"
 		};
+
+		async function getJsonData() {
+			try {
+				// 1. Send network request
+				const response = await fetch('https://dmitrybelkevich.github.io/city_17/mvc/database/songs.json');
+				
+				// 2. Check for HTTP errors
+				if (!response.ok) {
+					throw new Error(`HTTP error! Status: ${response.status}`);
+				}
+		
+			// 3. Parse JSON data into a JavaScript object
+			const data = await response.json();
+			console.log(data);
+			
+			} catch (error) {
+				console.error('Failed to get JSON:', error);
+			}
+		}
+		
+		getJsonData();
 	</script>
   </head>
 
