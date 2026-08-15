@@ -8,9 +8,10 @@
     <link rel="stylesheet" href="css/song.css">
     
     <script>
-      const queryString = window.location.search;
-      const urlParams = new URLSearchParams(queryString);
-      const id = urlParams.get('id');
+		// get id
+		const queryString = window.location.search;
+		const urlParams = new URLSearchParams(queryString);
+		const id = urlParams.get('id');
     </script>
 
 	<script>
@@ -35,13 +36,14 @@
 		<button id="tab1" class="tab" onclick="onText()">📝 Text & Chords</button>
 	</div>
 	
-	<div id="tuning"></div>
+	<div id="tuning">tuning</div>
 	
 	<div id="text"></div>
 	
 	<div id="footer">Copyright © Dmitry Belkevich</div>
 
 	<script>
+		// tabs
 		const textContainer = document.getElementById("text");
 		textContainer.style.display = "block";
 
