@@ -111,13 +111,3 @@
     margin: 0px 0px;
   }
 }
-
-#footer {
-  text-align: center;
-  border: 1px solid black;
-  
-  color: grey;
-  background-color: lightgrey;
-
-  padding: 50px;
-}
