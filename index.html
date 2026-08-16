@@ -35,13 +35,16 @@
       
       fetchData();
 
-      
+      const band = new Band();
+
+      band.id = 1;
+      band.title = "band 1";
       
       const song = new Song();
 
       song.id = 1;
       song.title = "song 1";
-      song.band = "band 1";
+      song.band = band;
       song.text = "link";
       song.score = "link";
       song.playback = "link";
