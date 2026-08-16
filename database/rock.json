@@ -1,9 +1,35 @@
 [
-  "band1":[
-    {
-      "id": "1",
-      "band": "band 1",
-      "title": "song 1"
-    }
-  ]
+  {
+    "id":1,
+    "band":{
+      "id":1,
+      "title":"Король и Шут"
+    },
+    "title":"Лесник",
+    "text":"link",
+    "score":"link",
+    "playback":"link"
+  },
+  {
+    "id":2,
+    "band":{
+      "id":1,
+      "title":"Король и Шут"
+    },
+    "title":"Кукла Колдуна",
+    "text":"link",
+    "score":"link",
+    "playback":"link"
+  },
+  {
+    "id":3,
+    "band":{
+      "id":1,
+      "title":"Король и Шут"
+    },
+    "title":"Воспоминание о былой любви",
+    "text":"link",
+    "score":"link",
+    "playback":"link"
+  }
 ]
