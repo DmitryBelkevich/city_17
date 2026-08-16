@@ -1,4 +1,5 @@
 class Band {
   id;
-  title
+  title;
+  songs;
 }
