@@ -1,0 +1,4 @@
+class Band {
+  id;
+  title
+}
