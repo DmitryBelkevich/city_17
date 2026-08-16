@@ -1,0 +1,4 @@
+class Genre {
+  id;
+  title;
+}
