@@ -9,6 +9,7 @@
   <body>
     <h1>Test</h1>
 
+    <script src="models/genre.js"></script>
     <script src="models/band.js"></script>
     <script src="models/song.js"></script>
 
@@ -35,19 +36,27 @@
       
       fetchData();
 
+      const genre = new Genre();
+
+      genre.id = 1;
+      genre.title = "Rock, Punk";
+
       const band = new Band();
 
       band.id = 1;
-      band.title = "band 1";
+      band.title = "Король и Шут";
       
       const song = new Song();
 
       song.id = 1;
-      song.title = "song 1";
+      song.title = "Воспоминание о былой любви";
       song.band = band;
       song.text = "link";
       song.score = "link";
       song.playback = "link";
+
+      band = [songs]
+      genre.bands = [band]
     </script>
   </body>
   
