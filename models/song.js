@@ -1,5 +1,8 @@
 class Song {
   id;
-  title;
   band;
+  title;
+  text;
+  score;
+  playback;
 }
