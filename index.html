@@ -6,10 +6,10 @@
     <meta charset="UTF-8">
     
     <script>
-      function loadData() {
+      async function loadData() {
           try {
             // 1. Wait for the server headers and response status
-            const response = fetch('database/songs.json');
+            const response = await fetch('database/songs.json');
             
             // 2. Check if the HTTP status code is successful (200-299)
             if (!response.ok) {
@@ -17,7 +17,7 @@
             }
             
             // 3. Wait for the full body data to download and parse as JSON
-            const data = response.json();
+            const data = await response.json();
             // console.log(data);
             
             return data;
@@ -27,8 +27,10 @@
           }
         }
 
-      const data = loadData();
-      console.log(data);
+      async function run() {
+        const data = loadData();
+        console.log(data);
+      }
     </script>
     
   </head>
