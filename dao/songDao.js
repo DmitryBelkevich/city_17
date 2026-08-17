@@ -1,5 +1,5 @@
 class SongDao {
-  getById(id) {
+  async getById(id) {
     const song = new Song();
 
       song.id = id;
