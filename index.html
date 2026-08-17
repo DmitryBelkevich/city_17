@@ -6,6 +6,8 @@
     <meta charset="UTF-8">
     
     <script>
+var aaa;
+      
       async function loadData() {
         try {
           // 1. Wait for the server headers and response status
@@ -30,6 +32,8 @@
       async function run() {
         const data = await loadData();
         console.log(data);
+
+        aaa = data;
       }
 
       run();
