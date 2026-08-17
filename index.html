@@ -40,10 +40,10 @@
       }
 
       async function run() {
-        var id = "5";
+        var id = 5;
         
         const data = await loadData();
-        const result = data.find(s => s.id === id);
+        const result = data.find(s => s.id == id);
         song = new Song(result.id, result.band, result.title, result.text, result.score, result.playback);
       }
 
