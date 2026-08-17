@@ -18,7 +18,7 @@
         
           // 3. Wait for the full body data to download and parse as JSON
           const data = await response.json();
-          console.log(data);
+          // console.log(data);
           
           return data;
         } catch (error) {
@@ -27,8 +27,9 @@
         }
       }
 
-      // const aaa = await loadData();
-      // console.log(aaa);
+      const aaa = await loadData();
+      alert(1);
+      console.log(aaa);
 
       // async function getById(id) {
       //   const data = await loadData();
