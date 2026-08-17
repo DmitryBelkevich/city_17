@@ -1,3 +1,3 @@
 import User from './User.js';
 
-alert("5");
+alert("6");
