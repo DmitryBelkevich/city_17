@@ -7,6 +7,9 @@ class SongDao {
   getById(id) {
     const s = songs.find(song => song.id === id);
 
+    if (!s)
+      return null;
+
     const song = new Song();
 
     song.id = s.id;
