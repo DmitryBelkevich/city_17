@@ -17,6 +17,7 @@
         }
       }
       var song;
+      var id = 5;
       
       async function loadData() {
         try {
@@ -39,12 +40,20 @@
         }
       }
 
-      async function run() {
-        var id = 5;
-        
+      async function getById(id) {
         const data = await loadData();
-        const result = data.find(s => s.id == id);
+        const result = data.find(s => s.id == id) || null;
+
+        if (!result)
+          return null;
+          
         song = new Song(result.id, result.band, result.title, result.text, result.score, result.playback);
+        
+        return song;
+      }
+
+      async function run() {
+        getById(id);
       }
 
       run();
