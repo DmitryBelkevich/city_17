@@ -20,14 +20,15 @@
           const data = await response.json();
           console.log(data);
           
-          // return data;
+          return data;
         } catch (error) {
           // 4. Handle network errors or parsing issues
           console.error('Fetch failed:', error);
         }
       }
 
-      loadData();
+      const aaa = loadData();
+      console.log(aaa);
 
       // async function getById(id) {
       //   const data = await loadData();
