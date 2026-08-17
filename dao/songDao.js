@@ -5,7 +5,19 @@ const songs = [
 
 class SongDao {
   getById(id) {
-    const song = songs.find(song => song.id === id)
+    const s = songs.find(song => song.id === id);
+
+    if (!s)
+      throw new Error(`User with ID ${id} not found.`);
+
+    const song = new Song();
+
+    song.id = s.id;
+    song.band = s.band;
+    song.title = s.title;
+    song.text = s.text;
+    song.score = s.score;
+    song.playback = s.playback;
     
     return song;
   }
