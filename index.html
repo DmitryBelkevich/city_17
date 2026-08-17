@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     
     <script>
-      class A {
+      class songDao {
         async loadData() {
           try {
             // 1. Wait for the server headers and response status
@@ -27,15 +27,14 @@
             console.error('Fetch failed:', error);
           }
         }
+
+        getById() {
+          const data = loadData();
+          console.log(data);
+        }
       }
       
-
-      console.log("--->");
-      const obj = new A();
-      const data = await obj.loadData();
-      console.log("<---");
-      console.log("data:");
-      console.log(data);
+      const songDao = new songDao();
       // const data = await loadData();
 
       // async function getById(id) {
