@@ -18,25 +18,24 @@
         
           // 3. Wait for the full body data to download and parse as JSON
           const data = await response.json();
-          // console.log(data);
+          console.log(data);
           
-          return data;
+          // return data;
         } catch (error) {
           // 4. Handle network errors or parsing issues
           console.error('Fetch failed:', error);
         }
       }
 
-      async function getById(id) {
-        const data = await loadData();
-        return data.find(song => song.id === id) || null;
-      }
+      // async function getById(id) {
+      //   const data = await loadData();
+      //   return data.find(song => song.id === id) || null;
+      // }
 
-      async function run() {
-        
-        const song = getById(2);
-        console.log(song);
-      }
+      // async function run() {
+      //   const song = getById(2);
+      //   console.log(song);
+      // }
     </script>
     
   </head>
