@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     
     <script>
-var aaa;
+      var song = new Song();
       
       async function loadData() {
         try {
@@ -30,10 +30,10 @@ var aaa;
       }
 
       async function run() {
+        var id = 2;
+        
         const data = await loadData();
-        console.log(data);
-
-        aaa = data;
+        data.find(song => song.id === id);
       }
 
       run();
