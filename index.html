@@ -6,6 +6,8 @@
     <meta charset="UTF-8">
     
     <script>
+      var file;
+      
       async function loadData() {
         try {
           // 1. Wait for the server headers and response status
@@ -19,6 +21,7 @@
           // 3. Wait for the full body data to download and parse as JSON
           const data = await response.json();
           console.log(data);
+          file = data;
         
         } catch (error) {
           // 4. Handle network errors or parsing issues
