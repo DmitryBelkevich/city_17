@@ -6,7 +6,17 @@
     <meta charset="UTF-8">
     
     <script>
-      var song = new Song();
+      class Song() {
+        constructor(id, band, title, text, score, playback) {
+          this.id = id;
+          this.band = band;
+          this.title = title;
+          this.text = text;
+          this.score = score;
+          this.playback = playback;
+        }
+      }
+      var song;
       
       async function loadData() {
         try {
@@ -33,7 +43,8 @@
         var id = 2;
         
         const data = await loadData();
-        data.find(song => song.id === id);
+        const result = data.find(s => s.id === id);
+        song = new Song(result.id, result.band, result.title, result.text, result.score, result.playback);
       }
 
       run();
