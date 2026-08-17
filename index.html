@@ -27,12 +27,10 @@
         }
       }
 
-      async function f() {
+      async function getById(id) {
         const data = await loadData();
-        console.log(data);
+        return data.find(song => song.id === id) || null;
       }
-
-      
     </script>
     
   </head>
