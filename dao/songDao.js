@@ -1,12 +1,11 @@
+const database = [
+  { id: 1, band: "Король и Шут", title: "Воспоминание о былой любви" },
+  { id: 2, band: "Кино", title: "Группа крови" }
+];
+
 class SongDao {
   getById(id) {
-    const song = new Song();
-
-      song.id = id;
-      song.title = "Воспоминание о былой любви";
-      song.text = "link1";
-      song.score = "link2";
-      song.playback = "link3";
+    const song = database.find(song => song.id === id)
     
     return song;
   }
