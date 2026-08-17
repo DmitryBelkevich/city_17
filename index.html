@@ -13,6 +13,8 @@
     <script src="models/band.js"></script>
     <script src="models/song.js"></script>
 
+    <script src="dao/songDao.js"></script>
+
     <script>
       async function fetchData() {
         try {
@@ -36,25 +38,9 @@
       
       fetchData();
 
-      const genre = new Genre();
-
-      genre_rock.title = "Rock, Punk";
-
-      const band_kish = new Band();
-
-      band.id = 1;
-      band.title = "Король и Шут";
+      songDao = new SongDao();
+      songDao.getById(5);
       
-      const song = new Song();
-
-      song.id = 1;
-      song.title = "Воспоминание о былой любви";
-      song.text = "link";
-      song.score = "link";
-      song.playback = "link";
-
-      band_kish.songs = [song]
-      genre_rock.bands = [band_kish]
     </script>
   </body>
   
