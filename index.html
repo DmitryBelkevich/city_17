@@ -31,6 +31,12 @@
         const data = await loadData();
         return data.find(song => song.id === id) || null;
       }
+
+      async function run() {
+        
+        const song = getById(2);
+        console.log(song);
+      }
     </script>
     
   </head>
