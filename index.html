@@ -57,7 +57,7 @@
       
       async function run() {
         const songDao = new SongDao();
-        song = getById(id);
+        song = songDao.getById(id);
       }
 
       run();
