@@ -1,4 +1,4 @@
-const data;
+const data = [];
 
 async function loadData() {
   try {
