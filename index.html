@@ -30,11 +30,12 @@
 
         async getById() {
           const data = await loadData();
-          console.log(data);
+          return data;
         }
       }
       
       const songDao = new SongDao();
+      var data = await songDao.getById();
       // const data = await loadData();
 
       // async function getById(id) {
