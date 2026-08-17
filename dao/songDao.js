@@ -7,9 +7,6 @@ class SongDao {
   getById(id) {
     const s = songs.find(song => song.id === id);
 
-    if (!s)
-      throw new Error(`User with ID ${id} not found.`);
-
     const song = new Song();
 
     song.id = s.id;
