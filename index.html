@@ -16,7 +16,7 @@
     <script src="dao/songDao.js"></script>
 
     <script>
-      async function fetchData() {
+      async function loadData() {
         try {
           // 1. Wait for the server headers and response status
           const response = await fetch('database/songs.json');
@@ -36,7 +36,7 @@
         }
       }
       
-      fetchData();
+      loadData();
 
       const songDao = new SongDao();
       
