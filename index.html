@@ -43,7 +43,7 @@
         }
 
         async getById(id) {
-          const data = await loadData();
+          const data = await this.loadData();
           const result = data.find(s => s.id == id) || null;
   
           if (!result)
