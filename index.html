@@ -4,15 +4,11 @@
   <head>
     <title>Page Title</title>
     <meta charset="UTF-8">
-  </head>
-  
-  <body>
-    <h1>Test</h1>
 
-    <script src="models/song.js"></script>
+    <!-- <script src="models/song.js"></script> -->
 
-    <script src="dao/songDao.js"></script>
-
+    <!-- <script src="dao/songDao.js"></script> -->
+    
     <script>
       async function loadData() {
         try {
@@ -34,13 +30,12 @@
         }
       }
       
-      loadData();
-
-      const songDao = new SongDao();
-      
-      const song = songDao.getById(1);
-      
+      loadData();      
     </script>
+  </head>
+  
+  <body>
+    <h1>Test</h1>
   </body>
   
 </html>
