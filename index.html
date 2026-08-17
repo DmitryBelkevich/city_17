@@ -6,8 +6,7 @@
     <meta charset="UTF-8">
     
     <script>
-      class SongDao {
-        async loadData() {
+      async function loadData() {
           try {
             // 1. Wait for the server headers and response status
             const response = await fetch('database/songs.json');
@@ -28,25 +27,8 @@
           }
         }
 
-        async getById() {
-          const data = await loadData();
-          return data;
-        }
-      }
-      
-      const songDao = new SongDao();
-      var data = await songDao.getById();
-      // const data = await loadData();
-
-      // async function getById(id) {
-      //   const data = await loadData();
-      //   return data.find(song => song.id === id) || null;
-      // }
-
-      // async function run() {
-      //   const song = getById(2);
-      //   console.log(song);
-      // }
+      const data = await loadData();
+      console.log(data);
     </script>
     
   </head>
