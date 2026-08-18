@@ -14,7 +14,7 @@ async function main() {
   try {
     const song = await songDao.getById(id);
 
-    console.log("--- " + song + " ---");
+    console.log(song);
   } catch (error) {
     console.error("Ошибка:", error);
   }
