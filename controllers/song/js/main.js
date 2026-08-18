@@ -1,16 +1,17 @@
 import Song from '../../../models/Song.js';
+import Song from '../../../models/Musician.js';
 
 // ---
 const queryString = window.location.search;
 const urlParams = new URLSearchParams(queryString);
 
 const id = urlParams.get('id');
-const obj = {
-  voice: urlParams.get('voice'),
-  instrument: urlParams.get('instrument')
-}
 
-console.log(obj);
+// ---
+const musician = new Musician();
+
+musician.voice = urlParams.get('voice');
+musician.instrument = urlParams.get('instrument');
 // ---
 
 const song = new Song();
@@ -25,7 +26,7 @@ song.playback = "playback1";
 window.song = song;
 
 const display = document.getElementById("display");
-display.innerHTML = obj.instrument;
+display.innerHTML = musician.instrument;
 
 const content = document.getElementById("content");
 content.innerHTML = "Hello World";
