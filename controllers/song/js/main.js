@@ -23,3 +23,6 @@ song.score = "score1";
 song.playback = "playback1";
 
 window.song = song;
+
+const content = document.getElementById("content");
+content.innerHTML = "Hello World";
