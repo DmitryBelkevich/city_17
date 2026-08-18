@@ -2,9 +2,11 @@ import Song from '../models/Song.js';
 
 export default class SongDao {
   async loadData() {
+    const path = '../../database/songs.json';
+    
     try {
       // 1. Wait for the server headers and response status
-      const response = await fetch('../database/songs.json');
+      const response = await fetch(path);
       
       // 2. Check if the HTTP status code is successful (200-299)
       if (!response.ok) {
