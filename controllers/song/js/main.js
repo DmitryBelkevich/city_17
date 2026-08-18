@@ -10,14 +10,18 @@ const id = urlParams.get('id');
 // DAO
 const songDao = new SongDao();
 
+// view
+const songView = new SongView();
+
 async function main() {
   try {
     const song = await songDao.getById(id);
 
     // --- set content ---
+    songView.song = song;
 
     // display
-    setDisplay(song);
+    songView.setDisplay(song);
 
     // title
     const title = document.getElementById("title");
@@ -34,9 +38,17 @@ async function main() {
   }
 }
 
-function setDisplay(song) {
-  const display = document.getElementById("display");
-  display.innerHTML = song.getVoice(0) + " " + song.getInstrument(0);
+class SongView {
+  #song;
+
+  set song(song) {
+    this.#song = song;
+  }
+  
+  setDisplay(song) {
+    const display = document.getElementById("display");
+    display.innerHTML = song.getVoice(0) + " " + song.getInstrument(0);
+  }
 }
 
 main();
