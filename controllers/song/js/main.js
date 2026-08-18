@@ -10,14 +10,22 @@ const id = urlParams.get('id');
 // DAO
 const songDao = new SongDao();
 
-const song = await songDao.getById(id);
+function main() {
+  try {
+    const song = await songDao.getById(id);// Ожидаем объект
 
-console.log("--- " + song.getVoices() + " ---");
+    console.log("--- " + song.getVoices() + " ---");
+  } catch (error) {
+    console.error("Ошибка:", error);
+  }
+}
+
+main();
 
 // set content
 
-const display = document.getElementById("display");
-display.innerHTML = song.getVoice(0) + " " + song.getInstrument(0);
+// const display = document.getElementById("display");
+// display.innerHTML = song.getVoice(0) + " " + song.getInstrument(0);
 
-const content = document.getElementById("content");
-content.innerHTML = song.band + " - " + song.title;
+// const content = document.getElementById("content");
+// content.innerHTML = song.band + " - " + song.title;
