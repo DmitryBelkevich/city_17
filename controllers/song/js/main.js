@@ -7,9 +7,6 @@ const queryString = window.location.search;
 const urlParams = new URLSearchParams(queryString);
 const id = urlParams.get('id');
 
-// DAO
-const songDao = new SongDao();
-
 // view
 class SongView {
   #song;
@@ -26,6 +23,7 @@ class SongView {
 
 async function main() {
   try {
+    const songDao = new SongDao();
     const song = await songDao.getById(id);
 
     // --- set content ---
