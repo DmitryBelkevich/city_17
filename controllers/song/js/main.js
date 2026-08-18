@@ -14,6 +14,7 @@ async function main() {
   try {
     const song = await songDao.getById(id);
 
+    window.s = song;
     console.log(song);
   } catch (error) {
     console.error("Ошибка:", error);
