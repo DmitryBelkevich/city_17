@@ -14,7 +14,7 @@ async function main() {
   try {
     const song = await songDao.getById(id);// Ожидаем объект
 
-    console.log("--- " + song.getVoices() + " ---");
+    console.log("--- " + song + " ---");
   } catch (error) {
     console.error("Ошибка:", error);
   }
