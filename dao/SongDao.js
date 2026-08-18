@@ -1,8 +1,10 @@
 export default class SongDao {
+  const path = '../../database/songs.json';
+  
   async loadData() {
     try {
       // 1. Wait for the server headers and response status
-      const response = await fetch('../database/songs.json');
+      const response = await fetch(path);
       
       // 2. Check if the HTTP status code is successful (200-299)
       if (!response.ok) {
