@@ -12,7 +12,7 @@ const songDao = new SongDao();
 
 const song = await songDao.getById(id);
 
-console.log("--- " + song.getVoice(1) + " ---");
+console.log("--- " + song.getVoices() + " ---");
 
 // set content
 
