@@ -17,11 +17,9 @@ async function main() {
     // --- set content ---
 
     // display
-    const display = document.getElementById("display");
-    display.innerHTML = song.getVoice(0) + " " + song.getInstrument(0);
+    setDisplay(song);
 
     // title
-
     const title = document.getElementById("title");
 
     const header1 = document.createElement('h1');
@@ -34,6 +32,11 @@ async function main() {
   } catch (error) {
     console.error("Ошибка:", error);
   }
+}
+
+function setDisplay(song) {
+  const display = document.getElementById("display");
+  display.innerHTML = song.getVoice(0) + " " + song.getInstrument(0);
 }
 
 main();
