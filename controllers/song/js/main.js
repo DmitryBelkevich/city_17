@@ -17,7 +17,7 @@ musician.instrument = urlParams.get('instrument');
 // ---
 // DAO
 const songDao = new SongDao();
-
+songDao.getAll();
 // ---
 
 const song = new Song();
