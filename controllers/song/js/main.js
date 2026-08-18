@@ -25,7 +25,7 @@ song.playback = "playback1";
 window.song = song;
 
 const display = document.getElementById("display");
-content.innerHTML = obj.instrument;
+display.innerHTML = obj.instrument;
 
 const content = document.getElementById("content");
 content.innerHTML = "Hello World";
