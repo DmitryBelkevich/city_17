@@ -16,6 +16,14 @@ export default class SongView {
   }
 
   setTitle() {
+    const title = document.getElementById("title");
+
+    const header1 = document.createElement('h1');
+    header1.textContent = this.#song.title;
+    title.append(header1);
     
+    const header2 = document.createElement('h2');
+    header2.textContent = this.#song.band;
+    title.append(header2);
   }
 }
