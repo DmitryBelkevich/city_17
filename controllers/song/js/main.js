@@ -29,4 +29,4 @@ const display = document.getElementById("display");
 display.innerHTML = musician.instrument;
 
 const content = document.getElementById("content");
-content.innerHTML = "Hello World";
+content.innerHTML = song.band + " " + song.title;
