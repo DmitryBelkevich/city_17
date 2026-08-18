@@ -10,7 +10,7 @@ export default class SongView {
   }
   
   setDisplay() {
-    const display = document.getElementById("display");
+    const display = document.getElementById("display");;
     display.innerHTML = this.#song.getVoice(0) + " " + this.#song.getInstrument(0);
   }
 }
