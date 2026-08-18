@@ -11,13 +11,25 @@ const id = urlParams.get('id');
 const songDao = new SongDao();
 
 // view
-const songView = new SongView();
+class SongView {
+  #song;
+
+  set song(song) {
+    this.#song = song;
+  }
+  
+  setDisplay(song) {
+    const display = document.getElementById("display");
+    display.innerHTML = song.getVoice(0) + " " + song.getInstrument(0);
+  }
+}
 
 async function main() {
   try {
     const song = await songDao.getById(id);
 
     // --- set content ---
+    const songView = new SongView();
     songView.song = song;
 
     // display
@@ -35,19 +47,6 @@ async function main() {
     title.append(header2);
   } catch (error) {
     console.error("Ошибка:", error);
-  }
-}
-
-class SongView {
-  #song;
-
-  set song(song) {
-    this.#song = song;
-  }
-  
-  setDisplay(song) {
-    const display = document.getElementById("display");
-    display.innerHTML = song.getVoice(0) + " " + song.getInstrument(0);
   }
 }
 
