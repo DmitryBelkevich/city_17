@@ -14,6 +14,8 @@ async function main() {
   try {
     const song = await songDao.getById(id);
 
+    song.getVoices();
+
     window.s = song;
     console.log(song);
   } catch (error) {
