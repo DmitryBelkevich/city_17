@@ -1,5 +1,5 @@
 import Song from '../../../models/Song.js';
-import Song from '../../../models/Musician.js';
+import Musician from '../../../models/Musician.js';
 
 // ---
 const queryString = window.location.search;
