@@ -6,7 +6,8 @@ const urlParams = new URLSearchParams(queryString);
 
 const obj = {
   id: urlParams.get('id'),
-  user: urlParams.get('user')
+  user: urlParams.get('user'),
+  voice: urlParams.get('voice')
 }
 
 console.log(obj);
