@@ -1,4 +1,4 @@
-class SongDao {
+export default class SongDao {
   async loadData() {
     try {
       // 1. Wait for the server headers and response status
@@ -18,5 +18,23 @@ class SongDao {
       // 4. Handle network errors or parsing issues
       console.error('Fetch failed:', error);
     }
+  }
+
+  async getAll() {
+    console.log("get all songs from database");
+    const data = await this.loadData();
+    console.log(data);
+  }
+
+  async getById(id) {
+    const data = await this.loadData();
+    const result = data.find(s => s.id == id) || null;
+
+    if (!result)
+      return null;
+      
+    song = new Song(result.id, result.band, result.title, result.text, result.score, result.playback);
+    
+    return song;
   }
 }
