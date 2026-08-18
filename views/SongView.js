@@ -4,9 +4,13 @@ export default class SongView {
   set song(song) {
     this.#song = song;
   }
+
+  create() {
+    setDisplay();
+  }
   
-  setDisplay(song) {
+  setDisplay() {
     const display = document.getElementById("display");
-    display.innerHTML = song.getVoice(0) + " " + song.getInstrument(0);
+    display.innerHTML = this.#song.getVoice(0) + " " + this.#song.getInstrument(0);
   }
 }
