@@ -1,0 +1,12 @@
+body, div, h1, h2, h3, h4, h5, h6, p, button {
+  font-size: 40px;
+  font-family: Arial;
+  font-weight: normal;
+
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  margin: 8px;
+}
