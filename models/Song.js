@@ -5,6 +5,8 @@ export default class Song {
   #text;
   #score;
   #playback;
+  #voices = [];
+  #instruments = [];
   
   get id() {
     return this.#id;
@@ -52,5 +54,13 @@ export default class Song {
 
   set playback(playback) {
     this.#playback = playback;
+  }
+
+  getVoice(number) {
+    this.#voices[number];
+  }
+
+  addVoice(number, title) {
+    this.#voices[number, title];
   }
 }
