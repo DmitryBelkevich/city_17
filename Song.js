@@ -1,5 +1,5 @@
 export default class Song {
-  id;
+  #id;
   band;
   title;
   text;
