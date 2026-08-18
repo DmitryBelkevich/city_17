@@ -71,4 +71,8 @@ export default class Song {
   addInstrument(number, title) {
     this.#instruments[number] = title;
   }
+
+  getVoices() {
+    this.#voices;
+  }
 }
