@@ -22,7 +22,7 @@ const song = await songDao.getById(id);
 
 console.log(song);
 
-// window.song = song;
+// set content
 
 const display = document.getElementById("display");
 display.innerHTML = musician.instrument;
