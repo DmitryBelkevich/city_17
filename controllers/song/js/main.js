@@ -3,14 +3,13 @@ import Song from '../../../models/Song.js';
 // ---
 const queryString = window.location.search;
 const urlParams = new URLSearchParams(queryString);
-// get id
-const id = urlParams.get('id');
 
-// get user
-var user = urlParams.get('user');
+const obj = {
+  id: urlParams.get('id'),
+  user: urlParams.get('user')
+}
 
-console.log(id);
-console.log(user);
+console.log(obj);
 // ---
 
 const song = new Song();
