@@ -7,7 +7,7 @@ const urlParams = new URLSearchParams(queryString);
 const id = urlParams.get('id');
 
 // get user
-const user = urlParams.get('user');
+var user = urlParams.get('user');
 
 console.log(id);
 console.log(user);
