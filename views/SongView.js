@@ -6,7 +6,7 @@ export default class SongView {
   }
 
   create() {
-    setDisplay();
+    this.setDisplay();
   }
   
   setDisplay() {
