@@ -7,10 +7,10 @@ export default class Song {
   playback;
   
   get id() {
-    return this.id;
+    return this.#id;
   }
   
   set id(id) {
-    this.id = id;
+    this.#id = id;
   }
 }
