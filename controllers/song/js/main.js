@@ -20,7 +20,7 @@ const songDao = new SongDao();
 
 // ---
 
-const song = songDao.getById(id);
+const song = await songDao.getById(id);
 
 // song.id = 1;
 // song.band = "band1";
