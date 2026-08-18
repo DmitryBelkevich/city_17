@@ -34,6 +34,8 @@ export default class SongDao {
     if (!result)
       return null;
 
+    const song = new Song();
+    
     song.id = result.id;
     song.band = result.band;
     song.title = result.title;
