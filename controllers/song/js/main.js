@@ -10,9 +10,9 @@ const id = urlParams.get('id');
 // DAO
 const songDao = new SongDao();
 
-function main() {
+async function main() {
   try {
-    const song = songDao.getById(1);
+    const song = await songDao.getById(id);
 
     console.log(song);
   } catch (error) {
