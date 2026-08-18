@@ -1,6 +1,4 @@
 export default class Song {
-  
-  
   get id() {
     return this.#id;
   }
