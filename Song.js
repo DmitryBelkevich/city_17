@@ -1,12 +1,4 @@
 export default class Song {
-  constructor(name) {
-    this.name = name;
-  }
-
-  sayHello() {
-    return `Hello, my name is ${this.name}!`;
-  }
-  
   get id() {
     return this.id;
   }
