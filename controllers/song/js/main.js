@@ -12,7 +12,7 @@ const songDao = new SongDao();
 
 function main() {
   try {
-    const song = songDao.getById(id);
+    const song = songDao.getById(1);
 
     console.log(song);
   } catch (error) {
