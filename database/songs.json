@@ -4,34 +4,39 @@
     "band": "Кино", "title": "Группа крови",
     "text": "link1",
     "score": "link2",
-    "playback": "link3"
+    "playback": "link3",
+    "genge": "Rock, Punk"
   },
   {
     "id": "2",
     "band": "Кино", "title": "Пачка сигарет",
     "text": "link1",
     "score": "link2",
-    "playback": "link3"
+    "playback": "link3",
+    "genge": "Rock, Punk"
   },
   {
     "id": "3",
     "band": "Король и Шут", "title": "Воспоминание о былой любви",
     "text": "link1",
     "score": "link2",
-    "playback": "link3"
+    "playback": "link3",
+    "genge": "Rock, Punk"
   },
   {
     "id": "4",
     "band": "Порнофильмы", "title": "Я так соскучился",
     "text": "link1",
     "score": "link2",
-    "playback": "link3"
+    "playback": "link3",
+    "genge": "Rock, Punk"
   },
   {
     "id": "5",
     "band": "Земфира", "title": "Искала",
     "text": "link1",
     "score": "link2",
-    "playback": "link3"
+    "playback": "link3",
+    "genge": "Rock, Punk"
   }
 ]
