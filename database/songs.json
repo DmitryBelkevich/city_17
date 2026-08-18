@@ -5,7 +5,7 @@
     "text": "link1",
     "score": "link2",
     "playback": "link3",
-    "genge": "Rock, Punk"
+    "genre": "Rock, Punk"
   },
   {
     "id": "2",
@@ -13,7 +13,7 @@
     "text": "link1",
     "score": "link2",
     "playback": "link3",
-    "genge": "Rock, Punk"
+    "genre": "Rock, Punk"
   },
   {
     "id": "3",
@@ -21,7 +21,7 @@
     "text": "link1",
     "score": "link2",
     "playback": "link3",
-    "genge": "Rock, Punk"
+    "genre": "Rock, Punk"
   },
   {
     "id": "4",
@@ -29,7 +29,7 @@
     "text": "link1",
     "score": "link2",
     "playback": "link3",
-    "genge": "Rock, Punk"
+    "genre": "Rock, Punk"
   },
   {
     "id": "5",
@@ -37,6 +37,6 @@
     "text": "link1",
     "score": "link2",
     "playback": "link3",
-    "genge": "Rock, Punk"
+    "genre": "Rock, Punk"
   }
 ]
