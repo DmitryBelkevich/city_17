@@ -6,5 +6,11 @@ export default class Song {
   score;
   playback;
   
+  get id() {
+    return this.id;
+  }
   
+  set id(id) {
+    this.id = id;
+  }
 }
