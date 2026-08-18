@@ -1,5 +1,5 @@
 export default class SongDao {
-  const path = '../../database/songs.json';
+  path = '../../database/songs.json';
   
   async loadData() {
     try {
