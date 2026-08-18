@@ -1,13 +1,12 @@
 import Song from './Song.js';
 
-const song = new Song('Polina');
-console.log(song.sayHello());
+const song = new Song();
 
-const user = {
-    name: "Alex Rivera",
-    role: "Developer",
-    experience: "5 years"
-};
+song.id = 1;
+song.band = "band1";
+song.title = "title1";
+song.text = "text1";
+song.score = "score1";
+song.playback = "playback1";
 
 window.song = song;
-window.user = user;
