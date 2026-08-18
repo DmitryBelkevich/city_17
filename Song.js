@@ -46,11 +46,11 @@ export default class Song {
     this.#score = score;
   }
 
-  get playback() {
+  get playbacks() {
     return this.#playback;
   }
 
-  set playback(playback) {
+  set playbacks(playback) {
     this.#playback = playback;
   }
 }
