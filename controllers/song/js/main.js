@@ -22,6 +22,10 @@ song.title = "title1";
 song.text = "text1";
 song.score = "score1";
 song.playback = "playback1";
+song.addVoice(0, "Voice 1");
+song.addVoice(1, "Voice 2");
+
+console.log(song);
 
 window.song = song;
 
