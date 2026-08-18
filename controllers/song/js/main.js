@@ -17,7 +17,7 @@ console.log(song);
 // set content
 
 const display = document.getElementById("display");
-display.innerHTML = song.voices[0] + " " + song.instruments[0];
+display.innerHTML = song.getVoice(0) + " " + song.getInstrument(0);
 
 const content = document.getElementById("content");
 content.innerHTML = song.band + " - " + song.title;
