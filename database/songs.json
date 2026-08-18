@@ -5,7 +5,8 @@
     "text": "link1",
     "score": "link2",
     "playback": "link3",
-    "genre": "Rock, Punk"
+    "genre": "Rock, Punk",
+    "visible": "true"
   },
   {
     "id": "2",
@@ -13,7 +14,8 @@
     "text": "link1",
     "score": "link2",
     "playback": "link3",
-    "genre": "Rock, Punk"
+    "genre": "Rock, Punk",
+    "visible": "true"
   },
   {
     "id": "3",
@@ -21,7 +23,8 @@
     "text": "link1",
     "score": "link2",
     "playback": "link3",
-    "genre": "Rock, Punk"
+    "genre": "Rock, Punk",
+    "visible": "true"
   },
   {
     "id": "4",
@@ -29,7 +32,8 @@
     "text": "link1",
     "score": "link2",
     "playback": "link3",
-    "genre": "Rock, Punk"
+    "genre": "Rock, Punk",
+    "visible": "true"
   },
   {
     "id": "5",
@@ -37,6 +41,7 @@
     "text": "link1",
     "score": "link2",
     "playback": "link3",
-    "genre": "Rock, Punk"
+    "genre": "Rock, Punk",
+    "visible": "true"
   }
 ]
