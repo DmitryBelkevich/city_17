@@ -15,8 +15,7 @@ async function main() {
     const songView = new SongView();
     songView.song = song;
 
-    // display
-    songView.setDisplay(song);
+    songView.create();
 
     // title
     const title = document.getElementById("title");
