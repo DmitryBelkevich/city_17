@@ -14,9 +14,9 @@ async function main() {
   try {
     const song = await songDao.getById(id);
 
-    const voices = song.getVoices();
+    const voice = song.getVoice(0);
     
-    console.log(voices);
+    console.log(voice);
   } catch (error) {
     console.error("Ошибка:", error);
   }
