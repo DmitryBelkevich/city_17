@@ -28,7 +28,7 @@ export default class SongDao {
     // return array Song()
   }
 
-  async getById(id) {console.log("--- get by id ---");
+  async getById(id) {
     const data = await this.loadData();
     const result = data.find(s => s.id == id) || null;
 
