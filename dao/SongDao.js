@@ -23,7 +23,6 @@ export default class SongDao {
   async getAll() {
     console.log("get all songs from database");
     const data = await this.loadData();
-    console.log(data);
   }
 
   async getById(id) {
