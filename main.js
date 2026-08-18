@@ -1,4 +1,4 @@
-import Song from './Song.js';
+import Song from './models/Song.js';
 
 const song = new Song();
 
