@@ -18,24 +18,11 @@ musician.instrument = urlParams.get('instrument');
 // DAO
 const songDao = new SongDao();
 
-// ---
-
 const song = await songDao.getById(id);
-
-// song.id = 1;
-// song.band = "band1";
-// song.title = "title1";
-// song.text = "text1";
-// song.score = "score1";
-// song.playback = "playback1";
-// song.addVoice(0, "Voice 1");
-// song.addVoice(1, "Voice 2");
-// song.addInstrument(0, "Guitar");
-// song.addInstrument(1, "Bass");
 
 console.log(song);
 
-window.song = song;
+// window.song = song;
 
 const display = document.getElementById("display");
 display.innerHTML = musician.instrument;
