@@ -4,8 +4,8 @@ import Song from '../../../models/Song.js';
 const queryString = window.location.search;
 const urlParams = new URLSearchParams(queryString);
 
+const id = urlParams.get('id');
 const obj = {
-  id: urlParams.get('id'),
   voice: urlParams.get('voice'),
   instrument: urlParams.get('instrument')
 }
