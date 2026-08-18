@@ -14,20 +14,15 @@ async function main() {
   try {
     const song = await songDao.getById(id);
 
-    const voice = song.getVoice(0);
-    
-    console.log(voice);
+    // set content
+    const display = document.getElementById("display");
+    display.innerHTML = song.getVoice(0) + " " + song.getInstrument(0);
+
+    const content = document.getElementById("content");
+    content.innerHTML = song.band + " - " + song.title;
   } catch (error) {
     console.error("Ошибка:", error);
   }
 }
 
 main();
-
-// set content
-
-// const display = document.getElementById("display");
-// display.innerHTML = song.getVoice(0) + " " + song.getInstrument(0);
-
-// const content = document.getElementById("content");
-// content.innerHTML = song.band + " - " + song.title;
