@@ -57,7 +57,7 @@ export default class Song {
   }
 
   getVoice(number) {
-    this.#voices[number];
+    return this.#voices[number];
   }
 
   addVoice(number, title) {
@@ -65,7 +65,7 @@ export default class Song {
   }
 
   getInstrument(number) {
-    this.#instruments[number];
+    return this.#instruments[number];
   }
 
   addInstrument(number, title) {
@@ -73,7 +73,6 @@ export default class Song {
   }
 
   getVoices() {
-    console.log("get all voices");
-    this.#voices;
+    return this.#voices;
   }
 }
