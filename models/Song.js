@@ -73,6 +73,7 @@ export default class Song {
   }
 
   getVoices() {
+    console.log("get all voices");
     this.#voices;
   }
 }
