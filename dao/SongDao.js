@@ -24,7 +24,7 @@ export default class SongDao {
   }
 
   async getAll() {
-    // const data = await this.loadData();
+    const data = await this.loadData();
     // return array Song()
   }
 
