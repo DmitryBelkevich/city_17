@@ -1,25 +1,10 @@
 import Song from '../../../models/Song.js';
-
 import SongDao from '../../../dao/SongDao.js';
-
+import SongView from '../../../views/SongView.js';
 
 const queryString = window.location.search;
 const urlParams = new URLSearchParams(queryString);
 const id = urlParams.get('id');
-
-// view
-class SongView {
-  #song;
-
-  set song(song) {
-    this.#song = song;
-  }
-  
-  setDisplay(song) {
-    const display = document.getElementById("display");
-    display.innerHTML = song.getVoice(0) + " " + song.getInstrument(0);
-  }
-}
 
 async function main() {
   try {
