@@ -10,7 +10,7 @@ const id = urlParams.get('id');
 // DAO
 const songDao = new SongDao();
 
-await function main() {
+async function main() {
   try {
     const song = await songDao.getById(id);// Ожидаем объект
 
