@@ -24,8 +24,8 @@ song.playback = "playback1";
 
 window.song = song;
 
-const content = document.getElementById("content");
-content.innerHTML = "Song Controller";
-
 const display = document.getElementById("display");
 content.innerHTML = obj.instrument;
+
+const content = document.getElementById("content");
+content.innerHTML = "Hello World";
