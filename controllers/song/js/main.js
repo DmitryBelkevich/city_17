@@ -11,22 +11,11 @@ async function main() {
     const songDao = new SongDao();
     const song = await songDao.getById(id);
 
-    // --- set content ---
+    // set content
     const songView = new SongView();
     songView.song = song;
 
     songView.create();;
-
-    // title
-    const title = document.getElementById("title");
-
-    const header1 = document.createElement('h1');
-    header1.textContent = song.title;
-    title.append(header1);
-    
-    const header2 = document.createElement('h2');
-    header2.textContent = song.band;
-    title.append(header2);
   } catch (error) {
     console.error("Ошибка:", error);
   }
