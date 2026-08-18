@@ -76,7 +76,7 @@ export default class Song {
     return this.#voices;
   }
 
-  getInstrument() {
+  getInstruments() {
     return this.#instruments;
   }
 }
