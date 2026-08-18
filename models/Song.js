@@ -5,6 +5,7 @@ export default class Song {
   #text;
   #score;
   #playback;
+  #value;
   
   get id() {
     return this.#id;
