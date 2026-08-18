@@ -8,7 +8,6 @@ const id = urlParams.get('id');
 
 async function main() {
   try {
-    
     const songDao = new SongDao();
     const song = await songDao.getById(id);
 
