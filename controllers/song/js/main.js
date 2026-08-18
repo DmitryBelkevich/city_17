@@ -12,7 +12,7 @@ const songDao = new SongDao();
 
 async function main() {
   try {
-    const song = await songDao.getById(id);// Ожидаем объект
+    const song = await songDao.getById(id);
 
     console.log("--- " + song + " ---");
   } catch (error) {
