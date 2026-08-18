@@ -28,14 +28,14 @@ export default class SongDao {
     // return array Song()
   }
 
-  async getById(id) {
+  async getById(id) {console.log("--- get by id ---");
     const data = await this.loadData();
     const result = data.find(s => s.id == id) || null;
 
     if (!result)
       return null;
 
-    const song = new Song();console.log("--- get by id ---");
+    const song = new Song();
     
     song.id = result.id;
     song.band = result.band;
