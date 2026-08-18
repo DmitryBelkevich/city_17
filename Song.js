@@ -1,10 +1,5 @@
 export default class Song {
-  #id;
-  #band;
-  #title;
-  #text;
-  #score;
-  #playback;
+  
   
   get id() {
     return this.#id;
@@ -46,11 +41,11 @@ export default class Song {
     this.#score = score;
   }
 
-  get playbacks() {
+  get playback() {
     return this.#playback;
   }
 
-  set playbacks(playback) {
+  set playback(playback) {
     this.#playback = playback;
   }
 }
