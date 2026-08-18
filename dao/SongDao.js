@@ -33,8 +33,13 @@ export default class SongDao {
 
     if (!result)
       return null;
-      
-    song = new Song(result.id, result.band, result.title, result.text, result.score, result.playback);
+
+    song.id = result.id;
+    song.band = result.band;
+    song.title = result.title;
+    song.text = result.text;
+    song.score = result.score;
+    song.playback = result.playback;
     
     return song;
   }
