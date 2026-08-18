@@ -1,7 +1,7 @@
-// import Song from './Song.js';
+import Song from './Song.js';
 
-// const song = new Song('Polina');
-// console.log(song.sayHello());
+const song = new Song('Polina');
+console.log(song.sayHello());
 
 const user = {
     name: "Alex Rivera",
