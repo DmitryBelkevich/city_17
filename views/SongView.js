@@ -2,7 +2,6 @@ export default class SongView {
   #song;
 
   set song(song) {
-    console.log("setter");
     this.#song = song;
   }
   
