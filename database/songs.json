@@ -160,9 +160,18 @@
     "score": "",
     "playback": "",
     "visible": "true"
-  },
+  },,
   {
     "id": "19",
+    "band": "Кипелов", "title": "Я свободен!",
+    "genre": "Metal",
+    "text": "Metal/Кипелов/Кипелов - Я свободен! (bass).html",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "20",
     "band": "Слот", "title": "Круги на воде",
     "genre": "Metal",
     "text": "Metal/Слот/Слот - Круги на воде.html",
@@ -171,7 +180,7 @@
     "visible": "true"
   },
   {
-    "id": "20",
+    "id": "21",
     "band": "Эпидемия", "title": "Всадник из льда",
     "genre": "Metal",
     "text": "Metal/Эпидемия/Эпидемия - Всадник из льда.html",
@@ -180,7 +189,7 @@
     "visible": "true"
   },
   {
-    "id": "21",
+    "id": "22",
     "band": "Эпидемия", "title": "Эпилог",
     "genre": "Metal",
     "text": "Metal/Эпидемия/Эпидемия - Эпилог.html",
