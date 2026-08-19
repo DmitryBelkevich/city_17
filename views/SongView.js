@@ -39,7 +39,7 @@ export default class SongView {
   async loadData(path) {
     try {
       // 1. Wait for the server headers and response status
-      const response = await fetch(path);
+      const response = await fetch("https://dmitrybelkevich.github.io/city_17/storage/" + path);
       
       // 2. Check if the HTTP status code is successful (200-299)
       if (!response.ok) {
