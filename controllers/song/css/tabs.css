@@ -1,1 +1,17 @@
+#tabs {
+  border: 1px solid black;
 
+  padding: 0px;
+  margin: 0px;
+}
+
+#tabs {
+  .tab {
+    font-size: 30px;
+    
+    width: 30%;
+    box-sizing: border-box;
+    
+    padding: 10px 0px;
+  }
+}
