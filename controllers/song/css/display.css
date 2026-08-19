@@ -1,4 +1,6 @@
 #display {
+  border: 1px solid black;
+  
   color: white;
   background-color: darkgrey;
 }
