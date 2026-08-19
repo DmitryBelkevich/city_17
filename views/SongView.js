@@ -8,6 +8,7 @@ export default class SongView {
   create() {
     this.setDisplay();
     this.setTitle();
+    this.setText();
   }
   
   setDisplay() {
@@ -25,5 +26,9 @@ export default class SongView {
     const header2 = document.createElement('h2');
     header2.textContent = this.#song.band;
     title.append(header2);
+  }
+
+  setText() {
+    console.log("set text");
   }
 }
