@@ -15,7 +15,8 @@ export default class SongView {
 
   setPageTitle() {
     const element = document.title;
-    element.innerHTML = this.#song.band + " " + this.#song.title;
+    const title = this.#song.band + " - " + this.#song.title;
+    element.innerHTML = title;
   }
   
   setDisplay() {
