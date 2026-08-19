@@ -17,21 +17,23 @@ export default class SongView {
   }
 
   setTitle() {
-    const title = document.getElementById("title");
+    const element = document.getElementById("title");
 
-    const header1 = document.createElement('h1');
-    header1.textContent = this.#song.title;
-    title.append(header1);
+    const element_h1 = document.createElement('h1');
+    element_h1.textContent = this.#song.title;
+    element.append(element_h1);
     
-    const header2 = document.createElement('h2');
-    header2.textContent = this.#song.band;
-    title.append(header2);
+    const element_h2 = document.createElement('h2');
+    element_h2.textContent = this.#song.band;
+    element.append(element_h2);
   }
 
   async setText() {
     // Fetch the external HTML file
     const data = await this.loadData(this.#song.text);
-    console.log(data);
+    
+    const element = document.getElementById("text");
+    element.innerHTML = data;
   }
 
   async loadData(path) {
