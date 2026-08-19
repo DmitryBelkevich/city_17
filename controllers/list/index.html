@@ -9,8 +9,9 @@
     <link rel="stylesheet" href="css/main.css">
 
     <script defer>
-      function onSong() {
-        console.log("onSong");
+      function onSong(id) {
+        const link = "https://dmitrybelkevich.github.io/city_17/controllers/song/?id=" + id;
+        window.open(link);
       }
     </script>
   </head>
@@ -19,11 +20,10 @@
     <div class="genre">Metal</div>
     
     <div class="song">
-      <button onclick="onSong()">
+      <button onclick="onSong(1)">
         <div>Nothing Else Matters</div>
         <div>Metallica</div>
       </button>
-      <a href="https://dmitrybelkevich.github.io/city_17/controllers/song/?id=1">Guitar</a>
     </div>
     
     <div class="genre">Rock, Punk</div>
