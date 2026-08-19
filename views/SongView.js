@@ -6,14 +6,21 @@ export default class SongView {
   }
 
   create() {
+    this.setPageTitle();
+    
     this.setDisplay();
     this.setTitle();
     this.setText();
   }
+
+  setPageTitle() {
+    const element = document.title;
+    element.innerHTML = this.#song.band + " " + this.#song.title;
+  }
   
   setDisplay() {
-    const display = document.getElementById("display");
-    display.innerHTML = this.#song.getVoice(0) + " " + this.#song.getInstrument(0);
+    const element = document.getElementById("display");
+    element.innerHTML = this.#song.getVoice(0) + " " + this.#song.getInstrument(0);
   }
 
   setTitle() {
