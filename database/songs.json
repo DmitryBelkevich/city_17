@@ -1,6 +1,15 @@
 [
   {
     "id": "1",
+    "band": "Metallica", "title": "Nothing Else Matters",
+    "genre": "Metal",
+    "text": "Metal/Metallica/Metallica - Nothing Else Matters.html",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "2",
     "band": "Михаил Круг", "title": "Владимирский централ",
     "genre": "Chanson",
     "text": "Chanson/Михаил Круг/Михаил Круг - Владимирский централ.html",
@@ -9,39 +18,39 @@
     "visible": "true"
   },
   {
-    "id": "2",
-    "band": "Кино", "title": "Пачка сигарет",
-    "genre": "Rock, Punk",
-    "text": "Альянс - На заре.html",
-    "score": "link2",
-    "playback": "link3",
-    "visible": "true"
-  },
-  {
     "id": "3",
-    "band": "Король и Шут", "title": "Воспоминание о былой любви",
-    "genre": "Rock, Punk",
-    "text": "Альянс - На заре.html",
-    "score": "link2",
-    "playback": "link3",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
     "visible": "true"
   },
   {
     "id": "4",
-    "band": "Порнофильмы", "title": "Я так соскучился",
-    "genre": "Rock, Punk",
-    "text": "Альянс - На заре.html",
-    "score": "link2",
-    "playback": "link3",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
     "visible": "true"
   },
   {
     "id": "5",
-    "band": "Земфира", "title": "Искала",
-    "genre": "Rock, Punk",
-    "text": "Альянс - На заре.html",
-    "score": "link2",
-    "playback": "link3",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "6",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
     "visible": "true"
   }
 ]
