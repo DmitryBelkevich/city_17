@@ -30,7 +30,7 @@ export default class SongView {
 
   async setText() {
     // Fetch the external HTML file
-    const data = await loadData(this.#song.text);
+    const data = await this.loadData(this.#song.text);
     console.log(data);
   }
 
