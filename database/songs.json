@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "band": "Metallica", "title": "Nothing Else Matters",
+    "band": "Metallica", "title": "No Leaf Clover",
     "genre": "Metal",
     "text": "Metal/Metallica/Metallica - Nothing Else Matters.html",
     "score": "",
@@ -10,33 +10,187 @@
   },
   {
     "id": "2",
-    "band": "Михаил Круг", "title": "Владимирский централ",
-    "genre": "Chanson",
-    "text": "Chanson/Михаил Круг/Михаил Круг - Владимирский централ.html",
-    "score": "link2",
-    "playback": "link3",
+    "band": "Metallica", "title": "Nothing Else Matters",
+    "genre": "Metal",
+    "text": "Metal/Metallica/Metallica - Nothing Else Matters.html",
+    "score": "",
+    "playback": "",
     "visible": "true"
   },
   {
     "id": "3",
-    "band": "", "title": "",
-    "genre": "",
-    "text": "",
+    "band": "Metallica", "title": "The Unforgiven",
+    "genre": "Metal",
+    "text": "Metal/Metallica/Metallica - The Unforgiven.html",
     "score": "",
     "playback": "",
     "visible": "true"
   },
   {
     "id": "4",
-    "band": "", "title": "",
-    "genre": "",
-    "text": "",
+    "band": "Rammstein", "title": "Frühling in Paris",
+    "genre": "Metal",
+    "text": "Metal/Rammstein/Rammstein - Frühling in Paris.html",
     "score": "",
     "playback": "",
     "visible": "true"
   },
   {
     "id": "5",
+    "band": "Rammstein", "title": "Mutter",
+    "genre": "Metal",
+    "text": "Metal/Rammstein/Rammstein - Mutter.html",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "6",
+    "band": "Rammstein", "title": "Sonne",
+    "genre": "Metal",
+    "text": "Metal/Rammstein/Rammstein - Sonne.html",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "7",
+    "band": "System of a Down", "title": "Aerials",
+    "genre": "Metal",
+    "text": "Metal/System of a Down/System of a Down - Aerials.html",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "8",
+    "band": "System of a Down", "title": "Chop Suey!",
+    "genre": "Metal",
+    "text": "Metal/System of a Down/System of a Down - Chop Suey!.html",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "9",
+    "band": "System of a Down", "title": "Lonely Day",
+    "genre": "Metal",
+    "text": "Metal/System of a Down/System of a Down - Lonely Day.html",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "10",
+    "band": "System of a Down", "title": "Toxicity",
+    "genre": "Metal",
+    "text": "Metal/System of a Down/System of a Down - Toxicity.html",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "11",
+    "band": "Stigmata", "title": "Сентябрь",
+    "genre": "Metal",
+    "text": "Metal/Stigmata/Stigmata - Сентябрь.html",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "12",
+    "band": "Ария", "title": "Беспечный ангел",
+    "genre": "Metal",
+    "text": "Metal/Ария/Ария - Беспечный ангел.html",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "13",
+    "band": "Ария", "title": "Осколок льда",
+    "genre": "Metal",
+    "text": "Metal/Ария/Ария - Осколок льда.html",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "14",
+    "band": "Ария", "title": "Свобода",
+    "genre": "Metal",
+    "text": "Metal/Ария/Ария - Свобода.html",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "15",
+    "band": "Ария", "title": "Там высоко",
+    "genre": "Metal",
+    "text": "Metal/Ария/Ария - Там высоко.html",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "16",
+    "band": "Ария", "title": "Улица роз",
+    "genre": "Metal",
+    "text": "Metal/Ария/Ария - Улица роз.html",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "17",
+    "band": "Ария", "title": "Штиль",
+    "genre": "Metal",
+    "text": "Metal/Ария/Ария - Штиль.html",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "18",
+    "band": "Кипелов", "title": "Я свободен!",
+    "genre": "Metal",
+    "text": "Metal/Кипелов/Кипелов - Я свободен!.html",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "19",
+    "band": "Слот", "title": "Круги на воде",
+    "genre": "Metal",
+    "text": "Metal/Слот/Слот - Круги на воде.html",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "20",
+    "band": "Эпидемия", "title": "Всадник из льда",
+    "genre": "Metal",
+    "text": "Metal/Эпидемия/Эпидемия - Всадник из льда.html",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "21",
+    "band": "Эпидемия", "title": "Эпилог",
+    "genre": "Metal",
+    "text": "Metal/Эпидемия/Эпидемия - Эпилог.html",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  
+  {
+    "id": "",
     "band": "", "title": "",
     "genre": "",
     "text": "",
@@ -45,7 +199,88 @@
     "visible": "true"
   },
   {
-    "id": "6",
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
     "band": "", "title": "",
     "genre": "",
     "text": "",
