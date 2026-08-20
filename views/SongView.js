@@ -24,10 +24,16 @@ export default class SongView {
     });
     
     document.getElementById("tab_score").addEventListener("click", () => {
+      if (!this.#song.score)
+        return;
+      
       window.open(this.#song.score, "_blank");
     });
     
     document.getElementById("tab_playback").addEventListener("click", () => {
+      if (!this.#song.playback)
+        return;
+      
       window.open(this.#song.playback, "_blank");
     });
   }
