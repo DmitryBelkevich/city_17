@@ -19,10 +19,13 @@ export default class SongView {
   }
 
   setTabs() {
-    const score = this.#song.score;
-    const playback = this.#song.playback;
+    document.getElementById("scoreTab").addEventListener("click", () => {
+      window.open(this.#song.score, "_blank");
+    });
 
-    console.log(playback);
+    document.getElementById("playbackTab").addEventListener("click", () => {
+      window.open(this.#song.playback, "_blank");
+    });
   }
   
   setDisplay() {
