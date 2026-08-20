@@ -16,7 +16,17 @@
     
     <script type="module" src="js/main.js" defer></script>
     <script defer>
-      console.log("Hello World");
+      function onText() {
+        console.log("onText");
+      }
+
+      function onScore() {
+        console.log("onScore");
+      }
+
+      function onPlayback() {
+        window.open("https://drive.google.com/drive/folders/1iCS1jN_MQllmKL43_uuzOy8LJ6eeqCQT?usp=drive_link", "_blank");
+      }
     </script>
   </head>
   
@@ -30,7 +40,7 @@
     <div id="title"></div>
     
     <div id="tabs">
-      <button class="tab" onclick="window.location.href = 'https://drive.google.com/drive/folders/1iCS1jN_MQllmKL43_uuzOy8LJ6eeqCQT?usp=drive_link'">📝 Text & Chords</button>
+      <button class="tab" onclick="onText()">📝 Text & Chords</button>
       <button class="tab" onclick="onScore()">🎵 Scores</button>
       <button class="tab" onclick="onPlayback()">🎧 Playbacks</button>
     </div>
