@@ -10,7 +10,7 @@ export default class SongView {
     
     this.setDisplay();
     this.setTitle();
-    this.setTabs();
+    // this.setTabs();
     this.setText();
   }
 
@@ -19,10 +19,10 @@ export default class SongView {
   }
 
   setTabs() {
-    const score = song.score;
-    const playback = song.playback;
+    // const score = song.score;
+    // const playback = song.playback;
 
-    console.log(playback);
+    // console.log(playback);
   }
   
   setDisplay() {
