@@ -1,7 +1,8 @@
 #title {
-  border: 1px solid black;
-  
   margin: 0px;
+  padding: 0px;
+  
+  border: 1px solid black;
   
   h1 {
     font-size: 50px;
