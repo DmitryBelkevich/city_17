@@ -22,7 +22,3 @@ async function main() {
 }
 
 main();
-
-function hello() {
-  console.log("Hello World");
-}
