@@ -1,10 +1,10 @@
 export default class SongView {
   #song;
-
+  
   set song(song) {
     this.#song = song;
   }
-
+  
   create() {
     this.setPageTitle();
     
@@ -13,17 +13,21 @@ export default class SongView {
     this.setTabs();
     this.setText();
   }
-
+  
   setPageTitle() {
     document.title = this.#song.band + " - " + this.#song.title;
   }
-
+  
   setTabs() {
-    document.getElementById("scoreTab").addEventListener("click", () => {
+    document.getElementById("tab_text").addEventListener("click", () => {
+      console.log("open text tab");
+    });
+    
+    document.getElementById("tab_score").addEventListener("click", () => {
       window.open(this.#song.score, "_blank");
     });
-
-    document.getElementById("playbackTab").addEventListener("click", () => {
+    
+    document.getElementById("tab_playback").addEventListener("click", () => {
       window.open(this.#song.playback, "_blank");
     });
   }
@@ -32,10 +36,10 @@ export default class SongView {
     const element = document.getElementById("display");
     element.innerHTML = this.#song.getVoice(0) + " " + this.#song.getInstrument(0);
   }
-
+  
   setTitle() {
     const element = document.getElementById("title");
-
+    
     const element_h1 = document.createElement('h1');
     element_h1.textContent = this.#song.title;
     element.append(element_h1);
@@ -44,7 +48,7 @@ export default class SongView {
     element_h2.textContent = this.#song.band;
     element.append(element_h2);
   }
-
+  
   async setText() {
     // Fetch the external HTML file
     const data = await this.loadData(this.#song.text);
@@ -52,7 +56,7 @@ export default class SongView {
     const element = document.getElementById("text");
     element.innerHTML = data;
   }
-
+  
   async loadData(path) {
     const storage = "https://dmitrybelkevich.github.io/city_17/storage/";
     
