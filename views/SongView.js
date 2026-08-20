@@ -10,11 +10,19 @@ export default class SongView {
     
     this.setDisplay();
     this.setTitle();
+    this.setTabs();
     this.setText();
   }
 
   setPageTitle() {
     document.title = this.#song.band + " - " + this.#song.title;
+  }
+
+  setTabs() {
+    const score = song.score;
+    const playback = song.playback;
+
+    console.log(playback);
   }
   
   setDisplay() {
