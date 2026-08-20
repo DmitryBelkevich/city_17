@@ -15,19 +15,6 @@
     <link rel="stylesheet" href="css/footer.css">
     
     <script type="module" src="js/main.js" defer></script>
-    <script defer>
-      function onText() {
-        console.log("onText");
-      }
-
-      function onScore() {
-        console.log("onScore");
-      }
-
-      function onPlayback() {
-        window.open("https://drive.google.com/drive/folders/1iCS1jN_MQllmKL43_uuzOy8LJ6eeqCQT?usp=drive_link", "_blank");
-      }
-    </script>
   </head>
   
   <body>
@@ -40,9 +27,9 @@
     <div id="title"></div>
     
     <div id="tabs">
-      <button class="tab" onclick="onText()">📝 Text & Chords</button>
-      <button class="tab" onclick="onScore()">🎵 Scores</button>
-      <button class="tab" onclick="onPlayback()">🎧 Playbacks</button>
+      <button id="button1" class="tab">📝 Text & Chords</button>
+      <button id="button2" class="tab">🎵 Scores</button>
+      <button id="button3" class="tab">🎧 Playbacks</button>
     </div>
     
     <div id="tuning"></div>
