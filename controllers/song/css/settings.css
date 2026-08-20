@@ -4,3 +4,10 @@
   
   border: 1px solid black;
 }
+
+#settings {
+  button {
+    margin: 0px;
+    padding: 10px;
+  }
+}
