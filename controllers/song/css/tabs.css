@@ -8,6 +8,8 @@
 
 #tabs {
   .tab {
+    background-color: white;
+    
     font-size: 30px;
     
     width: 30%;
