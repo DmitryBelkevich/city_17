@@ -211,7 +211,7 @@
   
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Guns N’ Roses - Don't Cry",
     "genre": "",
     "text": "",
     "score": "",
@@ -220,7 +220,8 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "H.I.M. - Join Me In Death",
+    "tags": ["HIM", "ХИМ"],
     "genre": "",
     "text": "",
     "score": "",
@@ -229,7 +230,7 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Joan Osborne - One of Us",
     "genre": "",
     "text": "",
     "score": "",
@@ -238,7 +239,8 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Leonard Cohen - Hallelujah",
+    "tags": ["аллилуйя"],
     "genre": "",
     "text": "",
     "score": "",
@@ -247,7 +249,7 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Linkin Park - Numb",
     "genre": "",
     "text": "",
     "score": "",
@@ -256,7 +258,7 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Nirvana - Smells Like Teen Spirit",
     "genre": "",
     "text": "",
     "score": "",
@@ -265,7 +267,7 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "No Doubt - Don't Speak",
     "genre": "",
     "text": "",
     "score": "",
@@ -274,7 +276,7 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Radiohead - Creep",
     "genre": "",
     "text": "",
     "score": "",
@@ -286,6 +288,618 @@
     "band": "Михаил Круг", "title": "Владимирский централ",
     "genre": "Chanson",
     "text": "Chanson/Михаил Круг/Михаил Круг - Владимирский централ.html",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "",
+    "genre": "",
+    "text": "",
     "score": "",
     "playback": "",
     "visible": "true"
