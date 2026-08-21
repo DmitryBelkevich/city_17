@@ -3697,5 +3697,14 @@
     "score": "",
     "playback": "",
     "visible": "true"
+  },
+  {
+    "id": "0",
+    "band": "Band", "title": "Title",
+    "genre": "New Year",
+    "text": "Template.html",
+    "score": "",
+    "playback": "",
+    "visible": "true"
   }
 ]
