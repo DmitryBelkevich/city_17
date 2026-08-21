@@ -11,6 +11,7 @@ export default class SongView {
     this.setDisplay();
     this.setTitle();
     this.setTabs();
+    this.setTuning();
     this.setText();
   }
   
@@ -36,6 +37,11 @@ export default class SongView {
       
       window.open(this.#song.playback, "_blank");
     });
+  }
+
+  setTuning() {
+    const element = document.getElementById("tuning");
+    element.innerHTML = "Guitar tuning:" + this.#song.tuning;
   }
   
   setDisplay() {
