@@ -2371,7 +2371,7 @@
   
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Ace of Base - Happy Nation",
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2380,7 +2380,8 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Céline Dion - My Heart Will Go On",
+    "tags": ["селин дион", "celine dion"],
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2389,7 +2390,7 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "MilleniumKid, Jbs - Vielleicht Vielleicht",
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2398,7 +2399,7 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "30.02 - Звёзды в лужах",
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2407,7 +2408,16 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "30.02 - Звёзды в лужах",
+    "genre": "Pop, Dance",
+    "text": "(bass)",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "DaBro - Юность",
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2416,7 +2426,17 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "DaBro - Юность",
+    "genre": "Pop, Dance",
+    "text": "(bass)",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "Demo - Солнышко",
+    "tags": ["Демо"],
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2425,7 +2445,7 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "IOWA - Бьёт Бит",
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2434,7 +2454,7 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "IOWA - Улыбайся",
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2443,7 +2463,8 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "LOBODA - 40 Градусов",
+    "tags": ["Лобода"],
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2452,7 +2473,8 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "LOBODA - Твои глаза",
+    "tags": ["Лобода"],
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2461,7 +2483,7 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Mr. Credo - Сегодня в белом танце кружимся",
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2470,7 +2492,8 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Rauf & Faik - 5 минут",
+    "tags": ["рауф", "фаик"],
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2479,7 +2502,8 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Rauf & Faik - Вечера",
+    "tags": ["рауф", "фаик"],
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2488,7 +2512,8 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Rauf & Faik - Детство",
+    "tags": ["рауф", "фаик"],
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2497,7 +2522,8 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Rauf & Faik - Колыбельная",
+    "tags": ["рауф", "фаик"],
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2506,7 +2532,8 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "t.A.T.u. - Люди-инвалиды",
+    "tags": ["tatu", "тату"],
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2515,7 +2542,8 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "t.A.T.u. - Нас не догонят",
+    "tags": ["tatu", "тату"],
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2524,7 +2552,8 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "t.A.T.u. - Не верь, не бойся, не проси",
+    "tags": ["tatu", "тату"],
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2533,7 +2562,8 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "t.A.T.u. - Покажи мне любовь",
+    "tags": ["tatu", "тату"],
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2542,7 +2572,8 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "t.A.T.u. - Я сошла с ума",
+    "tags": ["tatu", "тату"],
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2551,7 +2582,8 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Zoloto - Непроизошло",
+    "tags": ["золото"],
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2560,7 +2592,7 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Акула - Такая любовь",
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2569,7 +2601,7 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Андрей Губин - Девушки как звёзды",
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2578,7 +2610,7 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Андрей Губин - Лиза",
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2587,7 +2619,7 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Андрей Губин - Мальчик-бродяга",
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2596,7 +2628,7 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Андрей Губин - Ночь",
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2605,7 +2637,7 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Валерий Меладзе - Вера",
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2614,7 +2646,7 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Валерий Меладзе - Девушки из высшего общества",
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2623,7 +2655,7 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Валерий Меладзе - Иностранец",
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2632,7 +2664,7 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Валерий Меладзе - Красиво",
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2641,7 +2673,7 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Валерий Меладзе - Магдалина",
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2650,7 +2682,7 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Валерий Меладзе - Не тревожь мне душу скрипка",
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2659,7 +2691,7 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Валерий Меладзе - Небеса",
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2668,7 +2700,7 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Валерий Меладзе - Параллельные",
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2677,7 +2709,7 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Валерий Меладзе - Салют, Вера",
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2686,7 +2718,7 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Валерий Меладзе - Самба белого мотылька",
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2695,7 +2727,7 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Валерий Меладзе - Се ля ви",
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2704,7 +2736,7 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Валерий Меладзе - Сэра",
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2713,7 +2745,7 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Валерий Меладзе - Текила-любовь",
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2722,7 +2754,7 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Валерий Меладзе, Вахтанг - Свет уходящего Солнца",
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2731,7 +2763,7 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Валерий Меладзе, ВИА Гра - Океан и три реки",
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2740,7 +2772,7 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Валерий Меладзе, ВИА Гра - Притяженья больше нет",
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2749,7 +2781,7 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Иванушки International - Где-то",
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2758,7 +2790,7 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Иванушки International - Кукла",
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2767,7 +2799,7 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Иванушки International - Тополиный пух",
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2776,7 +2808,7 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Иванушки International - Тучи",
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2785,7 +2817,7 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Ласковый май - Белые розы",
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2794,7 +2826,7 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Ласковый май - Детство",
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2803,7 +2835,7 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Ласковый май - Розовый вечер",
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2812,7 +2844,7 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Ласковый май - Седая ночь",
     "genre": "Pop, Dance",
     "text": "",
     "score": "",
@@ -2821,9 +2853,184 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
+    "band": "", "title": "Линда - Мало огня",
     "genre": "Pop, Dance",
     "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "МакSим - Знаешь ли ты",
+    "tags": ["Максим"],
+    "genre": "Pop, Dance",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "МакSим - Не отдам",
+    "tags": ["Максим"],
+    "genre": "Pop, Dance",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": " Максим Фадеев - Танцы на стёклах",
+    "genre": "Pop, Dance",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "Мираж - Музыка нас связала",
+    "genre": "Pop, Dance",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "Мираж - Новый герой",
+    "genre": "Pop, Dance",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "Моя Мишель - Ветер меняет направление",
+    "genre": "Pop, Dance",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "Моя Мишель - Зима в сердце",
+    "genre": "Pop, Dance",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "Нэнси - Дым сигарет с ментолом",
+    "tags": ["ненси"],
+    "genre": "Pop, Dance",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "Нэнси - Чистый лист",
+    "tags": ["ненси"],
+    "genre": "Pop, Dance",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "Пицца - Лифт",
+    "genre": "Pop, Dance",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "Пицца - Оружие",
+    "genre": "Pop, Dance",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "Пропаганда - Мелом",
+    "genre": "Pop, Dance",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "Пропаганда - Мелом",
+    "genre": "Pop, Dance",
+    "text": "(bass)",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "Рок-Острова - Ничего не говори",
+    "genre": "Pop, Dance",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "Сладкий сон - На белом покрывале января",
+    "genre": "Pop, Dance",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "Форум - Белая ночь",
+    "genre": "Pop, Dance",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "Хлеб feat. Cream Soda - Плачу на техно",
+    "genre": "Pop, Dance",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "Шура - Ты не верь слезам",
+    "genre": "Pop, Dance",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "Шура - Ты не верь слезам",
+    "genre": "Pop, Dance",
+    "text": "(bass)",
     "score": "",
     "playback": "",
     "visible": "true"
