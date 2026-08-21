@@ -40,16 +40,17 @@ export default class SongView {
   }
 
   setTuning() {
-    const element = document.getElementById("tuning");console.log(!!this.#song.tuning);
+    const element = document.getElementById("tuning");
+    console.log(this.#song.tuning);
 
-    if (!!this.#song.tuning) {
-      element.style.color = "green";
-      element.innerHTML = "Guitar tuning: Standard E " + "[E A D G B E]"
-      return;
-    }
+    // if (!!this.#song.tuning) {
+      // element.style.color = "green";
+      // element.innerHTML = "Guitar tuning: Standard E " + "[E A D G B E]"
+      // return;
+    // }
 
-    element.style.color = "red";
-    element.innerHTML = "Guitar tuning: " + this.#song.tuning;
+    // element.style.color = "red";
+    // element.innerHTML = "Guitar tuning: " + this.#song.tuning;
   }
   
   setDisplay() {
