@@ -214,8 +214,8 @@
     "band": "Guns N’ Roses", "title": "Don't Cry",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Guns N’ Roses/Guns N’ Roses/Guns N’ Roses - Don't Cry.html",
-    "score": "",
-    "playback": "",
+    "score": "https://drive.google.com/file/d/174W1Z8uXUpc9g8jWtNT-0_NjZxtQ9XFB/view?usp=drive_link",
+    "playback": "https://drive.google.com/drive/folders/12VGkAeePdGSKgLKUEV0GGIY9xjMElYiu?usp=drive_link",
     "visible": "true"
   },
   {
@@ -224,8 +224,8 @@
     "tags": ["HIM", "ХИМ"],
     "genre": "Rock, Punk",
     "text": "Rock, Punk/H.I.M/H.I.M. - Join Me In Death.html",
-    "score": "",
-    "playback": "",
+    "score": "https://drive.google.com/file/d/1nj-NwVIBUTvztMpUZO2tvcab6l5A8wOa/view?usp=drive_link",
+    "playback": "https://drive.google.com/drive/folders/1B5SY_1R9RNVxmMqCVjfNGt6mk1JnVHn0?usp=drive_link",
     "visible": "true"
   },
   {
@@ -233,8 +233,19 @@
     "band": "Joan Osborne", "title": "One of Us",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Joan Osborne/Joan Osborne - One of Us.html",
-    "score": "",
-    "playback": "",
+    "score": "https://drive.google.com/file/d/1dNgHW5nIDbkENnTqnzqlzyaFQ2QMss41/view?usp=drive_link",
+    "playback": "https://drive.google.com/drive/folders/1K62TmDpdAO0oKLPLcFJo9BAhR7VzCtc6?usp=drive_link",
+    "visible": "true"
+  },
+  
+  {
+    "id": "403",
+    "band": "Joan Osborne", "title": "One of Us",
+    "genre": "Rock, Punk",
+    "text": "Rock, Punk/Joan Osborne/Joan Osborne - One of Us (bass).html",
+    "score": "https://drive.google.com/file/d/1dNgHW5nIDbkENnTqnzqlzyaFQ2QMss41/view?usp=drive_link",
+    "playback": "https://drive.google.com/drive/folders/1K62TmDpdAO0oKLPLcFJo9BAhR7VzCtc6?usp=drive_link",
+    "tuning": ["capo +2"],
     "visible": "true"
   },
   {
