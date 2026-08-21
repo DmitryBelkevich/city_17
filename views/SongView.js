@@ -43,7 +43,7 @@ export default class SongView {
     const element = document.getElementById("tuning");
 
     if (!this.#song.tuning)
-      return; element.innerHTML = "Guitar tuning: Standard E" + "[E A D G B E]"
+      element.innerHTML = "Guitar tuning: Standard E" + "[E A D G B E]"
     
     element.innerHTML = "Guitar tuning: " + this.#song.tuning;
   }
