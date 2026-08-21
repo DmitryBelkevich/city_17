@@ -2342,8 +2342,37 @@
   
   {
     "id": "",
+    "band": "", "title": "Gary Moore - The Loner",
+    "genre": "Blues",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "Gary Moore - The Prophet",
+    "genre": "Blues",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  
+  {
+    "id": "",
+    "band": "", "title": "Dick Dale, The Del Tones - Misirlou",
+    "genre": "Surf",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  
+  {
+    "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2352,7 +2381,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2361,7 +2390,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2370,7 +2399,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2379,7 +2408,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2388,7 +2417,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2397,7 +2426,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2406,7 +2435,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2415,7 +2444,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2424,7 +2453,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2433,7 +2462,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2442,7 +2471,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2451,7 +2480,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2460,7 +2489,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2469,7 +2498,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2478,7 +2507,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2487,7 +2516,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2496,7 +2525,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2505,7 +2534,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2514,7 +2543,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2523,7 +2552,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2532,7 +2561,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2541,7 +2570,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2550,7 +2579,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2559,7 +2588,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2568,7 +2597,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2577,7 +2606,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2586,7 +2615,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2595,7 +2624,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2604,7 +2633,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2613,7 +2642,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2622,7 +2651,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2631,7 +2660,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2640,7 +2669,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2649,7 +2678,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2658,7 +2687,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2667,7 +2696,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2676,7 +2705,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2685,7 +2714,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2694,7 +2723,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2703,7 +2732,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2712,7 +2741,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2721,7 +2750,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2730,7 +2759,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2739,7 +2768,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2748,7 +2777,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2757,7 +2786,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2766,7 +2795,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2775,7 +2804,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2784,7 +2813,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
@@ -2793,34 +2822,7 @@
   {
     "id": "",
     "band": "", "title": "",
-    "genre": "",
-    "text": "",
-    "score": "",
-    "playback": "",
-    "visible": "true"
-  },
-  {
-    "id": "",
-    "band": "", "title": "",
-    "genre": "",
-    "text": "",
-    "score": "",
-    "playback": "",
-    "visible": "true"
-  },
-  {
-    "id": "",
-    "band": "", "title": "",
-    "genre": "",
-    "text": "",
-    "score": "",
-    "playback": "",
-    "visible": "true"
-  },
-  {
-    "id": "",
-    "band": "", "title": "",
-    "genre": "",
+    "genre": "Pop, Dance",
     "text": "",
     "score": "",
     "playback": "",
