@@ -11,7 +11,7 @@ export default class SongView {
     this.setDisplay();
     this.setTitle();
     this.setTabs();
-    this.setTuning();
+    await this.setTuning();
     this.setText();
   }
   
@@ -39,7 +39,7 @@ export default class SongView {
     });
   }
 
-  setTuning() {
+  async setTuning() {
     const element = document.getElementById("tuning");
     console.log(this.#song.tuning);
 
