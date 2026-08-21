@@ -211,7 +211,7 @@
   
   {
     "id": "23",
-    "band": "", "title": "Guns N’ Roses - Don't Cry",
+    "band": "Guns N’ Roses", "title": "Don't Cry",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Guns N’ Roses/Guns N’ Roses/Guns N’ Roses - Don't Cry.html",
     "score": "",
@@ -220,7 +220,7 @@
   },
   {
     "id": "24",
-    "band": "", "title": "H.I.M. - Join Me In Death",
+    "band": "H.I.M.", "title": "Join Me In Death",
     "tags": ["HIM", "ХИМ"],
     "genre": "Rock, Punk",
     "text": "Rock, Punk/H.I.M/H.I.M. - Join Me In Death.html",
@@ -230,7 +230,7 @@
   },
   {
     "id": "25",
-    "band": "", "title": "Joan Osborne - One of Us",
+    "band": "Joan Osborne", "title": "One of Us",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Joan Osborne/Joan Osborne - One of Us.html",
     "score": "",
@@ -239,7 +239,7 @@
   },
   {
     "id": "26",
-    "band": "", "title": "Leonard Cohen - Hallelujah",
+    "band": "Leonard Cohen", "title": "Hallelujah",
     "tags": ["аллилуйя"],
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Leonard Cohen/Leonard Cohen - Hallelujah.html",
@@ -249,7 +249,7 @@
   },
   {
     "id": "27",
-    "band": "", "title": "Linkin Park - Numb",
+    "band": "Linkin Park", "title": "Numb",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Linkin Park/Linkin Park - Numb.html",
     "score": "",
@@ -258,7 +258,7 @@
   },
   {
     "id": "28",
-    "band": "", "title": "Nirvana - Smells Like Teen Spirit",
+    "band": "Nirvana", "title": "Smells Like Teen Spirit",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Nirvana/Nirvana - Smells Like Teen Spirit.html",
     "score": "",
@@ -267,7 +267,7 @@
   },
   {
     "id": "29",
-    "band": "", "title": "No Doubt - Don't Speak",
+    "band": "No Doubt", "title": " - Don't Speak",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/No Doubt/No Doubt - Don't Speak.html",
     "score": "",
@@ -276,7 +276,7 @@
   },
   {
     "id": "30",
-    "band": "", "title": "Radiohead - Creep",
+    "band": "Radiohead", "title": " - Creep",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Radiohead/Radiohead - Creep.html",
     "score": "",
@@ -285,7 +285,7 @@
   },
   {
     "id": "31",
-    "band": "", "title": "Red Hot Chili Peppers - Californication",
+    "band": "Red Hot Chili Peppers", "title": " - Californication",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Red Hot Chili Peppers/Red Hot Chili Peppers - Californication.html",
     "score": "",
@@ -294,7 +294,7 @@
   },
   {
     "id": "32",
-    "band": "", "title": "Scorpions - Still Loving You",
+    "band": "Scorpions", "title": " - Still Loving You",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Scorpions/Scorpions - Still Loving You.html",
     "score": "",
@@ -303,7 +303,7 @@
   },
   {
     "id": "33",
-    "band": "", "title": "The Beatles - Yesterday",
+    "band": "The Beatles", "title": " - Yesterday",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/The Beatles/The Beatles - Yesterday.html",
     "score": "",
@@ -312,7 +312,7 @@
   },
   {
     "id": "34",
-    "band": "", "title": "The Cranberries - Zombie",
+    "band": "The Cranberries", "title": " - Zombie",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/The Cranberries/The Cranberries - Zombie.html",
     "score": "",
@@ -321,7 +321,7 @@
   },
   {
     "id": "35",
-    "band": "", "title": "The Rolling Stones - Paint It Black",
+    "band": "The Rolling Stones", "title": " - Paint It Black",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/The Rolling Stones/The Rolling Stones - Paint It Black.html",
     "score": "",
@@ -330,7 +330,7 @@
   },
   {
     "id": "36",
-    "band": "", "title": "7Б - Молодые ветра",
+    "band": "7Б", "title": " - Молодые ветра",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/7Б/7Б - Молодые ветра.html",
     "score": "",
@@ -339,7 +339,7 @@
   },
   {
     "id": "37",
-    "band": "", "title": "AP$ENT - Можно я с тобой",
+    "band": "AP$ENT", "title": " - Можно я с тобой",
     "tags": ["Апсент", "Абсент", "apsent"],
     "genre": "Rock, Punk",
     "text": "Rock, Punk/AP$ENT/AP$ENT - Можно я с тобой.html",
@@ -349,7 +349,7 @@
   },
   {
     "id": "38",
-    "band": "", "title": "Animal ДжаZ - Дыши",
+    "band": "Animal ДжаZ", "title": " - Дыши",
     "tags": ["Энимал Джаз"],
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Animal ДжаZ/Animal ДжаZ - Дыши.html",
@@ -359,7 +359,7 @@
   },
   {
     "id": "39",
-    "band": "", "title": "Animal ДжаZ - Три полоски",
+    "band": "Animal ДжаZ", "title": " - Три полоски",
     "tags": ["Энимал Джаз"],
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Animal ДжаZ/Animal ДжаZ - Три полоски.html",
@@ -369,7 +369,7 @@
   },
   {
     "id": "40",
-    "band": "", "title": "Animal ДжаZ - Чувства",
+    "band": "Animal ДжаZ", "title": " - Чувства",
     "tags": ["Энимал Джаз"],
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Animal ДжаZ/Animal ДжаZ - Чувства.html",
@@ -379,7 +379,7 @@
   },
   {
     "id": "41",
-    "band": "", "title": "DREZDEN - Эдельвейс",
+    "band": "DREZDEN", "title": " - Эдельвейс",
     "tags": ["Дрезден"],
     "genre": "Rock, Punk",
     "text": "Rock, Punk/DREZDEN/DREZDEN - Эдельвейс.html",
@@ -389,7 +389,7 @@
   },
   {
     "id": "42",
-    "band": "", "title": "Lumen - Sid & Nancy",
+    "band": "Lumen", "title": " - Sid & Nancy",
     "tags": ["люмен", "сид и ненси", "сид и нэнси"],
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Lumen/Lumen - Sid & Nancy.html",
@@ -399,7 +399,7 @@
   },
   {
     "id": "43",
-    "band": "", "title": "Lumen - Гореть",
+    "band": "Lumen", "title": " - Гореть",
     "tags": ["люмен"],
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Lumen/Lumen - Гореть.html",
@@ -409,7 +409,7 @@
   },
   {
     "id": "44",
-    "band": "", "title": "Lumen - Три пути",
+    "band": "Lumen", "title": " - Три пути",
     "tags": ["люмен"],
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Lumen/Lumen - Три пути.html",
@@ -419,7 +419,7 @@
   },
   {
     "id": "45",
-    "band": "", "title": "Zdob și Zdub - Видели ночь",
+    "band": "Zdob și Zdub", "title": " - Видели ночь",
     "tags": ["здоб ши здуб"],
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Zdob și Zdub/Zdob și Zdub - Видели ночь.html",
@@ -429,7 +429,7 @@
   },
   {
     "id": "46",
-    "band": "", "title": "Агата Кристи - Как на войне",
+    "band": "Агата Кристи", "title": " - Как на войне",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Агата Кристи/Агата Кристи - Как на войне.html",
     "score": "",
@@ -438,7 +438,7 @@
   },
   {
     "id": "47",
-    "band": "", "title": "Агата Кристи - Никогда",
+    "band": "Агата Кристи", "title": " - Никогда",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Агата Кристи/Агата Кристи - Никогда.html",
     "score": "",
@@ -447,7 +447,7 @@
   },
   {
     "id": "48",
-    "band": "", "title": "Аквариум - Город золотой",
+    "band": "Аквариум", "title": " - Город золотой",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Аквариум/Аквариум - Город золотой.html",
     "score": "",
@@ -456,7 +456,7 @@
   },
   {
     "id": "49",
-    "band": "", "title": "Алексей Понамарёв - А мы не ангелы, парень",
+    "band": "Алексей Понамарёв", "title": " - А мы не ангелы, парень",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Алексей Понамарёв/Алексей Понамарёв - А мы не ангелы, парень.html",
     "score": "",
@@ -465,7 +465,7 @@
   },
   {
     "id": "50",
-    "band": "", "title": "Алиса - Трасса Е-95",
+    "band": "Алиса", "title": " - Трасса Е-95",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Алиса/Алиса - Трасса Е-95.html",
     "score": "",
@@ -474,7 +474,7 @@
   },
   {
     "id": "51",
-    "band": "", "title": "Антон Токарев - Седьмой лепесток",
+    "band": "Антон Токарев", "title": " - Седьмой лепесток",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Антон Токарев/Антон Токарев - Седьмой лепесток.html",
     "score": "",
@@ -483,7 +483,7 @@
   },
   {
     "id": "52",
-    "band": "", "title": "АукцЫон - Дорога",
+    "band": "АукцЫон", "title": " - Дорога",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/АукцЫон/АукцЫон - Дорога.html",
     "score": "",
@@ -492,7 +492,7 @@
   },
   {
     "id": "53",
-    "band": "", "title": "Би-2 - Варвара",
+    "band": "Би-2", "title": " - Варвара",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Би-2/Би-2 - Варвара.html",
     "score": "",
@@ -501,7 +501,7 @@
   },
   {
     "id": "54",
-    "band": "", "title": "Би-2 - Компромисс",
+    "band": "Би-2", "title": " - Компромисс",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Би-2/Би-2 - Компромисс.html",
     "score": "",
@@ -510,7 +510,7 @@
   },
   {
     "id": "55",
-    "band": "", "title": "Би-2 - Полковнику никто не пишет",
+    "band": "Би-2", "title": " - Полковнику никто не пишет",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Би-2/Би-2 - Полковнику никто не пишет.html",
     "score": "",
@@ -519,7 +519,7 @@
   },
   {
     "id": "56",
-    "band": "", "title": "Би-2 - Серебро",
+    "band": "Би-2", "title": " - Серебро",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Би-2/Би-2 - Серебро.html",
     "score": "",
@@ -528,7 +528,7 @@
   },
   {
     "id": "57",
-    "band": "", "title": "Би-2, Чичерина - Мой рок-н-ролл",
+    "band": "Би-2, Чичерина", "title": " - Мой рок-н-ролл",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Би-2/Би-2, Чичерина - Мой рок-н-ролл.html",
     "score": "",
@@ -537,7 +537,7 @@
   },
   {
     "id": "58",
-    "band": "", "title": "Божья коровка - Гранитный камушек",
+    "band": "Божья коровка", "title": " - Гранитный камушек",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Божья коровка/Божья коровка - Гранитный камушек.html",
     "score": "",
@@ -546,7 +546,7 @@
   },
   {
     "id": "59",
-    "band": "", "title": "Братья Грим - Кустурица",
+    "band": "Братья Грим", "title": " - Кустурица",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Братья Грим/Братья Грим - Кустурица.html",
     "score": "",
@@ -555,7 +555,7 @@
   },
   {
     "id": "60",
-    "band": "", "title": "Братья Грим - Ресницы",
+    "band": "Братья Грим", "title": " - Ресницы",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Братья Грим/Братья Грим - Ресницы.html",
     "score": "",
@@ -564,7 +564,7 @@
   },
   {
     "id": "61",
-    "band": "", "title": "Валентин Стрыкало - Дешёвые драмы",
+    "band": "Валентин Стрыкало", "title": " - Дешёвые драмы",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Валентин Стрыкало/Валентин Стрыкало - Дешёвые драмы.html",
     "score": "",
@@ -573,7 +573,7 @@
   },
   {
     "id": "62",
-    "band": "", "title": "Валентин Стрыкало - Наше лето",
+    "band": "Валентин Стрыкало", "title": " - Наше лето",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Валентин Стрыкало/Валентин Стрыкало - Наше лето.html",
     "score": "",
@@ -582,7 +582,7 @@
   },
   {
     "id": "63",
-    "band": "", "title": "Ваня Дмитриенко - Венера-Юпитер",
+    "band": "Ваня Дмитриенко", "title": " - Венера-Юпитер",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Ваня Дмитриенко/Ваня Дмитриенко - Венера-Юпитер.html",
     "score": "",
@@ -591,7 +591,7 @@
   },
   {
     "id": "64",
-    "band": "", "title": "Ваня Дмитриенко - Настоящая",
+    "band": "Ваня Дмитриенко", "title": " - Настоящая",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Ваня Дмитриенко/Ваня Дмитриенко - Настоящая.html",
     "score": "",
@@ -600,7 +600,7 @@
   },
   {
     "id": "65",
-    "band": "", "title": "Ваня Дмитриенко - Шёлк",
+    "band": "Ваня Дмитриенко", "title": " - Шёлк",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Ваня Дмитриенко/Ваня Дмитриенко - Шёлк.html",
     "score": "",
@@ -609,7 +609,7 @@
   },
   {
     "id": "66",
-    "band": "", "title": "Город 312 - Вне зоны доступа",
+    "band": "Город 312", "title": " - Вне зоны доступа",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Город 312/Город 312 - Вне зоны доступа.html",
     "score": "",
@@ -618,7 +618,7 @@
   },
   {
     "id": "67",
-    "band": "", "title": "Город 312 - Обернись",
+    "band": "Город 312", "title": " - Обернись",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Город 312/Город 312 - Обернись.html",
     "score": "",
@@ -627,7 +627,7 @@
   },
   {
     "id": "68",
-    "band": "", "title": "Город 312 - Останусь",
+    "band": "Город 312", "title": " - Останусь",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Город 312/Город 312 - Останусь.html",
     "score": "",
@@ -636,7 +636,7 @@
   },
   {
     "id": "69",
-    "band": "", "title": "Город 312 - Фонари",
+    "band": "Город 312", "title": " - Фонари",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Город 312/Город 312 - Фонари.html",
     "score": "",
@@ -645,7 +645,7 @@
   },
   {
     "id": "70",
-    "band": "", "title": "Градусы - Голая",
+    "band": "Градусы", "title": " - Голая",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Градусы/Градусы - Голая.html",
     "score": "",
@@ -654,7 +654,7 @@
   },
   {
     "id": "71",
-    "band": "", "title": "Градусы - Научиться бы не париться",
+    "band": "Градусы", "title": " - Научиться бы не париться",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Градусы/Градусы - Научиться бы не париться.html",
     "score": "",
@@ -663,7 +663,7 @@
   },
   {
     "id": "72",
-    "band": "", "title": "Градусы - Режиссёр",
+    "band": "Градусы", "title": " - Режиссёр",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Градусы/Градусы - Режиссёр.html",
     "score": "",
@@ -672,7 +672,7 @@
   },
   {
     "id": "73",
-    "band": "", "title": "Гражданская оборона - Всё идёт по плану",
+    "band": "Гражданская оборона", "title": " - Всё идёт по плану",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Гражданская оборона/Гражданская оборона - Всё идёт по плану.html",
     "score": "",
@@ -681,7 +681,7 @@
   },
   {
     "id": "74",
-    "band": "", "title": "Гражданская оборона - Мы идём в тишине",
+    "band": "Гражданская оборона", "title": " - Мы идём в тишине",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Гражданская оборона/Гражданская оборона - Мы идём в тишине.html",
     "score": "",
@@ -690,7 +690,7 @@
   },
   {
     "id": "75",
-    "band": "", "title": "Гражданская оборона - Про дурачка",
+    "band": "Гражданская оборона", "title": " - Про дурачка",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Гражданская оборона/Гражданская оборона - Про дурачка.html",
     "score": "",
@@ -699,7 +699,7 @@
   },
   {
     "id": "76",
-    "band": "", "title": "ДДТ - В последнюю осень",
+    "band": "ДДТ", "title": " - В последнюю осень",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/ДДТ/ДДТ - В последнюю осень.html",
     "score": "",
@@ -708,7 +708,7 @@
   },
   {
     "id": "77",
-    "band": "", "title": "ДДТ - Метель",
+    "band": "ДДТ", "title": " - Метель",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/ДДТ/ДДТ - Метель.html",
     "score": "",
@@ -717,7 +717,7 @@
   },
   {
     "id": "78",
-    "band": "", "title": "ДДТ - Осенняя",
+    "band": "ДДТ", "title": " - Осенняя",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/ДДТ/ДДТ - Осенняя.html",
     "score": "",
@@ -726,7 +726,7 @@
   },
   {
     "id": "79",
-    "band": "", "title": "ДДТ - Пацаны",
+    "band": "ДДТ", "title": " - Пацаны",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/ДДТ/ДДТ - Пацаны.html",
     "score": "",
@@ -735,7 +735,7 @@
   },
   {
     "id": "80",
-    "band": "", "title": "ДДТ - Песня о свободе",
+    "band": "ДДТ", "title": " - Песня о свободе",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/ДДТ/ДДТ - Песня о свободе.html",
     "score": "",
@@ -744,7 +744,7 @@
   },
   {
     "id": "81",
-    "band": "", "title": "ДДТ - Песня о свободе",
+    "band": "ДДТ", "title": " - Песня о свободе",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/ДДТ/ДДТ - Песня о свободе (bass).html",
     "score": "",
@@ -753,7 +753,7 @@
   },
   {
     "id": "82",
-    "band": "", "title": "ДДТ - Просвистела",
+    "band": "ДДТ", "title": " - Просвистела",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/ДДТ/ДДТ - Просвистела.html",
     "score": "",
@@ -762,7 +762,7 @@
   },
   {
     "id": "83",
-    "band": "", "title": "ДДТ - Просвистела",
+    "band": "ДДТ", "title": " - Просвистела",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/ДДТ/ДДТ - Просвистела (bass).html",
     "score": "",
@@ -771,7 +771,7 @@
   },
   {
     "id": "84",
-    "band": "", "title": "ДДТ - Что такое осень",
+    "band": "ДДТ", "title": " - Что такое осень",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/ДДТ/ДДТ - Что такое осень.html",
     "score": "",
@@ -780,7 +780,7 @@
   },
   {
     "id": "85",
-    "band": "", "title": "ДДТ - Это всё...",
+    "band": "ДДТ", "title": " - Это всё...",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/ДДТ/ДДТ - Это всё....html",
     "score": "",
@@ -789,7 +789,7 @@
   },
   {
     "id": "86",
-    "band": "", "title": "Жуки - Батарейка",
+    "band": "Жуки", "title": " - Батарейка",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Жуки/Жуки - Батарейка.html",
     "score": "",
@@ -798,7 +798,7 @@
   },
   {
     "id": "87",
-    "band": "", "title": "Жуки - Влечение",
+    "band": "Жуки", "title": " - Влечение",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Жуки/Жуки - Влечение.html",
     "score": "",
@@ -807,7 +807,7 @@
   },
   {
     "id": "88",
-    "band": "", "title": "Звери - Всё, что касается",
+    "band": "Звери", "title": " - Всё, что касается",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Звери/Звери - Всё, что касается.html",
     "score": "",
@@ -816,7 +816,7 @@
   },
   {
     "id": "89",
-    "band": "", "title": "Звери - До скорой встречи",
+    "band": "Звери", "title": " - До скорой встречи",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Звери/Звери - До скорой встречи.html",
     "score": "",
@@ -825,7 +825,7 @@
   },
   {
     "id": "90",
-    "band": "", "title": "Звери - Дожди-пистолеты",
+    "band": "Звери", "title": " - Дожди-пистолеты",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Звери/Звери - Дожди-пистолеты.html",
     "score": "",
@@ -834,7 +834,7 @@
   },
   {
     "id": "91",
-    "band": "", "title": "Звери - Напитки покрепче",
+    "band": "Звери", "title": " - Напитки покрепче",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Звери/Звери - Напитки покрепче.html",
     "score": "",
@@ -843,7 +843,7 @@
   },
   {
     "id": "92",
-    "band": "", "title": "Звери - Напитки покрепче",
+    "band": "Звери", "title": " - Напитки покрепче",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Звери/Звери - Напитки покрепче (bass).html",
     "score": "",
@@ -852,7 +852,7 @@
   },
   {
     "id": "93",
-    "band": "", "title": "Звери - Просто такая сильная любовь",
+    "band": "Звери", "title": " - Просто такая сильная любовь",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Звери/Звери - Просто такая сильная любовь.html",
     "score": "",
@@ -861,7 +861,7 @@
   },
   {
     "id": "94",
-    "band": "", "title": "Звери - Районы-кварталы",
+    "band": "Звери", "title": " - Районы-кварталы",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Звери/Звери - Районы-кварталы.html",
     "score": "",
@@ -870,7 +870,7 @@
   },
   {
     "id": "95",
-    "band": "", "title": "Земляне - Трава у дома",
+    "band": "Земляне", "title": " - Трава у дома",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Земляне/Земляне - Трава у дома.html",
     "score": "",
@@ -879,7 +879,7 @@
   },
   {
     "id": "96",
-    "band": "", "title": "Zемфира - Ариведерчи",
+    "band": "Zемфира", "title": " - Ариведерчи",
     "tags": ["Земфира", "ариведерчи"],
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Zемфира/Zемфира - Ариведерчи.html",
@@ -889,7 +889,7 @@
   },
   {
     "id": "97",
-    "band": "", "title": "Zемфира - Жить в твоей голове",
+    "band": "Zемфира", "title": " - Жить в твоей голове",
     "tags": ["Земфира"],
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Zемфира/Zемфира - Жить в твоей голове.html",
@@ -899,7 +899,7 @@
   },
   {
     "id": "98",
-    "band": "", "title": "Zемфира - Знак бесконечность",
+    "band": "Zемфира", "title": " - Знак бесконечность",
     "tags": ["Земфира"],
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Zемфира/Zемфира - Знак бесконечность.html",
@@ -909,7 +909,7 @@
   },
   {
     "id": "99",
-    "band": "", "title": "Zемфира - Искала",
+    "band": "Zемфира", "title": " - Искала",
     "tags": ["Земфира"],
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Zемфира/Zемфира - Искала.html",
@@ -919,7 +919,7 @@
   },
   {
     "id": "100",
-    "band": "", "title": "Zемфира - Москва",
+    "band": "Zемфира", "title": " - Москва",
     "tags": ["Земфира"],
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Zемфира/Zемфира - Москва.html",
@@ -929,7 +929,7 @@
   },
   {
     "id": "101",
-    "band": "", "title": "Zемфира - Мы разбиваемся",
+    "band": "Zемфира", "title": " - Мы разбиваемся",
     "tags": ["Земфира"],
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Zемфира/Zемфира - Мы разбиваемся.html",
@@ -939,7 +939,7 @@
   },
   {
     "id": "102",
-    "band": "", "title": "Zемфира - П.М.М.Л.",
+    "band": "Zемфира", "title": " - П.М.М.Л.",
     "tags": ["Земфира", "ппмл", "прости меня моя любовь"],
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Zемфира/Zемфира - П.М.М.Л..html",
@@ -949,7 +949,7 @@
   },
   {
     "id": "103",
-    "band": "", "title": "Zемфира - Ромашки",
+    "band": "Zемфира", "title": " - Ромашки",
     "tags": ["Земфира"],
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Zемфира/Zемфира - Ромашки.html",
@@ -959,7 +959,7 @@
   },
   {
     "id": "104",
-    "band": "", "title": "Zемфира - Хочешь?",
+    "band": "Zемфира", "title": " - Хочешь?",
     "tags": ["Земфира"],
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Zемфира/Zемфира - Хочешь.html",
@@ -969,7 +969,7 @@
   },
   {
     "id": "105",
-    "band": "", "title": "Игорь Корнелюк - Город, которого нет",
+    "band": "Игорь Корнелюк", "title": " - Город, которого нет",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Игорь Корнелюк/Игорь Корнелюк - Город, которого нет.html",
     "score": "",
@@ -978,7 +978,7 @@
   },
   {
     "id": "106",
-    "band": "", "title": "Кино - Апрель",
+    "band": "Кино", "title": " - Апрель",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Кино/Кино - Апрель.html",
     "score": "",
@@ -987,7 +987,7 @@
   },
   {
     "id": "107",
-    "band": "", "title": "Кино - Восьмиклассница",
+    "band": "Кино", "title": " - Восьмиклассница",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Кино/Кино - Восьмиклассница.html",
     "score": "",
@@ -996,7 +996,7 @@
   },
   {
     "id": "108",
-    "band": "", "title": "Кино - Группа крови",
+    "band": "Кино", "title": " - Группа крови",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Кино/Кино - Группа крови.html",
     "score": "",
@@ -1005,7 +1005,7 @@
   },
   {
     "id": "109",
-    "band": "", "title": "Кино - Дерево",
+    "band": "Кино", "title": " - Дерево",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Кино/Кино - Дерево.html",
     "score": "",
@@ -1014,7 +1014,7 @@
   },
   {
     "id": "110",
-    "band": "", "title": "Кино - Игра",
+    "band": "Кино", "title": " - Игра",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Кино/Кино - Игра.html",
     "score": "",
@@ -1023,7 +1023,7 @@
   },
   {
     "id": "111",
-    "band": "", "title": "Кино - Закрой за мной дверь, я ухожу",
+    "band": "Кино", "title": " - Закрой за мной дверь, я ухожу",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Кино/Кино - Закрой за мной дверь, я ухожу.html",
     "score": "",
@@ -1032,7 +1032,7 @@
   },
   {
     "id": "112",
-    "band": "", "title": "Кино - Завтра война",
+    "band": "Кино", "title": " - Завтра война",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Кино/Кино - Завтра война.html",
     "score": "",
@@ -1041,7 +1041,7 @@
   },
   {
     "id": "113",
-    "band": "", "title": "Кино - Звезда",
+    "band": "Кино", "title": " - Звезда",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Кино/Кино - Звезда.html",
     "score": "",
@@ -1050,7 +1050,7 @@
   },
   {
     "id": "114",
-    "band": "", "title": "Кино - Звезда по имени Солнце",
+    "band": "Кино", "title": " - Звезда по имени Солнце",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Кино/Кино - Звезда по имени Солнце.html",
     "score": "",
@@ -1059,7 +1059,7 @@
   },
   {
     "id": "115",
-    "band": "", "title": "Кино - Когда твоя девушка больна",
+    "band": "Кино", "title": " - Когда твоя девушка больна",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Кино/Кино - Когда твоя девушка больна.html",
     "score": "",
@@ -1068,7 +1068,7 @@
   },
   {
     "id": "116",
-    "band": "", "title": "Кино - Кончится лето",
+    "band": "Кино", "title": " - Кончится лето",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Кино/Кино - Кончится лето.html",
     "score": "",
@@ -1077,7 +1077,7 @@
   },
   {
     "id": "117",
-    "band": "", "title": "Кино - Красно-жёлтые дни",
+    "band": "Кино", "title": " - Красно-жёлтые дни",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Кино/Кино - Красно-жёлтые дни.html",
     "score": "",
@@ -1086,7 +1086,7 @@
   },
   {
     "id": "118",
-    "band": "", "title": "Кино - Кукушка",
+    "band": "Кино", "title": " - Кукушка",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Кино/Кино - Кукушка.html",
     "score": "",
@@ -1095,7 +1095,7 @@
   },
   {
     "id": "119",
-    "band": "", "title": "Кино - Легенда",
+    "band": "Кино", "title": " - Легенда",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Кино/Кино - Легенда.html",
     "score": "",
@@ -1104,7 +1104,7 @@
   },
   {
     "id": "120",
-    "band": "", "title": "Кино - Лето",
+    "band": "Кино", "title": " - Лето",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Кино/Кино - Лето.html",
     "score": "",
@@ -1113,7 +1113,7 @@
   },
   {
     "id": "121",
-    "band": "", "title": "Кино - Малыш",
+    "band": "Кино", "title": " - Малыш",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Кино/Кино - Малыш.html",
     "score": "",
@@ -1122,7 +1122,7 @@
   },
   {
     "id": "123",
-    "band": "", "title": "Кино - Мама - Анархия",
+    "band": "Кино", "title": " - Мама - Анархия",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Кино/Кино - Мама - Анархия.html",
     "score": "",
@@ -1131,7 +1131,7 @@
   },
   {
     "id": "124",
-    "band": "", "title": "Кино - Мама, мы все тяжело больны",
+    "band": "Кино", "title": " - Мама, мы все тяжело больны",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Кино/Кино - Мама, мы все тяжело больны.html",
     "score": "",
@@ -1140,7 +1140,7 @@
   },
   {
     "id": "125",
-    "band": "", "title": "Кино - Место для шага вперёд",
+    "band": "Кино", "title": " - Место для шага вперёд",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Кино/Кино - Место для шага вперёд.html",
     "score": "",
@@ -1149,7 +1149,7 @@
   },
   {
     "id": "126",
-    "band": "", "title": "Кино - Муравейник",
+    "band": "Кино", "title": " - Муравейник",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Кино/Кино - Муравейник.html",
     "score": "",
@@ -1158,7 +1158,7 @@
   },
   {
     "id": "127",
-    "band": "", "title": "Кино - Нам с тобой",
+    "band": "Кино", "title": " - Нам с тобой",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Кино/Кино - Нам с тобой.html",
     "score": "",
@@ -1167,7 +1167,7 @@
   },
   {
     "id": "128",
-    "band": "", "title": "Кино - Пачка сигарет",
+    "band": "Кино", "title": " - Пачка сигарет",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Кино/Кино - Пачка сигарет.html",
     "score": "",
@@ -1176,7 +1176,7 @@
   },
   {
     "id": "129",
-    "band": "", "title": "Кино - Последний герой",
+    "band": "Кино", "title": " - Последний герой",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Кино/Кино - Последний герой.html",
     "score": "",
@@ -1185,7 +1185,7 @@
   },
   {
     "id": "130",
-    "band": "", "title": "Кино - Песня без слов",
+    "band": "Кино", "title": " - Песня без слов",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Кино/Кино - Песня без слов.html",
     "score": "",
@@ -1194,7 +1194,7 @@
   },
   {
     "id": "131",
-    "band": "", "title": "Кино - Печаль",
+    "band": "Кино", "title": " - Печаль",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Кино/Кино - Печаль.html",
     "score": "",
@@ -1203,7 +1203,7 @@
   },
   {
     "id": "132",
-    "band": "", "title": "Кино - Разреши мне",
+    "band": "Кино", "title": " - Разреши мне",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Кино/Кино - Разреши мне.html",
     "score": "",
@@ -1212,7 +1212,7 @@
   },
   {
     "id": "133",
-    "band": "", "title": "Кино - Раньше в твоих глазах",
+    "band": "Кино", "title": " - Раньше в твоих глазах",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Кино/Кино - Раньше в твоих глазах.html",
     "score": "",
@@ -1221,7 +1221,7 @@
   },
   {
     "id": "134",
-    "band": "", "title": "Кино - Сказка",
+    "band": "Кино", "title": " - Сказка",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Кино/Кино - Сказка.html",
     "score": "",
@@ -1230,7 +1230,7 @@
   },
   {
     "id": "135",
-    "band": "", "title": "Кино - Следи за собой",
+    "band": "Кино", "title": " - Следи за собой",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Кино/Кино - Следи за собой.html",
     "score": "",
@@ -1239,7 +1239,7 @@
   },
   {
     "id": "136",
-    "band": "", "title": "Кино - Спокойная ночь",
+    "band": "Кино", "title": " - Спокойная ночь",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Кино/Кино - Спокойная ночь.html",
     "score": "",
@@ -1248,7 +1248,7 @@
   },
   {
     "id": "137",
-    "band": "", "title": "Кино - Стук",
+    "band": "Кино", "title": " - Стук",
     "tags": ["Одно лишь слово"],
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Кино/Кино - Стук.html",
@@ -1258,7 +1258,7 @@
   },
   {
     "id": "138",
-    "band": "", "title": "Кино - Хочу перемен!",
+    "band": "Кино", "title": " - Хочу перемен!",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Кино/Кино - Хочу перемен!.html",
     "score": "",
@@ -1267,7 +1267,7 @@
   },
   {
     "id": "139",
-    "band": "", "title": "Кино - Электричка",
+    "band": "Кино", "title": " - Электричка",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Кино/Кино - Электричка.html",
     "score": "",
@@ -1276,7 +1276,7 @@
   },
   {
     "id": "140",
-    "band": "", "title": "Кино - Я объявляю свой дом",
+    "band": "Кино", "title": " - Я объявляю свой дом",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Кино/Кино - Я объявляю свой дом.html",
     "score": "",
@@ -1285,7 +1285,7 @@
   },
   {
     "id": "141",
-    "band": "", "title": "Кис-Кис - Молчи",
+    "band": "Кис-Кис", "title": " - Молчи",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Кис-Кис/Кис-Кис - Молчи.html",
     "score": "",
@@ -1294,7 +1294,7 @@
   },
   {
     "id": "142",
-    "band": "", "title": "KIT-I - Осень",
+    "band": "KIT-I", "title": " - Осень",
     "tags": ["Китай"],
     "genre": "Rock, Punk",
     "text": "Rock, Punk/KIT-I/KIT-I - Осень.html",
@@ -1304,7 +1304,7 @@
   },
   {
     "id": "143",
-    "band": "", "title": "Комната культуры - Поезда",
+    "band": "Комната культуры", "title": " - Поезда",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Комната культуры/Комната культуры - Поезда.html",
     "score": "",
@@ -1313,7 +1313,7 @@
   },
   {
     "id": "144",
-    "band": "", "title": "Комната культуры - Самолёты",
+    "band": "Комната культуры", "title": " - Самолёты",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Комната культуры/Комната культуры - Самолёты.html",
     "score": "",
@@ -1322,7 +1322,7 @@
   },
   {
     "id": "145",
-    "band": "", "title": "Король и Шут - Валет и дама",
+    "band": "Король и Шут", "title": " - Валет и дама",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Король и Шут/Король и Шут - Валет и дама.html",
     "score": "",
@@ -1331,7 +1331,7 @@
   },
   {
     "id": "146",
-    "band": "", "title": "Король и Шут - Ведьма и осёл",
+    "band": "Король и Шут", "title": " - Ведьма и осёл",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Король и Шут/Король и Шут - Ведьма и осёл.html",
     "score": "",
@@ -1340,7 +1340,7 @@
   },
   {
     "id": "147",
-    "band": "", "title": "Король и Шут - Внезапная голова",
+    "band": "Король и Шут", "title": " - Внезапная голова",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Король и Шут/Король и Шут - Внезапная голова.html",
     "score": "",
@@ -1349,7 +1349,7 @@
   },
   {
     "id": "148",
-    "band": "", "title": "Король и Шут - Воспоминание о былой любви (Instrumental)",
+    "band": "Король и Шут", "title": " - Воспоминание о былой любви (Instrumental)",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Король и Шут/Король и Шут - Воспоминание о былой любви (Instrumental).html",
     "score": "",
@@ -1358,7 +1358,7 @@
   },
   {
     "id": "149",
-    "band": "", "title": "Король и Шут - Воспоминание о былой любви",
+    "band": "Король и Шут", "title": " - Воспоминание о былой любви",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Король и Шут/Король и Шут - Воспоминание о былой любви.html",
     "score": "",
@@ -1367,7 +1367,7 @@
   },
   {
     "id": "150",
-    "band": "", "title": "Король и Шут - Гимн шута",
+    "band": "Король и Шут", "title": " - Гимн шута",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Король и Шут/Король и Шут - Гимн шута.html",
     "score": "",
@@ -1376,7 +1376,7 @@
   },
   {
     "id": "151",
-    "band": "", "title": "Король и Шут - Два вора и монета",
+    "band": "Король и Шут", "title": " - Два вора и монета",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Король и Шут/Король и Шут - Два вора и монета.html",
     "score": "",
@@ -1385,7 +1385,7 @@
   },
   {
     "id": "152",
-    "band": "", "title": "Король и Шут - Два монаха в одну ночь",
+    "band": "Король и Шут", "title": " - Два монаха в одну ночь",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Король и Шут/Король и Шут - Два монаха в одну ночь.html",
     "score": "",
@@ -1394,7 +1394,7 @@
   },
   {
     "id": "153",
-    "band": "", "title": "Король и Шут - Дурак и молния",
+    "band": "Король и Шут", "title": " - Дурак и молния",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Король и Шут/Король и Шут - Дурак и молния.html",
     "score": "",
@@ -1403,7 +1403,7 @@
   },
   {
     "id": "154",
-    "band": "", "title": "Король и Шут - Ели мясо мужики",
+    "band": "Король и Шут", "title": " - Ели мясо мужики",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Король и Шут/Король и Шут - Ели мясо мужики.html",
     "score": "",
@@ -1412,7 +1412,7 @@
   },
   {
     "id": "155",
-    "band": "", "title": "Король и Шут - Жаль, нет ружья!",
+    "band": "Король и Шут", "title": " - Жаль, нет ружья!",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Король и Шут/Король и Шут - Жаль, нет ружья!.html",
     "score": "",
@@ -1421,7 +1421,7 @@
   },
   {
     "id": "156",
-    "band": "", "title": "Король и Шут - Забытые ботинки",
+    "band": "Король и Шут", "title": " - Забытые ботинки",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Король и Шут/Король и Шут - Забытые ботинки.html",
     "score": "",
@@ -1430,7 +1430,7 @@
   },
   {
     "id": "157",
-    "band": "", "title": "Король и Шут - Камнем по голове",
+    "band": "Король и Шут", "title": " - Камнем по голове",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Король и Шут/Король и Шут - Камнем по голове.html",
     "score": "",
@@ -1439,7 +1439,7 @@
   },
   {
     "id": "158",
-    "band": "", "title": "Король и Шут - Кукла колдуна",
+    "band": "Король и Шут", "title": " - Кукла колдуна",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Король и Шут/Король и Шут - Кукла колдуна.html",
     "score": "",
@@ -1448,7 +1448,7 @@
   },
   {
     "id": "159",
-    "band": "", "title": "Король и Шут - Лесник",
+    "band": "Король и Шут", "title": " - Лесник",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Король и Шут/Король и Шут - Лесник.html",
     "score": "",
@@ -1457,7 +1457,7 @@
   },
   {
     "id": "160",
-    "band": "", "title": "Король и Шут - Медведь",
+    "band": "Король и Шут", "title": " - Медведь",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Король и Шут/Король и Шут - Медведь.html",
     "score": "",
@@ -1466,7 +1466,7 @@
   },
   {
     "id": "161",
-    "band": "", "title": "Король и Шут - Мёртвый Анархист",
+    "band": "Король и Шут", "title": " - Мёртвый Анархист",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Король и Шут/Король и Шут - Мёртвый Анархист.html",
     "score": "",
@@ -1475,7 +1475,7 @@
   },
   {
     "id": "162",
-    "band": "", "title": "Король и Шут - Мотоцикл",
+    "band": "Король и Шут", "title": " - Мотоцикл",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Король и Шут/Король и Шут - Мотоцикл.html",
     "score": "",
@@ -1484,7 +1484,7 @@
   },
   {
     "id": "163",
-    "band": "", "title": "Король и Шут - Наблюдатель",
+    "band": "Король и Шут", "title": " - Наблюдатель",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Король и Шут/Король и Шут - Наблюдатель.html",
     "score": "",
@@ -1493,7 +1493,7 @@
   },
   {
     "id": "164",
-    "band": "", "title": "Король и Шут - Охотник",
+    "band": "Король и Шут", "title": " - Охотник",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Король и Шут/Король и Шут - Охотник.html",
     "score": "",
@@ -1502,7 +1502,7 @@
   },
   {
     "id": "165",
-    "band": "", "title": "Король и Шут - Проклятый старый дом",
+    "band": "Король и Шут", "title": " - Проклятый старый дом",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Король и Шут/Король и Шут - Проклятый старый дом.html",
     "score": "",
@@ -1511,7 +1511,7 @@
   },
   {
     "id": "166",
-    "band": "", "title": "Король и Шут - Прыгну со скалы",
+    "band": "Король и Шут", "title": " - Прыгну со скалы",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Король и Шут/Король и Шут - Прыгну со скалы.html",
     "score": "",
@@ -1520,7 +1520,7 @@
   },
   {
     "id": "167",
-    "band": "", "title": "Король и Шут - Садовник",
+    "band": "Король и Шут", "title": " - Садовник",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Король и Шут/Король и Шут - Садовник.html",
     "score": "",
@@ -1529,7 +1529,7 @@
   },
   {
     "id": "168",
-    "band": "", "title": "Король и Шут - Сапоги мертвеца",
+    "band": "Король и Шут", "title": " - Сапоги мертвеца",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Король и Шут/Король и Шут - Сапоги мертвеца.html",
     "score": "",
@@ -1538,7 +1538,7 @@
   },
   {
     "id": "169",
-    "band": "", "title": "Король и Шут - Танец злобного гения",
+    "band": "Король и Шут", "title": " - Танец злобного гения",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Король и Шут/Король и Шут - Танец злобного гения.html",
     "score": "",
@@ -1547,7 +1547,7 @@
   },
   {
     "id": "170",
-    "band": "", "title": "Кукрыниксы - Не беда",
+    "band": "Кукрыниксы", "title": " - Не беда",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Кукрыниксы/Кукрыниксы - Не беда.html",
     "score": "",
@@ -1556,7 +1556,7 @@
   },
   {
     "id": "171",
-    "band": "", "title": "Ленинград - WWW",
+    "band": "Ленинград", "title": " - WWW",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Ленинград/Ленинград - WWW.html",
     "score": "",
@@ -1565,7 +1565,7 @@
   },
   {
     "id": "172",
-    "band": "", "title": "Ленинград - В Питере - пить",
+    "band": "Ленинград", "title": " - В Питере - пить",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Ленинград/Ленинград - В Питере - пить.html",
     "score": "",
@@ -1574,7 +1574,7 @@
   },
   {
     "id": "173",
-    "band": "", "title": "Ленинград - Мне бы в небо",
+    "band": "Ленинград", "title": " - Мне бы в небо",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Ленинград/Ленинград - Мне бы в небо.html",
     "score": "",
@@ -1583,7 +1583,7 @@
   },
   {
     "id": "174",
-    "band": "", "title": "Ленинград - Свобода",
+    "band": "Ленинград", "title": " - Свобода",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Ленинград/Ленинград - Свобода.html",
     "score": "",
@@ -1592,7 +1592,7 @@
   },
   {
     "id": "175",
-    "band": "", "title": "Ленинград - Терминатор",
+    "band": "Ленинград", "title": " - Терминатор",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Ленинград/Ленинград - Терминатор.html",
     "score": "",
@@ -1601,7 +1601,7 @@
   },
   {
     "id": "176",
-    "band": "", "title": "Ленинград - Хуямба",
+    "band": "Ленинград", "title": " - Хуямба",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Ленинград/Ленинград - Хуямба.html",
     "score": "",
@@ -1610,7 +1610,7 @@
   },
   {
     "id": "177",
-    "band": "", "title": "Ленинград - Экспонат",
+    "band": "Ленинград", "title": " - Экспонат",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Ленинград/Ленинград - Экспонат.html",
     "score": "",
@@ -1619,7 +1619,7 @@
   },
   {
     "id": "178",
-    "band": "", "title": "Сергей Шнуров - Привет Морриконе",
+    "band": "Сергей Шнуров", "title": " - Привет Морриконе",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Сергей Шнуров/Сергей Шнуров - Привет Морриконе.html",
     "score": "",
@@ -1628,7 +1628,7 @@
   },
   {
     "id": "179",
-    "band": "", "title": "Леприконсы - Хали-Гали",
+    "band": "Леприконсы", "title": " - Хали-Гали",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Леприконсы/Леприконсы - Хали-Гали.html",
     "score": "",
@@ -1637,7 +1637,7 @@
   },
   {
     "id": "180",
-    "band": "", "title": "Ляпис Трубецкой - Belarus Freedom",
+    "band": "Ляпис Трубецкой", "title": " - Belarus Freedom",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Ляпис Трубецкой/Ляпис Трубецкой - Belarus Freedom.html",
     "score": "",
@@ -1646,7 +1646,7 @@
   },
   {
     "id": "181",
-    "band": "", "title": "Ляпис Трубецкой - Ау",
+    "band": "Ляпис Трубецкой", "title": " - Ау",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Ляпис Трубецкой/Ляпис Трубецкой - Ау.html",
     "score": "",
@@ -1655,7 +1655,7 @@
   },
   {
     "id": "182",
-    "band": "", "title": "Ляпис Трубецкой - Воины света",
+    "band": "Ляпис Трубецкой", "title": " - Воины света",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Ляпис Трубецкой/Ляпис Трубецкой - Воины света.html",
     "score": "",
@@ -1664,7 +1664,7 @@
   },
   {
     "id": "183",
-    "band": "", "title": "Ляпис Трубецкой - В платье белом",
+    "band": "Ляпис Трубецкой", "title": " - В платье белом",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Ляпис Трубецкой/Ляпис Трубецкой - В платье белом.html",
     "score": "",
@@ -1673,7 +1673,7 @@
   },
   {
     "id": "184",
-    "band": "", "title": "Ляпис Трубецкой - Грай",
+    "band": "Ляпис Трубецкой", "title": " - Грай",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Ляпис Трубецкой/Ляпис Трубецкой - Грай.html",
     "score": "",
@@ -1682,7 +1682,7 @@
   },
   {
     "id": "185",
-    "band": "", "title": "Ляпис Трубецкой - Евпатория",
+    "band": "Ляпис Трубецкой", "title": " - Евпатория",
     "tags": ["медленная"],
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Ляпис Трубецкой/Ляпис Трубецкой - Евпатория.html",
@@ -1692,7 +1692,7 @@
   },
   {
     "id": "186",
-    "band": "", "title": "Ляпис Трубецкой - Евпатория (remake)",
+    "band": "Ляпис Трубецкой", "title": " - Евпатория (remake)",
     "tags": ["быстрая"],
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Ляпис Трубецкой/Ляпис Трубецкой - Евпатория (remake).html",
@@ -1702,7 +1702,7 @@
   },
   {
     "id": "187",
-    "band": "", "title": "Ляпис Трубецкой - Золотая антилопа",
+    "band": "Ляпис Трубецкой", "title": " - Золотая антилопа",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Ляпис Трубецкой/Ляпис Трубецкой - Золотая антилопа.html",
     "score": "",
@@ -1711,7 +1711,7 @@
   },
   {
     "id": "188",
-    "band": "", "title": "Ляпис Трубецкой - Зорачкі",
+    "band": "Ляпис Трубецкой", "title": " - Зорачкі",
     "tags": ["зорачки"],
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Ляпис Трубецкой/Ляпис Трубецкой - Зорачкі.html",
@@ -1721,7 +1721,7 @@
   },
   {
     "id": "189",
-    "band": "", "title": "Ляпис Трубецкой - Капитал",
+    "band": "Ляпис Трубецкой", "title": " - Капитал",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Ляпис Трубецкой/Ляпис Трубецкой - Капитал.html",
     "score": "",
@@ -1730,7 +1730,7 @@
   },
   {
     "id": "190",
-    "band": "", "title": "Ляпис Трубецкой - Манифест",
+    "band": "Ляпис Трубецкой", "title": " - Манифест",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Ляпис Трубецкой/Ляпис Трубецкой - Манифест.html",
     "score": "",
@@ -1739,7 +1739,7 @@
   },
   {
     "id": "191",
-    "band": "", "title": "Ляпис Трубецкой - Метелица",
+    "band": "Ляпис Трубецкой", "title": " - Метелица",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Ляпис Трубецкой/.html",
     "score": "",
@@ -1748,7 +1748,7 @@
   },
   {
     "id": "192",
-    "band": "", "title": "Ляпис Трубецкой - Не быць скотам!",
+    "band": "Ляпис Трубецкой", "title": " - Не быць скотам!",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Ляпис Трубецкой/Ляпис Трубецкой - Метелица.html",
     "score": "",
@@ -1757,7 +1757,7 @@
   },
   {
     "id": "193",
-    "band": "", "title": "Ляпис Трубецкой - Огоньки",
+    "band": "Ляпис Трубецкой", "title": " - Огоньки",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Ляпис Трубецкой/Ляпис Трубецкой - Огоньки.html",
     "score": "",
@@ -1766,7 +1766,7 @@
   },
   {
     "id": "194",
-    "band": "", "title": "Ляпис Трубецкой - Паренёк под следствием",
+    "band": "Ляпис Трубецкой", "title": " - Паренёк под следствием",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Ляпис Трубецкой/Ляпис Трубецкой - Паренёк под следствием.html",
     "score": "",
@@ -1775,7 +1775,7 @@
   },
   {
     "id": "195",
-    "band": "", "title": "Ляпис Трубецкой - Сочи",
+    "band": "Ляпис Трубецкой", "title": " - Сочи",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Ляпис Трубецкой/Ляпис Трубецкой - Сочи.html",
     "score": "",
@@ -1784,7 +1784,7 @@
   },
   {
     "id": "196",
-    "band": "", "title": "Ляпис Трубецкой - Танцуй",
+    "band": "Ляпис Трубецкой", "title": " - Танцуй",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Ляпис Трубецкой/Ляпис Трубецкой - Танцуй.html",
     "score": "",
@@ -1793,7 +1793,7 @@
   },
   {
     "id": "197",
-    "band": "", "title": "Ляпис Трубецкой - Харэ",
+    "band": "Ляпис Трубецкой", "title": " - Харэ",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Ляпис Трубецкой/Ляпис Трубецкой - Харэ.html",
     "score": "",
@@ -1802,7 +1802,7 @@
   },
   {
     "id": "198",
-    "band": "", "title": "Ляпис Трубецкой - Шут",
+    "band": "Ляпис Трубецкой", "title": " - Шут",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Ляпис Трубецкой/Ляпис Трубецкой - Шут.html",
     "score": "",
@@ -1811,7 +1811,7 @@
   },
   {
     "id": "199",
-    "band": "", "title": "Ляпис Трубецкой - Юность",
+    "band": "Ляпис Трубецкой", "title": " - Юность",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Ляпис Трубецкой/Ляпис Трубецкой - Юность.html",
     "score": "",
@@ -1820,7 +1820,7 @@
   },
   {
     "id": "200",
-    "band": "", "title": "Ляпис Трубецкой - Яблони",
+    "band": "Ляпис Трубецкой", "title": " - Яблони",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Ляпис Трубецкой/Ляпис Трубецкой - Яблони.html",
     "score": "",
@@ -1829,7 +1829,7 @@
   },
   {
     "id": "201",
-    "band": "", "title": "Ляпис Трубецкой - Я верю",
+    "band": "Ляпис Трубецкой", "title": " - Я верю",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Ляпис Трубецкой/Ляпис Трубецкой - Я верю.html",
     "score": "",
@@ -1838,7 +1838,7 @@
   },
   {
     "id": "202",
-    "band": "", "title": "Маша и Медведи - Земля",
+    "band": "Маша и Медведи", "title": " - Земля",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Маша и Медведи/Маша и Медведи - Земля.html",
     "score": "",
@@ -1847,7 +1847,7 @@
   },
   {
     "id": "203",
-    "band": "", "title": "Маша и Медведи - Любочка",
+    "band": "Маша и Медведи", "title": " - Любочка",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Маша и Медведи/Маша и Медведи - Любочка.html",
     "score": "",
@@ -1856,7 +1856,7 @@
   },
   {
     "id": "204",
-    "band": "", "title": "Мумий Тролль - Владивосток 2000",
+    "band": "Мумий Тролль", "title": " - Владивосток 2000",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Мумий Тролль/Мумий Тролль - Владивосток 2000.html",
     "score": "",
@@ -1865,7 +1865,7 @@
   },
   {
     "id": "205",
-    "band": "", "title": "Мумий Тролль - Медведица",
+    "band": "Мумий Тролль", "title": " - Медведица",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Мумий Тролль/Мумий Тролль - Медведица.html",
     "score": "",
@@ -1874,7 +1874,7 @@
   },
   {
     "id": "206",
-    "band": "", "title": "Мумий Тролль - Невеста",
+    "band": "Мумий Тролль", "title": " - Невеста",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Мумий Тролль/Мумий Тролль - Невеста.html",
     "score": "",
@@ -1883,7 +1883,7 @@
   },
   {
     "id": "207",
-    "band": "", "title": "Ночные Снайперы - 31-я весна",
+    "band": "Ночные Снайперы", "title": " - 31-я весна",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Ночные Снайперы/Ночные Снайперы - 31-я весна.html",
     "score": "",
@@ -1892,7 +1892,7 @@
   },
   {
     "id": "208",
-    "band": "", "title": "Nautilus Pompilius - Дыхание",
+    "band": "Nautilus Pompilius", "title": " - Дыхание",
     "tags": ["наутилус помпилиус"],
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Nautilus Pompilius/Nautilus Pompilius - Дыхание.html",
@@ -1902,7 +1902,7 @@
   },
   {
     "id": "209",
-    "band": "", "title": "Nautilus Pompilius - Князь тишины",
+    "band": "Nautilus Pompilius", "title": " - Князь тишины",
     "tags": ["наутилус помпилиус"],
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Nautilus Pompilius/Nautilus Pompilius - Князь тишины.html",
@@ -1912,7 +1912,7 @@
   },
   {
     "id": "210",
-    "band": "", "title": "Nautilus Pompilius - Крылья",
+    "band": "Nautilus Pompilius", "title": " - Крылья",
     "tags": ["наутилус помпилиус"],
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Nautilus Pompilius/Nautilus Pompilius - Крылья.html",
@@ -1922,7 +1922,7 @@
   },
   {
     "id": "211",
-    "band": "", "title": "Nautilus Pompilius - Последнее письмо",
+    "band": "Nautilus Pompilius", "title": " - Последнее письмо",
     "tags": ["наутилус помпилиус", "гудбай Америка"],
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Nautilus Pompilius/Nautilus Pompilius - Последнее письмо.html",
@@ -1932,7 +1932,7 @@
   },
   {
     "id": "212",
-    "band": "", "title": "Nautilus Pompilius - Прогулки по воде",
+    "band": "Nautilus Pompilius", "title": " - Прогулки по воде",
     "tags": ["наутилус помпилиус"],
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Nautilus Pompilius/Nautilus Pompilius - Прогулки по воде.html",
@@ -1942,7 +1942,7 @@
   },
   {
     "id": "213",
-    "band": "", "title": "Nautilus Pompilius - Скованные одной цепью",
+    "band": "Nautilus Pompilius", "title": " - Скованные одной цепью",
     "tags": ["наутилус помпилиус"],
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Nautilus Pompilius/Nautilus Pompilius - Скованные одной цепью.html",
@@ -1952,7 +1952,7 @@
   },
   {
     "id": "214",
-    "band": "", "title": "Nautilus Pompilius - Я хочу быть с тобой",
+    "band": "Nautilus Pompilius", "title": " - Я хочу быть с тобой",
     "tags": ["наутилус помпилиус"],
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Nautilus Pompilius/Nautilus Pompilius - Я хочу быть с тобой.html",
@@ -1962,7 +1962,7 @@
   },
   {
     "id": "215",
-    "band": "", "title": "Неприкасаемые - Напои меня водой",
+    "band": "Неприкасаемые", "title": " - Напои меня водой",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Неприкасаемые/Неприкасаемые - Напои меня водой.html",
     "score": "",
@@ -1971,7 +1971,7 @@
   },
   {
     "id": "216",
-    "band": "", "title": "Нервы - Батареи",
+    "band": "Нервы", "title": " - Батареи",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Нервы/Нервы - Батареи.html",
     "score": "",
@@ -1980,7 +1980,7 @@
   },
   {
     "id": "217",
-    "band": "", "title": "Нервы - Вороны",
+    "band": "Нервы", "title": " - Вороны",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Нервы/Нервы - Вороны.html",
     "score": "",
@@ -1989,7 +1989,7 @@
   },
   {
     "id": "218",
-    "band": "", "title": "Нервы - Кому ты звонишь",
+    "band": "Нервы", "title": " - Кому ты звонишь",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Нервы/Нервы - Кому ты звонишь",
     "score": "",
@@ -1998,7 +1998,7 @@
   },
   {
     "id": "219",
-    "band": "", "title": "Нервы - Кофе - мой друг",
+    "band": "Нервы", "title": " - Кофе - мой друг",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Нервы/Нервы - Кофе - мой друг.html",
     "score": "",
@@ -2007,7 +2007,7 @@
   },
   {
     "id": "220",
-    "band": "", "title": "Нервы - Кофе - мой друг",
+    "band": "Нервы", "title": " - Кофе - мой друг",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Нервы/Нервы - Кофе - мой друг (e.guitars, bass).html",
     "score": "",
@@ -2016,7 +2016,7 @@
   },
   {
     "id": "221",
-    "band": "", "title": "Нервы - Самый дорогой человек",
+    "band": "Нервы", "title": " - Самый дорогой человек",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Нервы/Нервы - Самый дорогой человек.html",
     "score": "",
@@ -2025,7 +2025,7 @@
   },
   {
     "id": "222",
-    "band": "", "title": "Нервы - Слишком влюблён",
+    "band": "Нервы", "title": " - Слишком влюблён",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Нервы/Нервы - Слишком влюблён.html",
     "score": "",
@@ -2034,7 +2034,7 @@
   },
   {
     "id": "223",
-    "band": "", "title": "Нервы - Слишком влюблён",
+    "band": "Нервы", "title": " - Слишком влюблён",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Нервы/Нервы - Слишком влюблён (bass).html",
     "score": "",
@@ -2043,7 +2043,7 @@
   },
   {
     "id": "224",
-    "band": "", "title": "Ногу свело! - Наши юные смешные голоса",
+    "band": "Ногу свело!", "title": " - Наши юные смешные голоса",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Ногу свело!/Ногу свело! - Наши юные смешные голоса.html",
     "score": "",
@@ -2052,7 +2052,7 @@
   },
   {
     "id": "225",
-    "band": "", "title": "Порнофильмы - Зелёные стёкла",
+    "band": "Порнофильмы", "title": " - Зелёные стёкла",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Порнофильмы/Порнофильмы - Зелёные стёкла.html",
     "score": "",
@@ -2061,7 +2061,7 @@
   },
   {
     "id": "226",
-    "band": "", "title": "Порнофильмы - Кто все эти люди?",
+    "band": "Порнофильмы", "title": " - Кто все эти люди?",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Порнофильмы/Порнофильмы - Кто все эти люди.html",
     "score": "",
@@ -2070,7 +2070,7 @@
   },
   {
     "id": "227",
-    "band": "", "title": "Порнофильмы - Приезжай!",
+    "band": "Порнофильмы", "title": " - Приезжай!",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Порнофильмы/Порнофильмы - Приезжай!.html",
     "score": "",
@@ -2079,7 +2079,7 @@
   },
   {
     "id": "228",
-    "band": "", "title": "Порнофильмы - Прости. Прощай. Привет",
+    "band": "Порнофильмы", "title": " - Прости. Прощай. Привет",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Порнофильмы/Порнофильмы - Прости. Прощай. Привет.html",
     "score": "",
@@ -2088,7 +2088,7 @@
   },
   {
     "id": "229",
-    "band": "", "title": "Порнофильмы - Уроки любви",
+    "band": "Порнофильмы", "title": " - Уроки любви",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Порнофильмы/Порнофильмы - Уроки любви.html",
     "score": "",
@@ -2097,7 +2097,7 @@
   },
   {
     "id": "230",
-    "band": "", "title": "Порнофильмы - Это пройдёт",
+    "band": "Порнофильмы", "title": " - Это пройдёт",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Порнофильмы/Порнофильмы - Это пройдёт.html",
     "score": "",
@@ -2106,7 +2106,7 @@
   },
   {
     "id": "231",
-    "band": "", "title": "Порнофильмы - Я так соскучился",
+    "band": "Порнофильмы", "title": " - Я так соскучился",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Порнофильмы/Порнофильмы - Я так соскучился.html",
     "score": "",
@@ -2115,7 +2115,7 @@
   },
   {
     "id": "232",
-    "band": "", "title": "Пошлая Молли - Нон стоп",
+    "band": "Пошлая Молли", "title": " - Нон стоп",
     "tags": ["non stop"],
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Пошлая Молли/Пошлая Молли - Нон стоп.html",
@@ -2125,7 +2125,7 @@
   },
   {
     "id": "233",
-    "band": "", "title": "Пошлая Молли - Супермаркет",
+    "band": "Пошлая Молли", "title": " - Супермаркет",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Пошлая Молли/Пошлая Молли - Супермаркет.html",
     "score": "",
@@ -2134,7 +2134,7 @@
   },
   {
     "id": "234",
-    "band": "", "title": "Сектор Газа - 30 лет",
+    "band": "Сектор Газа", "title": " - 30 лет",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Сектор Газа/Сектор Газа - 30 лет.html",
     "score": "",
@@ -2143,7 +2143,7 @@
   },
   {
     "id": "235",
-    "band": "", "title": "Сектор Газа - Бомж",
+    "band": "Сектор Газа", "title": " - Бомж",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Сектор Газа/Сектор Газа - Бомж.html",
     "score": "",
@@ -2152,7 +2152,7 @@
   },
   {
     "id": "236",
-    "band": "", "title": "Сектор Газа - Демобилизация",
+    "band": "Сектор Газа", "title": " - Демобилизация",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Сектор Газа/Сектор Газа - Демобилизация.html",
     "score": "",
@@ -2161,7 +2161,7 @@
   },
   {
     "id": "237",
-    "band": "", "title": "Сектор Газа - Лирика",
+    "band": "Сектор Газа", "title": " - Лирика",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Сектор Газа/Сектор Газа - Лирика.html",
     "score": "",
@@ -2170,7 +2170,7 @@
   },
   {
     "id": "238",
-    "band": "", "title": "Сектор Газа - Пора домой",
+    "band": "Сектор Газа", "title": " - Пора домой",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Сектор Газа/Сектор Газа - Пора домой.html",
     "score": "",
@@ -2179,7 +2179,7 @@
   },
   {
     "id": "239",
-    "band": "", "title": "Сектор Газа - Туман",
+    "band": "Сектор Газа", "title": " - Туман",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Сектор Газа/Сектор Газа - Туман.html",
     "score": "",
@@ -2188,7 +2188,7 @@
   },
   {
     "id": "240",
-    "band": "", "title": "Сергей Бабкин - Забери",
+    "band": "Сергей Бабкин", "title": " - Забери",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Сергей Бабкин/Сергей Бабкин - Забери.html",
     "score": "",
@@ -2197,7 +2197,7 @@
   },
   {
     "id": "241",
-    "band": "", "title": "Смысловые Галлюцинации - Вечно молодой",
+    "band": "Смысловые Галлюцинации", "title": " - Вечно молодой",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Смысловые Галлюцинации/Смысловые Галлюцинации - Вечно молодой.html",
     "score": "",
@@ -2206,7 +2206,7 @@
   },
   {
     "id": "242",
-    "band": "", "title": "Сплин - Выхода нет",
+    "band": "Сплин", "title": " - Выхода нет",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Сплин/Сплин - Выхода нет.html",
     "score": "",
@@ -2215,7 +2215,7 @@
   },
   {
     "id": "243",
-    "band": "", "title": "Сплин - Линия жизни",
+    "band": "Сплин", "title": " - Линия жизни",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Сплин/Сплин - Линия жизни.html",
     "score": "",
@@ -2224,7 +2224,7 @@
   },
   {
     "id": "244",
-    "band": "", "title": "Сплин - Линия жизни",
+    "band": "Сплин", "title": " - Линия жизни",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Сплин/Сплин - Линия жизни (bass).html",
     "score": "",
@@ -2233,7 +2233,7 @@
   },
   {
     "id": "245",
-    "band": "", "title": "Сплин - Моё сердце",
+    "band": "Сплин", "title": " - Моё сердце",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Сплин/Сплин - Моё сердце.html",
     "score": "",
@@ -2242,7 +2242,7 @@
   },
   {
     "id": "246",
-    "band": "", "title": "Сплин - Орбит без сахара",
+    "band": "Сплин", "title": " - Орбит без сахара",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Сплин/Сплин - Орбит без сахара.html",
     "score": "",
@@ -2251,7 +2251,7 @@
   },
   {
     "id": "247",
-    "band": "", "title": "Сплин - Романс",
+    "band": "Сплин", "title": " - Романс",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Сплин/Сплин - Романс.html",
     "score": "",
@@ -2260,7 +2260,7 @@
   },
   {
     "id": "248",
-    "band": "", "title": "Сплин - Романс",
+    "band": "Сплин", "title": " - Романс",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Сплин/Сплин - Романс (bass).html",
     "score": "",
@@ -2269,7 +2269,7 @@
   },
   {
     "id": "249",
-    "band": "", "title": "Чичерина - Ту-лу-ла",
+    "band": "Чичерина", "title": " - Ту-лу-ла",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Чичерина/Чичерина - Ту-лу-ла.html",
     "score": "",
@@ -2278,7 +2278,7 @@
   },
   {
     "id": "250",
-    "band": "", "title": "Танцы Минус - Город",
+    "band": "Танцы Минус", "title": " - Город",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Танцы Минус/Танцы Минус - Город.html",
     "score": "",
@@ -2287,7 +2287,7 @@
   },
   {
     "id": "251",
-    "band": "", "title": "Танцы Минус - Половинка",
+    "band": "Танцы Минус", "title": " - Половинка",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Танцы Минус/Танцы Минус - Половинка.html",
     "score": "",
@@ -2296,7 +2296,7 @@
   },
   {
     "id": "252",
-    "band": "", "title": "Чиж & Co - О любви",
+    "band": "Чиж & Co", "title": " - О любви",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Чиж & Co/Чиж & Co - О любви.html",
     "score": "",
@@ -2305,7 +2305,7 @@
   },
   {
     "id": "253",
-    "band": "", "title": "Чиж & Co - Фантом",
+    "band": "Чиж & Co", "title": " - Фантом",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Чиж & Co/Чиж & Co - Фантом.html",
     "score": "",
@@ -2314,7 +2314,7 @@
   },
   {
     "id": "254",
-    "band": "", "title": "Юлия Савичева - Если в сердце живёт любовь",
+    "band": "Юлия Савичева", "title": " - Если в сердце живёт любовь",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Юлия Савичева/Юлия Савичева - Если в сердце живёт любовь.html",
     "score": "",
@@ -2323,7 +2323,7 @@
   },
   {
     "id": "255",
-    "band": "", "title": "Юлия Савичева - Привет",
+    "band": "Юлия Савичева", "title": " - Привет",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Юлия Савичева/Юлия Савичева - Привет.html",
     "score": "",
@@ -2332,7 +2332,7 @@
   },
   {
     "id": "256",
-    "band": "", "title": "Юта - Жили-были",
+    "band": "Юта", "title": " - Жили-были",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Юта/Юта - Жили-были.html",
     "score": "",
@@ -2341,7 +2341,7 @@
   },
   {
     "id": "257",
-    "band": "", "title": "Янка Дягилева - Особый резон",
+    "band": "Янка Дягилева", "title": " - Особый резон",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Янка Дягилева/Янка Дягилева - Особый резон.html",
     "score": "",
@@ -2351,7 +2351,7 @@
   
   {
     "id": "258",
-    "band": "", "title": "Gary Moore - The Loner",
+    "band": "Gary Moore", "title": " - The Loner",
     "genre": "Blues",
     "text": "Blues/Gary Moore/Gary Moore - The Loner.html",
     "score": "",
@@ -2360,7 +2360,7 @@
   },
   {
     "id": "259",
-    "band": "", "title": "Gary Moore - The Prophet",
+    "band": "Gary Moore", "title": " - The Prophet",
     "genre": "Blues",
     "text": "Blues/Gary Moore/Gary Moore - The Prophet.html",
     "score": "",
@@ -2370,7 +2370,7 @@
   
   {
     "id": "260",
-    "band": "", "title": "Dick Dale, The Del Tones - Misirlou",
+    "band": "Dick Dale, The Del Tones", "title": " - Misirlou",
     "genre": "Surf",
     "text": "Surf/Dick Dale, The Del Tones/Dick Dale, The Del Tones - Misirlou.html",
     "score": "",
@@ -2380,7 +2380,7 @@
   
   {
     "id": "261",
-    "band": "", "title": "Ace of Base - Happy Nation",
+    "band": "Ace of Base", "title": " - Happy Nation",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Ace of Base/Ace of Base - Happy Nation.html",
     "score": "",
@@ -2389,7 +2389,7 @@
   },
   {
     "id": "262",
-    "band": "", "title": "Céline Dion - My Heart Will Go On",
+    "band": "Céline Dion", "title": " - My Heart Will Go On",
     "tags": ["селин дион", "celine dion"],
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Céline Dion/Céline Dion - My Heart Will Go On.html",
@@ -2399,7 +2399,7 @@
   },
   {
     "id": "263",
-    "band": "", "title": "MilleniumKid, Jbs - Vielleicht Vielleicht",
+    "band": "MilleniumKid, Jbs", "title": " - Vielleicht Vielleicht",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/MilleniumKid, Jbs/MilleniumKid, Jbs - Vielleicht Vielleicht.html",
     "score": "",
@@ -2408,7 +2408,7 @@
   },
   {
     "id": "264",
-    "band": "", "title": "30.02 - Звёзды в лужах",
+    "band": "30.02", "title": " - Звёзды в лужах",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/30.02/30.02 - Звёзды в лужах.html",
     "score": "",
@@ -2417,7 +2417,7 @@
   },
   {
     "id": "265",
-    "band": "", "title": "30.02 - Звёзды в лужах",
+    "band": "30.02", "title": " - Звёзды в лужах",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/30.02/30.02 - Звёзды в лужах (bass).html",
     "score": "",
@@ -2426,7 +2426,7 @@
   },
   {
     "id": "266",
-    "band": "", "title": "DaBro - Юность",
+    "band": "DaBro", "title": " - Юность",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/DaBro/DaBro - Юность.html",
     "score": "",
@@ -2435,7 +2435,7 @@
   },
   {
     "id": "267",
-    "band": "", "title": "DaBro - Юность",
+    "band": "DaBro", "title": " - Юность",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/DaBro/DaBro - Юность (bass).html",
     "score": "",
@@ -2444,7 +2444,7 @@
   },
   {
     "id": "268",
-    "band": "", "title": "Demo - Солнышко",
+    "band": "Demo", "title": " - Солнышко",
     "tags": ["Демо"],
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Demo/Demo - Солнышко.html",
@@ -2454,7 +2454,7 @@
   },
   {
     "id": "269",
-    "band": "", "title": "IOWA - Бьёт Бит",
+    "band": "IOWA", "title": " - Бьёт Бит",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/IOWA/IOWA - Бьёт Бит.html",
     "score": "",
@@ -2463,7 +2463,7 @@
   },
   {
     "id": "270",
-    "band": "", "title": "IOWA - Улыбайся",
+    "band": "IOWA", "title": " - Улыбайся",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/IOWA/IOWA - Улыбайся.html",
     "score": "",
@@ -2472,7 +2472,7 @@
   },
   {
     "id": "271",
-    "band": "", "title": "LOBODA - 40 Градусов",
+    "band": "LOBODA", "title": " - 40 Градусов",
     "tags": ["Лобода"],
     "genre": "Pop, Dance",
     "text": "Pop, Dance/LOBODA/LOBODA - 40 Градусов.html",
@@ -2482,7 +2482,7 @@
   },
   {
     "id": "272",
-    "band": "", "title": "LOBODA - Твои глаза",
+    "band": "LOBODA", "title": " - Твои глаза",
     "tags": ["Лобода"],
     "genre": "Pop, Dance",
     "text": "Pop, Dance/LOBODA/LOBODA - Твои глаза.html",
@@ -2492,7 +2492,7 @@
   },
   {
     "id": "273",
-    "band": "", "title": "Mr. Credo - Сегодня в белом танце кружимся",
+    "band": "Mr. Credo", "title": " - Сегодня в белом танце кружимся",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Mr. Credo/Mr. Credo - Сегодня в белом танце кружимся.html",
     "score": "",
@@ -2501,7 +2501,7 @@
   },
   {
     "id": "274",
-    "band": "", "title": "Rauf & Faik - 5 минут",
+    "band": "Rauf & Faik", "title": " - 5 минут",
     "tags": ["рауф", "фаик"],
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Rauf & Faik/Rauf & Faik - 5 мину.html",
@@ -2511,7 +2511,7 @@
   },
   {
     "id": "275",
-    "band": "", "title": "Rauf & Faik - Вечера",
+    "band": "Rauf & Faik", "title": " - Вечера",
     "tags": ["рауф", "фаик"],
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Rauf & Faik/Rauf & Faik - Вечера.html",
@@ -2521,7 +2521,7 @@
   },
   {
     "id": "276",
-    "band": "", "title": "Rauf & Faik - Детство",
+    "band": "Rauf & Faik", "title": " - Детство",
     "tags": ["рауф", "фаик"],
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Rauf & Faik/Rauf & Faik - Детство.html",
@@ -2531,7 +2531,7 @@
   },
   {
     "id": "277",
-    "band": "", "title": "Rauf & Faik - Колыбельная",
+    "band": "Rauf & Faik", "title": " - Колыбельная",
     "tags": ["рауф", "фаик"],
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Rauf & Faik/Rauf & Faik - Колыбельная.html",
@@ -2541,7 +2541,7 @@
   },
   {
     "id": "278",
-    "band": "", "title": "t.A.T.u. - Люди-инвалиды",
+    "band": "t.A.T.u.", "title": " - Люди-инвалиды",
     "tags": ["tatu", "тату"],
     "genre": "Pop, Dance",
     "text": "Pop, Dance/t.A.T.u/t.A.T.u. - Люди-инвалиды.html",
@@ -2551,7 +2551,7 @@
   },
   {
     "id": "279",
-    "band": "", "title": "t.A.T.u. - Нас не догонят",
+    "band": "t.A.T.u.", "title": " - Нас не догонят",
     "tags": ["tatu", "тату"],
     "genre": "Pop, Dance",
     "text": "Pop, Dance/t.A.T.u/t.A.T.u. - Нас не догонят.html",
@@ -2561,7 +2561,7 @@
   },
   {
     "id": "280",
-    "band": "", "title": "t.A.T.u. - Не верь, не бойся, не проси",
+    "band": "t.A.T.u.", "title": " - Не верь, не бойся, не проси",
     "tags": ["tatu", "тату"],
     "genre": "Pop, Dance",
     "text": "Pop, Dance/t.A.T.u/t.A.T.u. - Не верь, не бойся, не проси.html",
@@ -2571,7 +2571,7 @@
   },
   {
     "id": "281",
-    "band": "", "title": "t.A.T.u. - Покажи мне любовь",
+    "band": "t.A.T.u.", "title": " - Покажи мне любовь",
     "tags": ["tatu", "тату"],
     "genre": "Pop, Dance",
     "text": "Pop, Dance/t.A.T.u/t.A.T.u. - Покажи мне любовь.html",
@@ -2581,7 +2581,7 @@
   },
   {
     "id": "282",
-    "band": "", "title": "t.A.T.u. - Я сошла с ума",
+    "band": "t.A.T.u.", "title": " - Я сошла с ума",
     "tags": ["tatu", "тату"],
     "genre": "Pop, Dance",
     "text": "Pop, Dance/t.A.T.u/t.A.T.u. - Я сошла с ума.html",
@@ -2591,7 +2591,7 @@
   },
   {
     "id": "283",
-    "band": "", "title": "Zoloto - Непроизошло",
+    "band": "Zoloto", "title": " - Непроизошло",
     "tags": ["золото"],
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Zoloto/Zoloto - Непроизошло.html",
@@ -2601,7 +2601,7 @@
   },
   {
     "id": "284",
-    "band": "", "title": "Акула - Такая любовь",
+    "band": "Акула", "title": " - Такая любовь",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Акула/Акула - Такая любовь.html",
     "score": "",
@@ -2610,7 +2610,7 @@
   },
   {
     "id": "285",
-    "band": "", "title": "Андрей Губин - Девушки как звёзды",
+    "band": "Андрей Губин", "title": " - Девушки как звёзды",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Андрей Губин/Андрей Губин - Девушки как звёзды.html",
     "score": "",
@@ -2619,7 +2619,7 @@
   },
   {
     "id": "286",
-    "band": "", "title": "Андрей Губин - Лиза",
+    "band": "Андрей Губин", "title": " - Лиза",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Андрей Губин/Андрей Губин - Лиза.html",
     "score": "",
@@ -2628,7 +2628,7 @@
   },
   {
     "id": "287",
-    "band": "", "title": "Андрей Губин - Мальчик-бродяга",
+    "band": "Андрей Губин", "title": "н - Мальчик-бродяга",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Андрей Губин/Андрей Губин - Мальчик-бродяга.html",
     "score": "",
@@ -2637,7 +2637,7 @@
   },
   {
     "id": "288",
-    "band": "", "title": "Андрей Губин - Ночь",
+    "band": "Андрей Губин", "title": " - Ночь",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Андрей Губин/Андрей Губин - Ночь.html",
     "score": "",
@@ -2646,7 +2646,7 @@
   },
   {
     "id": "289",
-    "band": "", "title": "Валерий Меладзе - Вера",
+    "band": "Валерий Меладзе", "title": " - Вера",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Валерий Меладзе/Валерий Меладзе - Вера.html",
     "score": "",
@@ -2655,7 +2655,7 @@
   },
   {
     "id": "290",
-    "band": "", "title": "Валерий Меладзе - Девушки из высшего общества",
+    "band": "Валерий Меладзе", "title": " - Девушки из высшего общества",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Валерий Меладзе/Валерий Меладзе - Девушки из высшего общества.html",
     "score": "",
@@ -2664,7 +2664,7 @@
   },
   {
     "id": "291",
-    "band": "", "title": "Валерий Меладзе - Иностранец",
+    "band": "Валерий Меладзе", "title": " - Иностранец",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Валерий Меладзе/Валерий Меладзе - Иностранец.html",
     "score": "",
@@ -2673,7 +2673,7 @@
   },
   {
     "id": "292",
-    "band": "", "title": "Валерий Меладзе - Красиво",
+    "band": "Валерий Меладзе", "title": " - Красиво",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Валерий Меладзе/Валерий Меладзе - Красиво.html",
     "score": "",
@@ -2682,7 +2682,7 @@
   },
   {
     "id": "293",
-    "band": "", "title": "Валерий Меладзе - Магдалина",
+    "band": "Валерий Меладзе", "title": " - Магдалина",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Валерий Меладзе/Валерий Меладзе - Магдалина.html",
     "score": "",
@@ -2691,7 +2691,7 @@
   },
   {
     "id": "294",
-    "band": "", "title": "Валерий Меладзе - Не тревожь мне душу скрипка",
+    "band": "Валерий Меладзе", "title": " - Не тревожь мне душу скрипка",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Валерий Меладзе/Валерий Меладзе - Не тревожь мне душу скрипка.html",
     "score": "",
@@ -2700,7 +2700,7 @@
   },
   {
     "id": "295",
-    "band": "", "title": "Валерий Меладзе - Небеса",
+    "band": "Валерий Меладзе", "title": " - Небеса",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Валерий Меладзе/Валерий Меладзе - Небеса.html",
     "score": "",
@@ -2709,7 +2709,7 @@
   },
   {
     "id": "296",
-    "band": "", "title": "Валерий Меладзе - Параллельные",
+    "band": "Валерий Меладзе", "title": " - Параллельные",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Валерий Меладзе/Валерий Меладзе - Параллельные.html",
     "score": "",
@@ -2718,7 +2718,7 @@
   },
   {
     "id": "297",
-    "band": "", "title": "Валерий Меладзе - Салют, Вера",
+    "band": "Валерий Меладзе", "title": " - Салют, Вера",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Валерий Меладзе/Валерий Меладзе - Салют, Вера.html",
     "score": "",
@@ -2727,7 +2727,7 @@
   },
   {
     "id": "298",
-    "band": "", "title": "Валерий Меладзе - Самба белого мотылька",
+    "band": "Валерий Меладзе", "title": " - Самба белого мотылька",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Валерий Меладзе/Валерий Меладзе - Самба белого мотылька.html",
     "score": "",
@@ -2736,7 +2736,7 @@
   },
   {
     "id": "299",
-    "band": "", "title": "Валерий Меладзе - Се ля ви",
+    "band": "Валерий Меладзе", "title": " - Се ля ви",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Валерий Меладзе/Валерий Меладзе - Се ля ви.html",
     "score": "",
@@ -2745,7 +2745,7 @@
   },
   {
     "id": "300",
-    "band": "", "title": "Валерий Меладзе - Сэра",
+    "band": "Валерий Меладзе", "title": " - Сэра",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Валерий Меладзе/Валерий Меладзе - Сэра.html",
     "score": "",
@@ -2754,7 +2754,7 @@
   },
   {
     "id": "301",
-    "band": "", "title": "Валерий Меладзе - Текила-любовь",
+    "band": "Валерий Меладзе", "title": " - Текила-любовь",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Валерий Меладзе/Валерий Меладзе - Текила-любовь.html",
     "score": "",
@@ -2763,7 +2763,7 @@
   },
   {
     "id": "302",
-    "band": "", "title": "Валерий Меладзе, Вахтанг - Свет уходящего Солнца",
+    "band": "Валерий Меладзе, Вахтанг", "title": " - Свет уходящего Солнца",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Валерий Меладзе/Валерий Меладзе, Вахтанг - Свет уходящего Солнца.html",
     "score": "",
@@ -2772,7 +2772,7 @@
   },
   {
     "id": "303",
-    "band": "", "title": "Валерий Меладзе, ВИА Гра - Океан и три реки",
+    "band": "Валерий Меладзе, ВИА Гра", "title": " - Океан и три реки",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Валерий Меладзе/Валерий Меладзе, ВИА Гра - Океан и три реки.html",
     "score": "",
@@ -2781,7 +2781,7 @@
   },
   {
     "id": "304",
-    "band": "", "title": "Валерий Меладзе, ВИА Гра - Притяженья больше нет",
+    "band": "Валерий Меладзе, ВИА Гра", "title": " - Притяженья больше нет",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Валерий Меладзе/Валерий Меладзе, ВИА Гра - Притяженья больше нет.html",
     "score": "",
@@ -2790,7 +2790,7 @@
   },
   {
     "id": "305",
-    "band": "", "title": "Иванушки International - Где-то",
+    "band": "Иванушки International", "title": " - Где-то",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Иванушки International/Иванушки International - Где-то.html",
     "score": "",
@@ -2799,7 +2799,7 @@
   },
   {
     "id": "306",
-    "band": "", "title": "Иванушки International - Кукла",
+    "band": "Иванушки International", "title": " - Кукла",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Иванушки International/Иванушки International - Кукла.html",
     "score": "",
@@ -2808,7 +2808,7 @@
   },
   {
     "id": "307",
-    "band": "", "title": "Иванушки International - Тополиный пух",
+    "band": "Иванушки International", "title": " - Тополиный пух",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Иванушки International/Иванушки International - Тополиный пух.html",
     "score": "",
@@ -2817,7 +2817,7 @@
   },
   {
     "id": "308",
-    "band": "", "title": "Иванушки International - Тучи",
+    "band": "Иванушки International", "title": " - Тучи",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Иванушки International/Иванушки International - Тучи.html",
     "score": "",
@@ -2826,7 +2826,7 @@
   },
   {
     "id": "309",
-    "band": "", "title": "Ласковый май - Белые розы",
+    "band": "Ласковый май", "title": " - Белые розы",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Ласковый май/Ласковый май - Белые розы.html",
     "score": "",
@@ -2835,7 +2835,7 @@
   },
   {
     "id": "310",
-    "band": "", "title": "Ласковый май - Детство",
+    "band": "Ласковый май", "title": " - Детство",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Ласковый май/Ласковый май - Детство.html",
     "score": "",
@@ -2844,7 +2844,7 @@
   },
   {
     "id": "311",
-    "band": "", "title": "Ласковый май - Розовый вечер",
+    "band": "Ласковый май", "title": " - Розовый вечер",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Ласковый май/Ласковый май - Розовый вечер.html",
     "score": "",
@@ -2853,7 +2853,7 @@
   },
   {
     "id": "312",
-    "band": "", "title": "Ласковый май - Седая ночь",
+    "band": "Ласковый май", "title": " - Седая ночь",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Ласковый май/Ласковый май - Седая ночь.html",
     "score": "",
@@ -2862,7 +2862,7 @@
   },
   {
     "id": "313",
-    "band": "", "title": "Линда - Мало огня",
+    "band": "Ласковый май", "title": "Линда - Мало огня",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Линда/Линда - Мало огня.html",
     "score": "",
@@ -2871,7 +2871,7 @@
   },
   {
     "id": "314",
-    "band": "", "title": "МакSим - Знаешь ли ты",
+    "band": "МакSим", "title": " - Знаешь ли ты",
     "tags": ["Максим"],
     "genre": "Pop, Dance",
     "text": "Pop, Dance/МакSим/МакSим - Знаешь ли ты.html",
@@ -2881,7 +2881,7 @@
   },
   {
     "id": "315",
-    "band": "", "title": "МакSим - Не отдам",
+    "band": "МакSим", "title": " - Не отдам",
     "tags": ["Максим"],
     "genre": "Pop, Dance",
     "text": "Pop, Dance/МакSим/МакSим - Не отдам.html",
@@ -2891,7 +2891,7 @@
   },
   {
     "id": "316",
-    "band": "", "title": "Максим Фадеев - Танцы на стёклах",
+    "band": "Максим Фадеев", "title": " - Танцы на стёклах",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Максим Фадеев/Максим Фадеев - Танцы на стёклах.html",
     "score": "",
@@ -2900,7 +2900,7 @@
   },
   {
     "id": "317",
-    "band": "", "title": "Мираж - Музыка нас связала",
+    "band": "Мираж", "title": " - Музыка нас связала",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Мираж/Мираж - Музыка нас связала.html",
     "score": "",
@@ -2909,7 +2909,7 @@
   },
   {
     "id": "318",
-    "band": "", "title": "Мираж - Новый герой",
+    "band": "Мираж", "title": " - Новый герой",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Мираж/Мираж - Новый герой.html",
     "score": "",
@@ -2918,7 +2918,7 @@
   },
   {
     "id": "319",
-    "band": "", "title": "Моя Мишель - Ветер меняет направление",
+    "band": "Моя Мишель", "title": " - Ветер меняет направление",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Моя Мишель/Моя Мишель - Ветер меняет направление.html",
     "score": "",
@@ -2927,7 +2927,7 @@
   },
   {
     "id": "320",
-    "band": "", "title": "Моя Мишель - Зима в сердце",
+    "band": "Моя Мишель", "title": " - Зима в сердце",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Моя Мишель/Моя Мишель - Зима в сердце.html",
     "score": "",
@@ -2936,7 +2936,7 @@
   },
   {
     "id": "321",
-    "band": "", "title": "Нэнси - Дым сигарет с ментолом",
+    "band": "Нэнси", "title": " - Дым сигарет с ментолом",
     "tags": ["ненси"],
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Нэнси/Нэнси - Дым сигарет с ментолом.html",
@@ -2946,7 +2946,7 @@
   },
   {
     "id": "322",
-    "band": "", "title": "Нэнси - Чистый лист",
+    "band": "Нэнси", "title": " - Чистый лист",
     "tags": ["ненси"],
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Нэнси/Нэнси - Чистый лист.html",
@@ -2956,7 +2956,7 @@
   },
   {
     "id": "323",
-    "band": "", "title": "Пицца - Лифт",
+    "band": "Пицца", "title": " - Лифт",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Пицца/Пицца - Лифт.html",
     "score": "",
@@ -2965,7 +2965,7 @@
   },
   {
     "id": "324",
-    "band": "", "title": "Пицца - Оружие",
+    "band": "Пицца", "title": " - Оружие",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Пицца/Пицца - Оружие.html",
     "score": "",
@@ -2974,7 +2974,7 @@
   },
   {
     "id": "325",
-    "band": "", "title": "Пропаганда - Мелом",
+    "band": "Пропаганда", "title": " - Мелом",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Пропаганда/Пропаганда - Мелом.html",
     "score": "",
@@ -2983,7 +2983,7 @@
   },
   {
     "id": "326",
-    "band": "", "title": "Пропаганда - Мелом",
+    "band": "Пропаганда", "title": " - Мелом",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Пропаганда/Пропаганда - Мелом (bass).html",
     "score": "",
@@ -2992,7 +2992,7 @@
   },
   {
     "id": "327",
-    "band": "", "title": "Рок-Острова - Ничего не говори",
+    "band": "Рок-Острова", "title": " - Ничего не говори",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Рок-Острова/Рок-Острова - Ничего не говори.html",
     "score": "",
@@ -3001,7 +3001,7 @@
   },
   {
     "id": "328",
-    "band": "", "title": "Сладкий сон - На белом покрывале января",
+    "band": "Сладкий сон", "title": " - На белом покрывале января",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Сладкий сон/Сладкий сон - На белом покрывале января.html",
     "score": "",
@@ -3010,7 +3010,7 @@
   },
   {
     "id": "329",
-    "band": "", "title": "Форум - Белая ночь",
+    "band": "Форум", "title": " - Белая ночь",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Форум/Форум - Белая ночь.html",
     "score": "",
@@ -3019,7 +3019,7 @@
   },
   {
     "id": "330",
-    "band": "", "title": "Хлеб feat. Cream Soda - Плачу на техно",
+    "band": "Хлеб feat. Cream Soda", "title": " - Плачу на техно",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Хлеб feat. Cream Soda/Хлеб feat. Cream Soda - Плачу на техно.html",
     "score": "",
@@ -3028,7 +3028,7 @@
   },
   {
     "id": "331",
-    "band": "", "title": "Шура - Ты не верь слезам",
+    "band": "Шура", "title": " - Ты не верь слезам",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Шура/Шура - Ты не верь слезам.html",
     "score": "",
@@ -3037,7 +3037,7 @@
   },
   {
     "id": "332",
-    "band": "", "title": "Шура - Ты не верь слезам",
+    "band": "Шура", "title": " - Ты не верь слезам",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Шура/Шура - Ты не верь слезам (bass).html",
     "score": "",
@@ -3047,7 +3047,7 @@
   
   {
     "id": "333",
-    "band": "", "title": "Era - Ameno",
+    "band": "Era", "title": "Ameno",
     "genre": "SynthPop",
     "text": "SynthPop/Era/Era - Ameno.html",
     "score": "",
@@ -3056,7 +3056,7 @@
   },
   {
     "id": "334",
-    "band": "", "title": "Альянс - На заре",
+    "band": "Альянс", "title": "На заре",
     "genre": "SynthPop",
     "text": "SynthPop/Альянс/Альянс - На заре.html",
     "score": "",
@@ -3066,7 +3066,7 @@
   
   {
     "id": "335",
-    "band": "", "title": "Coolio - Gangsta's Paradise",
+    "band": "Coolio", "title": " - Gangsta's Paradise",
     "genre": "Rap, Hip-hop",
     "text": "Rap, Hip-hop/Coolio/Coolio - Gangsta's Paradise.html",
     "score": "",
@@ -3075,7 +3075,7 @@
   },
   {
     "id": "336",
-    "band": "", "title": "Face2Face - Кошка",
+    "band": "Face2Face", "title": " - Кошка",
     "tags": ["ноиз"],
     "genre": "Rap, Hip-hop",
     "text": "Rap, Hip-hop/Face2Face/Face2Face - Кошка.html",
@@ -3085,7 +3085,7 @@
   },
   {
     "id": "337",
-    "band": "", "title": "Элджей, Feduk - Розовое вино",
+    "band": "Элджей, Feduk", "title": " - Розовое вино",
     "tags": ["Федук"],
     "genre": "Rap, Hip-hop",
     "text": "Rap, Hip-hop/Элджей, Feduk/Элджей, Feduk - Розовое вино.html",
@@ -3095,7 +3095,7 @@
   },
   {
     "id": "338",
-    "band": "", "title": "Feduk - Хлопья летят наверх",
+    "band": "Feduk", "title": " - Хлопья летят наверх",
     "tags": ["Федук"],
     "genre": "Rap, Hip-hop",
     "text": "Rap, Hip-hop/Feduk/Feduk - Хлопья летят наверх.html",
@@ -3105,7 +3105,7 @@
   },
   {
     "id": "339",
-    "band": "", "title": "Kentukki - Замигает свет",
+    "band": "Kentukki", "title": " - Замигает свет",
     "tags": ["Кентукки"],
     "genre": "Rap, Hip-hop",
     "text": "Rap, Hip-hop/Kentukki/Kentukki - Замигает свет.html",
@@ -3115,7 +3115,7 @@
   },
   {
     "id": "340",
-    "band": "", "title": "Anacondaz - Твоему новому парню",
+    "band": "Anacondaz", "title": " - Твоему новому парню",
     "genre": "Rap, Hip-hop",
     "text": "Rap, Hip-hop/Anacondaz/Anacondaz - Твоему новому парню.html",
     "score": "",
@@ -3124,7 +3124,7 @@
   },
   {
     "id": "341",
-    "band": "", "title": "Morgenshtern - Пустой вокзал",
+    "band": "Morgenshtern", "title": " - Пустой вокзал",
     "genre": "Rap, Hip-hop",
     "text": "Rap, Hip-hop/Morgenshtern/Morgenshtern - Пустой вокзал.html",
     "score": "",
@@ -3133,7 +3133,7 @@
   },
   {
     "id": "342",
-    "band": "", "title": "Noize MC - Вояджер-1",
+    "band": "Noize MC", "title": " - Вояджер-1",
     "tags": ["ноиз"],
     "genre": "Rap, Hip-hop",
     "text": "Rap, Hip-hop/Noize MC/Noize MC - Вояджер-1.html",
@@ -3143,7 +3143,7 @@
   },
   {
     "id": "343",
-    "band": "", "title": "Noize MC - Вселенная бесконечна?",
+    "band": "Noize MC", "title": " - Вселенная бесконечна?",
     "tags": ["ноиз"],
     "genre": "Rap, Hip-hop",
     "text": "Rap, Hip-hop/Noize MC/Noize MC - Вселенная бесконечна.html",
@@ -3153,7 +3153,7 @@
   },
   {
     "id": "344",
-    "band": "", "title": "Noize MC - Выдыхай",
+    "band": "Noize MC", "title": " - Выдыхай",
     "tags": ["ноиз"],
     "genre": "Rap, Hip-hop",
     "text": "Rap, Hip-hop/Noize MC/Noize MC - Выдыхай.html",
@@ -3163,7 +3163,7 @@
   },
   {
     "id": "345",
-    "band": "", "title": "Noize MC - На Марсе классно",
+    "band": "Noize MC", "title": " - На Марсе классно",
     "tags": ["ноиз"],
     "genre": "Rap, Hip-hop",
     "text": "Rap, Hip-hop/Noize MC/Noize MC - На Марсе классно.html",
@@ -3173,7 +3173,7 @@
   },
   {
     "id": "346",
-    "band": "", "title": "Баста - Выпускной (Медлячок)",
+    "band": "Баста", "title": " - Выпускной (Медлячок)",
     "genre": "Rap, Hip-hop",
     "text": "Rap, Hip-hop/Баста/Баста - Выпускной (Медлячок).html",
     "score": "",
@@ -3182,7 +3182,7 @@
   },
   {
     "id": "347",
-    "band": "", "title": "Макс Корж - Небо поможет нам",
+    "band": "Макс Корж", "title": " - Небо поможет нам",
     "genre": "Rap, Hip-hop",
     "text": "Rap, Hip-hop/Макс Корж/Макс Корж - Небо поможет нам.html",
     "score": "",
@@ -3191,7 +3191,7 @@
   },
   {
     "id": "348",
-    "band": "", "title": "Макс Корж - Шантаж",
+    "band": "Макс Корж", "title": " - Шантаж",
     "genre": "Rap, Hip-hop",
     "text": "Rap, Hip-hop/Макс Корж/Макс Корж - Шантаж.html",
     "score": "",
@@ -3200,7 +3200,7 @@
   },
   {
     "id": "349",
-    "band": "", "title": "Макс Корж - Эндорфин",
+    "band": "Макс Корж", "title": " - Эндорфин",
     "genre": "Rap, Hip-hop",
     "text": "Rap, Hip-hop/Макс Корж/Макс Корж - Эндорфин.html",
     "score": "",
@@ -3209,7 +3209,7 @@
   },
   {
     "id": "350",
-    "band": "", "title": "Тима Белорусских - Витаминка",
+    "band": "Тима Белорусских", "title": " - Витаминка",
     "genre": "Rap, Hip-hop",
     "text": "Rap, Hip-hop/Тима Белорусских/Тима Белорусских - Витаминка.html",
     "score": "",
@@ -3218,7 +3218,7 @@
   },
   {
     "id": "351",
-    "band": "", "title": "Тима Белорусских - Мокрые кроссы",
+    "band": "Тима Белорусских", "title": " - Мокрые кроссы",
     "genre": "Rap, Hip-hop",
     "text": "Rap, Hip-hop/Тима Белорусских/Тима Белорусских - Мокрые кроссы.html",
     "score": "",
@@ -3227,7 +3227,7 @@
   },
   {
     "id": "352",
-    "band": "", "title": "Тима Белорусских - Незабудка",
+    "band": "Тима Белорусских", "title": " - Незабудка",
     "genre": "Rap, Hip-hop",
     "text": "Rap, Hip-hop/Тима Белорусских/Тима Белорусских - Незабудка.html",
     "score": "",
@@ -3237,7 +3237,7 @@
   
   {
     "id": "353",
-    "band": "", "title": "Pixies - Where Is My Mind?",
+    "band": "Pixies", "title": " - Where Is My Mind?",
     "genre": "Indie",
     "text": "Indie/Pixies/Pixies - Where Is My Mind.html",
     "score": "",
@@ -3246,7 +3246,7 @@
   },
   {
     "id": "354",
-    "band": "", "title": "RSAC x ELLA - NBA",
+    "band": "RSAC x ELLA", "title": " - NBA",
     "tags": ["не мешай"],
     "genre": "Indie",
     "text": "Indie/RSAC x ELLA/RSAC x ELLA - NBA.html",
@@ -3256,7 +3256,7 @@
   },
   {
     "id": "355",
-    "band": "", "title": "ssshhhiiittt! - Танцы",
+    "band": "ssshhhiiittt!", "title": " - Танцы",
     "tags": ["shit", "шит"],
     "genre": "Indie",
     "text": "Indie/ssshhhiiittt!/ssshhhiiittt! - Танцы.html",
@@ -3266,7 +3266,7 @@
   },
   {
     "id": "356",
-    "band": "", "title": "XOLIDAYBOY - Пожары",
+    "band": "XOLIDAYBOY", "title": " - Пожары",
     "tags": ["холидейбой"],
     "genre": "Indie",
     "text": "Indie/XOLIDAYBOY/XOLIDAYBOY - Пожары.html",
@@ -3276,7 +3276,7 @@
   },
   {
     "id": "357",
-    "band": "", "title": "Алёна Швец - Расстрел",
+    "band": "Алёна Швец", "title": " - Расстрел",
     "genre": "Indie",
     "text": "Indie/Алёна Швец/Алёна Швец - Расстрел.html",
     "score": "",
@@ -3285,7 +3285,7 @@
   },
   {
     "id": "358",
-    "band": "", "title": "Бонд с кнопкой - Кухни",
+    "band": "Бонд с кнопкой", "title": " - Кухни",
     "genre": "Indie",
     "text": "Indie/Бонд с кнопкой/Бонд с кнопкой - Кухни.html",
     "score": "",
@@ -3294,7 +3294,7 @@
   },
   {
     "id": "359",
-    "band": "", "title": "Гречка - Картина",
+    "band": "Гречка", "title": " - Картина",
     "genre": "Indie",
     "text": "Indie/Гречка/Гречка - Картина.html",
     "score": "",
@@ -3303,7 +3303,7 @@
   },
   {
     "id": "360",
-    "band": "", "title": "Гречка - Люби меня люби",
+    "band": "Гречка", "title": " - Люби меня люби",
     "genre": "Indie",
     "text": "Indie/Гречка/Гречка - Люби меня люби.html",
     "score": "",
@@ -3312,7 +3312,7 @@
   },
   {
     "id": "361",
-    "band": "", "title": "Джизус - Девочка в классе",
+    "band": "Джизус", "title": " - Девочка в классе",
     "genre": "Indie",
     "text": "Indie/Джизус/Джизус - Девочка в классе.html",
     "score": "",
@@ -3321,7 +3321,7 @@
   },
   {
     "id": "362",
-    "band": "", "title": "Мукка - Девочка с каре",
+    "band": "Мукка", "title": " - Девочка с каре",
     "genre": "Indie",
     "text": "Indie/Мукка/Мукка - Девочка с каре.html",
     "score": "",
@@ -3330,7 +3330,7 @@
   },
   {
     "id": "363",
-    "band": "", "title": "Папин Олимпос - Тёмно-оранжевый закат",
+    "band": "Папин Олимпос", "title": " - Тёмно-оранжевый закат",
     "genre": "Indie",
     "text": "Indie/Папин Олимпос/Папин Олимпос - Тёмно-оранжевый закат.html",
     "score": "",
@@ -3339,7 +3339,7 @@
   },
   {
     "id": "364",
-    "band": "", "title": "Просто Лера - Лютики",
+    "band": "Просто Лера", "title": " - Лютики",
     "genre": "Indie",
     "text": "Indie/Просто Лера/Просто Лера - Лютики.html",
     "score": "",
@@ -3348,7 +3348,7 @@
   },
   {
     "id": "365",
-    "band": "", "title": "Просто Лера - Мне 20",
+    "band": "Просто Лера", "title": " - Мне 20",
     "genre": "Indie",
     "text": "Indie/Просто Лера/Просто Лера - Мне 20.html",
     "score": "",
@@ -3357,7 +3357,7 @@
   },
   {
     "id": "366",
-    "band": "", "title": "Просто Лера - Оставь меня одну",
+    "band": "Просто Лера", "title": " - Оставь меня одну",
     "genre": "Indie",
     "text": "Indie/Просто Лера/Просто Лера - Оставь меня одну.html",
     "score": "",
@@ -3366,7 +3366,7 @@
   },
   {
     "id": "367",
-    "band": "", "title": "Свидание - Случайная любовь",
+    "band": "Свидание", "title": " - Случайная любовь",
     "genre": "Indie",
     "text": "Indie/Свидание/Свидание - Случайная любовь.html",
     "score": "",
@@ -3375,7 +3375,7 @@
   },
   {
     "id": "368",
-    "band": "", "title": "Шарлот - Мяу мяу мяу",
+    "band": "Шарлот", "title": " - Мяу мяу мяу",
     "genre": "Indie",
     "text": "Indie/Шарлот/Шарлот - Мяу мяу мяу.html",
     "score": "",
@@ -3384,7 +3384,7 @@
   },
   {
     "id": "369",
-    "band": "", "title": "Шарлот - Щека на щеку",
+    "band": "Шарлот", "title": " - Щека на щеку",
     "genre": "Indie",
     "text": "Indie/Шарлот/Шарлот - Щека на щеку.html",
     "score": "",
@@ -3394,7 +3394,7 @@
   
   {
     "id": "370",
-    "band": "", "title": "Adriano Celentano - Confessa",
+    "band": "Adriano Celentano", "title": " - Confessa",
     "tags": ["Челентано"],
     "genre": "Estrada",
     "text": "Estrada/Adriano Celentano/Adriano Celentano - Confessa.html",
@@ -3404,7 +3404,7 @@
   },
   {
     "id": "371",
-    "band": "", "title": "Алла Пугачёва - Позови меня с собой",
+    "band": "Алла Пугачёва", "title": " - Позови меня с собой",
     "genre": "Estrada",
     "text": "Estrada/Алла Пугачёва/Алла Пугачёва - Позови меня с собой.html",
     "score": "",
@@ -3413,7 +3413,7 @@
   },
   {
     "id": "372",
-    "band": "", "title": "Григорий Лепс - Рюмка водки на столе",
+    "band": "Григорий Лепс", "title": " - Рюмка водки на столе",
     "genre": "Estrada",
     "text": "Estrada/Григорий Лепс/Григорий Лепс - Рюмка водки на столе.html",
     "score": "",
@@ -3422,7 +3422,7 @@
   },
   {
     "id": "373",
-    "band": "", "title": "Любэ - Давай за...",
+    "band": "Любэ", "title": " - Давай за...",
     "genre": "Estrada",
     "text": "Estrada/Любэ/Любэ - Давай за....html",
     "score": "",
@@ -3431,7 +3431,7 @@
   },
   {
     "id": "374",
-    "band": "", "title": "Любэ - Конь",
+    "band": "Любэ", "title": " - Конь",
     "genre": "Estrada",
     "text": "Estrada/Любэ/Любэ - Конь.html",
     "score": "",
@@ -3440,7 +3440,7 @@
   },
   {
     "id": "375",
-    "band": "", "title": "Любэ - Позови меня тихо по имени",
+    "band": "Любэ", "title": " - Позови меня тихо по имени",
     "genre": "Estrada",
     "text": "Estrada/Любэ/Любэ - Позови меня тихо по имени.html",
     "score": "",
@@ -3449,7 +3449,7 @@
   },
   {
     "id": "376",
-    "band": "", "title": "Любэ - Ты неси меня, река (Краса)",
+    "band": "Любэ", "title": " - Ты неси меня, река (Краса)",
     "genre": "Estrada",
     "text": "Estrada/Любэ/Любэ - Ты неси меня, река (Краса).html",
     "score": "",
@@ -3458,7 +3458,7 @@
   },
   {
     "id": "377",
-    "band": "", "title": "Михаил Боярский - Всё пройдёт",
+    "band": "Михаил Боярский", "title": " - Всё пройдёт",
     "genre": "Estrada",
     "text": "Estrada/Михаил Боярский/Михаил Боярский - Всё пройдёт.html",
     "score": "",
@@ -3467,7 +3467,7 @@
   },
   {
     "id": "378",
-    "band": "", "title": "Михаил Боярский - Зеленоглазое такси",
+    "band": "Михаил Боярский", "title": " - Зеленоглазое такси",
     "genre": "Estrada",
     "text": "Estrada/Михаил Боярский/Михаил Боярский - Зеленоглазое такси.html",
     "score": "",
@@ -3476,7 +3476,7 @@
   },
   {
     "id": "379",
-    "band": "", "title": "Михаил Боярский - Ланфрен-Ланфра",
+    "band": "Михаил Боярский", "title": " - Ланфрен-Ланфра",
     "genre": "Estrada",
     "text": "Estrada/Михаил Боярский/Михаил Боярский - Ланфрен-Ланфра.html",
     "score": "",
@@ -3485,7 +3485,7 @@
   },
   {
     "id": "380",
-    "band": "", "title": "Михаил Боярский - Спасибо, родная",
+    "band": "Михаил Боярский", "title": " - Спасибо, родная",
     "genre": "Estrada",
     "text": "Estrada/Михаил Боярский/Михаил Боярский - Спасибо, родная.html",
     "score": "",
@@ -3494,7 +3494,7 @@
   },
   {
     "id": "381",
-    "band": "", "title": "Михаил Боярский - Спасибо, родная",
+    "band": "Михаил Боярский", "title": " - Спасибо, родная",
     "genre": "Estrada",
     "text": "Estrada/Михаил Боярский/Михаил Боярский - Спасибо, родная (bass).html",
     "score": "",
@@ -3503,7 +3503,7 @@
   },
   {
     "id": "382",
-    "band": "", "title": "Муслим Магомаев - Серенада Трубадура",
+    "band": "Муслим Магомаев", "title": " - Серенада Трубадура",
     "tags": ["луч солнца золотого"],
     "genre": "Estrada",
     "text": "Estrada/Муслим Магомаев/Муслим Магомаев - Серенада Трубадура.html",
@@ -3513,7 +3513,7 @@
   },
   {
     "id": "383",
-    "band": "", "title": "Муслим Магомаев - Синяя вечность",
+    "band": "Муслим Магомаев", "title": " - Синяя вечность",
     "tags": ["О море, море..."],
     "genre": "Estrada",
     "text": "Estrada/Муслим Магомаев/Муслим Магомаев - Синяя вечность.html",
@@ -3523,7 +3523,7 @@
   },
   {
     "id": "384",
-    "band": "", "title": "Пламя - Снег кружится",
+    "band": "Пламя", "title": " - Снег кружится",
     "genre": "Estrada",
     "text": "Estrada/Пламя/Пламя - Снег кружится.html",
     "score": "",
@@ -3532,7 +3532,7 @@
   },
   {
     "id": "385",
-    "band": "", "title": "Синяя птица - Клён",
+    "band": "Синяя птица", "title": " - Клён",
     "genre": "Estrada",
     "text": "Estrada/Синяя птица/Синяя птица - Клён.html",
     "score": "",
@@ -3541,7 +3541,7 @@
   },
   {
     "id": "386",
-    "band": "", "title": "Татьяна Дасковская - Прекрасное далёко",
+    "band": "Татьяна Дасковская", "title": " - Прекрасное далёко",
     "genre": "Estrada",
     "text": "Estrada/Татьяна Дасковская/Татьяна Дасковская - Прекрасное далёко.html",
     "score": "",
@@ -3550,7 +3550,7 @@
   },
   {
     "id": "387",
-    "band": "", "title": "Юрий Лоза - Плот",
+    "band": "Юрий Лоза", "title": " - Плот",
     "genre": "Estrada",
     "text": "Estrada/Юрий Лоза/Юрий Лоза - Плот.html",
     "score": "",
@@ -3559,7 +3559,7 @@
   },
   {
     "id": "388",
-    "band": "", "title": "Ярослав Евдокимов - Фантазёр",
+    "band": "Ярослав Евдокимов", "title": " - Фантазёр",
     "genre": "Estrada",
     "text": "Estrada/Ярослав Евдокимов/Ярослав Евдокимов - Фантазёр.html",
     "score": "",
@@ -3569,7 +3569,7 @@
   
   {
     "id": "389",
-    "band": "", "title": "Белый орёл - Потому что нельзя быть красивой такой",
+    "band": "Белый орёл", "title": " - Потому что нельзя быть красивой такой",
     "genre": "Chanson",
     "text": "Chanson/Михаил Круг/Белый орёл - Потому что нельзя быть красивой такой.html",
     "score": "",
@@ -3587,7 +3587,7 @@
   },
   {
     "id": "391",
-    "band": "", "title": "Михаил Круг - Девочка-пай",
+    "band": "Михаил Круг", "title": " - Девочка-пай",
     "genre": "Chanson",
     "text": "Chanson/Михаил Круг/Михаил Круг - Девочка-пай.html",
     "score": "",
@@ -3596,7 +3596,7 @@
   },
   {
     "id": "392",
-    "band": "", "title": "Михаил Круг - Кольщик",
+    "band": "Михаил Круг", "title": " - Кольщик",
     "genre": "Chanson",
     "text": "Chanson/Михаил Круг/Михаил Круг - Кольщик.html",
     "score": "",
@@ -3605,7 +3605,7 @@
   },
   {
     "id": "393",
-    "band": "", "title": "Михаил Круг - Фраер",
+    "band": "Михаил Круг", "title": " - Фраер",
     "genre": "Chanson",
     "text": "Chanson/Михаил Круг/Михаил Круг - Фраер.html",
     "score": "",
@@ -3614,7 +3614,7 @@
   },
   {
     "id": "394",
-    "band": "", "title": "Стас Михайлов - Всё для тебя",
+    "band": "Стас Михайлов", "title": " - Всё для тебя",
     "genre": "Chanson",
     "text": "Chanson/Стас Михайлов/Стас Михайлов - Всё для тебя.html",
     "score": "",
@@ -3623,7 +3623,7 @@
   },
   {
     "id": "395",
-    "band": "", "title": "Фристайл - Ах, какая женщина",
+    "band": "Фристайл", "title": " - Ах, какая женщина",
     "genre": "Chanson",
     "text": "Chanson/Фристайл/Фристайл - Ах, какая женщина.html",
     "score": "",
@@ -3633,7 +3633,7 @@
   
   {
     "id": "396",
-    "band": "", "title": "Notre-Dame de Paris - Belle",
+    "band": "Notre-Dame de Paris", "title": " - Belle",
     "tags": ["Эсмеральда"],
     "genre": "Musical",
     "text": "Musical/Notre-Dame de Paris/Notre-Dame de Paris - Belle.html",
@@ -3644,7 +3644,7 @@
   
   {
     "id": "397",
-    "band": "", "title": "Gheorghe Zamfir - The Lonely Shepherd",
+    "band": "Gheorghe Zamfir", "title": " - The Lonely Shepherd",
     "tags": ["одинокий пастух"],
     "genre": "Classic",
     "text": "Classic/Gheorghe Zamfir/Gheorghe Zamfir - The Lonely Shepherd.html",
@@ -3655,7 +3655,7 @@
   
   {
     "id": "398",
-    "band": "", "title": "Dean Martin - Let It Snow! Let It Snow! Let It Snow!",
+    "band": "Dean Martin", "title": " - Let It Snow! Let It Snow! Let It Snow!",
     "genre": "New Year",
     "text": "New Year/Dean Martin/Dean Martin - Let It Snow! Let It Snow! Let It Snow!.html",
     "score": "",
@@ -3664,7 +3664,7 @@
   },
   {
     "id": "399",
-    "band": "", "title": "Wham! - Last Christmas",
+    "band": "Wham!", "title": " - Last Christmas",
     "genre": "New Year",
     "text": "New Year/Wham!/Wham! - Last Christmas.html",
     "score": "",
@@ -3673,7 +3673,7 @@
   },
   {
     "id": "400",
-    "band": "", "title": "Дилижанс - Новогодняя",
+    "band": "Дилижанс", "title": " - Новогодняя",
     "genre": "New Year",
     "text": "New Year/Дилижанс/Дилижанс - Новогодняя.html",
     "score": "",
@@ -3682,7 +3682,7 @@
   },
   {
     "id": "401",
-    "band": "", "title": "Дискотека Авария - Новогодняя",
+    "band": "Дискотека Авария", "title": " - Новогодняя",
     "genre": "New Year",
     "text": "New Year/Дискотека Авария/Дискотека Авария - Новогодняя.html",
     "score": "",
@@ -3691,7 +3691,7 @@
   },
   {
     "id": "402",
-    "band": "", "title": "Стекловата - Новый год",
+    "band": "Стекловата", "title": " - Новый год",
     "genre": "New Year",
     "text": "New Year/Стекловата/Стекловата - Новый год.html",
     "score": "",
