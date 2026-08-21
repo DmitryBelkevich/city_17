@@ -2826,10 +2826,11 @@
     "playback": "",
     "visible": "true"
   },
+  
   {
     "id": "",
-    "band": "", "title": "",
-    "genre": "",
+    "band": "", "title": "Era - Ameno",
+    "genre": "SynthPop",
     "text": "",
     "score": "",
     "playback": "",
@@ -2837,8 +2838,18 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
-    "genre": "",
+    "band": "", "title": "Альянс - На заре",
+    "genre": "SynthPop",
+    "text": "SynthPop/Альянс/Альянс - На заре.html",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  
+  {
+    "id": "",
+    "band": "", "title": "Coolio - Gangsta's Paradise",
+    "genre": "Rap, Hip-hop",
     "text": "",
     "score": "",
     "playback": "",
@@ -2846,8 +2857,160 @@
   },
   {
     "id": "",
-    "band": "", "title": "",
-    "genre": "",
+    "band": "", "title": "Face2Face - Кошка",
+    "tags": ["ноиз"],
+    "genre": "Rap, Hip-hop",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "Элджей, Feduk - Розовое вино",
+    "tags": ["Федук"],
+    "genre": "Rap, Hip-hop",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "Feduk - Хлопья летят наверх",
+    "tags": ["Федук"],
+    "genre": "Rap, Hip-hop",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "Kentukki - Замигает свет",
+    "tags": ["Кентукки"],
+    "genre": "Rap, Hip-hop",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "Anacondaz - Твоему новому парню",
+    "genre": "Rap, Hip-hop",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "Morgenshtern - Пустой вокзал",
+    "genre": "Rap, Hip-hop",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "Noize MC - Вояджер-1",
+    "tags": ["ноиз"],
+    "genre": "Rap, Hip-hop",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "Noize MC - Вселенная бесконечна?",
+    "tags": ["ноиз"],
+    "genre": "Rap, Hip-hop",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "Noize MC - Выдыхай",
+    "tags": ["ноиз"],
+    "genre": "Rap, Hip-hop",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "Noize MC - На Марсе классно",
+    "tags": ["ноиз"],
+    "genre": "Rap, Hip-hop",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "Баста - Выпускной (Медлячок)",
+    "genre": "Rap, Hip-hop",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "Макс Корж - Небо поможет нам",
+    "genre": "Rap, Hip-hop",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "Макс Корж - Шантаж",
+    "genre": "Rap, Hip-hop",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "Макс Корж - Эндорфин",
+    "genre": "Rap, Hip-hop",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "Тима Белорусских - Витаминка",
+    "genre": "Rap, Hip-hop",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "Тима Белорусских - Мокрые кроссы",
+    "genre": "Rap, Hip-hop",
+    "text": "",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
+    "id": "",
+    "band": "", "title": "Тима Белорусских - Незабудка",
+    "genre": "Rap, Hip-hop",
     "text": "",
     "score": "",
     "playback": "",
