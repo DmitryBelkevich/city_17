@@ -55,27 +55,27 @@ export default class SongView {
 
       // standards
 
-      if (arr[0] == "D#" && arr[1] == "G#" && arr[2] == "C#")//-1
+      if (tuning[0] == "D#" && tuning[1] == "G#" && tuning[2] == "C#")//-1
         tuningTitle = "Standard D#";
 
-      if (arr[0] == "D" && arr[1] == "G" && arr[2] == "C")//-2
+      if (tuning[0] == "D" && tuning[1] == "G" && tuning[2] == "C")//-2
         tuningTitle = "Standard D";
 
-      if (arr[0] == "C#" && arr[1] == "F#" && arr[2] == "B")//-3
+      if (tuning[0] == "C#" && tuning[1] == "F#" && tuning[2] == "B")//-3
         tuningTitle = "Standard C#";
 
       // drops
 
-      if (arr[0] == "D" && arr[1] == "A" && arr[2] == "D")//0
+      if (tuning[0] == "D" && tuning[1] == "A" && tuning[2] == "D")//0
         tuningTitle = "Drop D";
 
-      if (arr[0] == "C#" && arr[1] == "G#" && arr[2] == "C#")//-1
+      if (tuning[0] == "C#" && tuning[1] == "G#" && tuning[2] == "C#")//-1
         tuningTitle = "Drop C#";
 
-      if (arr[0] == "C" && arr[1] == "G" && arr[2] == "C")//-2
+      if (tuning[0] == "C" && tuning[1] == "G" && tuning[2] == "C")//-2
         tuningTitle = "Drop C";
 
-      if (arr[0] == "B" && arr[1] == "F" && arr[2] == "B")//-3
+      if (tuning[0] == "B" && tuning[1] == "F" && tuning[2] == "B")//-3
         tuningTitle = "Drop B";
 
       element.style.color = "red";
