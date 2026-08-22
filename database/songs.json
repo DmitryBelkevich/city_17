@@ -235,6 +235,7 @@
     "text": "Rock, Punk/Joan Osborne/Joan Osborne - One of Us.html",
     "score": "https://drive.google.com/file/d/1dNgHW5nIDbkENnTqnzqlzyaFQ2QMss41/view?usp=drive_link",
     "playback": "https://drive.google.com/drive/folders/1K62TmDpdAO0oKLPLcFJo9BAhR7VzCtc6?usp=drive_link",
+    "tuning": "capo +2",
     "visible": "true"
   },
   
@@ -245,7 +246,6 @@
     "text": "Rock, Punk/Joan Osborne/Joan Osborne - One of Us (bass).html",
     "score": "https://drive.google.com/file/d/1dNgHW5nIDbkENnTqnzqlzyaFQ2QMss41/view?usp=drive_link",
     "playback": "https://drive.google.com/drive/folders/1K62TmDpdAO0oKLPLcFJo9BAhR7VzCtc6?usp=drive_link",
-    "tuning": ["capo +2"],
     "visible": "true"
   },
   {
