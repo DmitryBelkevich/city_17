@@ -40,14 +40,13 @@ export default class SongView {
   }
 
   setTuning() {
-    // const element = document.getElementById("tuning");
-    console.log(this.#song);
+    const element = document.getElementById("tuning");
 
-    // if (!!this.#song.tuning) {
+    if (!this.#song.tuning) {console.log(0);
       // element.style.color = "green";
       // element.innerHTML = "Guitar tuning: Standard E " + "[E A D G B E]"
-      // return;
-    // }
+      return;
+    }console.log(1);
 
     // element.style.color = "red";
     // element.innerHTML = "Guitar tuning: " + this.#song.tuning;
