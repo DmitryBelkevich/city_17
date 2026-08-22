@@ -43,7 +43,7 @@ export default class SongView {
     const element = document.getElementById("tuning");
 
     var tuning;
-    var tuningTitle;
+    var tuningTitle = "";
     
     if (!this.#song.tuning) {
       tuning = ["E", "A", "D", "G", "B", "E"];
@@ -52,7 +52,31 @@ export default class SongView {
       element.style.color = "green";
     } else {
       tuning = this.#song.tuning;
-      tuningTitle = "";
+
+      // standards
+
+      if (arr[0] == "D#" && arr[1] == "G#" && arr[2] == "C#")//-1
+        tuningTitle = "Standard D#";
+
+      if (arr[0] == "D" && arr[1] == "G" && arr[2] == "C")//-2
+        tuningTitle = "Standard D";
+
+      if (arr[0] == "C#" && arr[1] == "F#" && arr[2] == "B")//-3
+        tuningTitle = "Standard C#";
+
+      // drops
+
+      if (arr[0] == "D" && arr[1] == "A" && arr[2] == "D")//0
+        tuningTitle = "Drop D";
+
+      if (arr[0] == "C#" && arr[1] == "G#" && arr[2] == "C#")//-1
+        tuningTitle = "Drop C#";
+
+      if (arr[0] == "C" && arr[1] == "G" && arr[2] == "C")//-2
+        tuningTitle = "Drop C";
+
+      if (arr[0] == "B" && arr[1] == "F" && arr[2] == "B")//-3
+        tuningTitle = "Drop B";
 
       element.style.color = "red";
     }
