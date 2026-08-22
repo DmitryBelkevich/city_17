@@ -52,6 +52,7 @@ export default class SongView {
       element.style.color = "green";
     } else {
       tuning = this.#song.tuning;
+      tuningTitle = "";
 
       element.style.color = "red";
     }
