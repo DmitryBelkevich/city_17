@@ -75,7 +75,7 @@ export default class SongView {
       if (tuning[0] == "C" && tuning[1] == "G" && tuning[2] == "C")//-2
         tuningTitle = "Drop C";
 
-      if (tuning[0] == "B" && tuning[1] == "F" && tuning[2] == "B")//-3
+      if (tuning[0] == "B" && tuning[1] == "F#" && tuning[2] == "B")//-3
         tuningTitle = "Drop B";
 
       element.style.color = "red";
