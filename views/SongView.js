@@ -46,7 +46,7 @@ export default class SongView {
       // element.style.color = "green";
       // element.innerHTML = "Guitar tuning: Standard E " + "[E A D G B E]"
       return;
-    }console.log(1);
+    }console.log(1);console.log(this.#song);
 
     // element.style.color = "red";
     // element.innerHTML = "Guitar tuning: " + this.#song.tuning;
