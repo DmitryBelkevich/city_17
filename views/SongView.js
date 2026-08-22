@@ -42,7 +42,7 @@ export default class SongView {
   setTuning() {
     const element = document.getElementById("tuning");
 
-    const tuning = [];
+    var tuning;
     
     if (!this.#song.tuning) {
       element.style.color = "green";
