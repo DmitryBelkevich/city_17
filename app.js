@@ -4,32 +4,32 @@
  * It does not know anything about the HTML or the DOM.
  */
 class Model {
-    constructor() {
-        this.count = 0; // The application state
-    }
-
-    // Business logic methods to alter data
-    increment() {
-        this.count++;
+  constructor() {
+    this.count = 0; // The application state
+  }
+  
+  // Business logic methods to alter data
+  increment() {
+    this.count++;
+    this._commit();
+  }
+  
+  decrement() {
+    if (this.count > 0) {
+        this.count--;
         this._commit();
     }
-
-    decrement() {
-        if (this.count > 0) {
-            this.count--;
-            this._commit();
-        }
-    }
-
-    // Register a callback function from the controller to notify state changes
-    bindOnStateChanged(callback) {
-        this.onStateChanged = callback;
-    }
-
-    // Triggers the view update via the registered callback
-    _commit() {
-        this.onStateChanged(this.count);
-    }
+  }
+  
+  // Register a callback function from the controller to notify state changes
+  bindOnStateChanged(callback) {
+    this.onStateChanged = callback;
+  }
+  
+  // Triggers the view update via the registered callback
+  _commit() {
+    this.onStateChanged(this.count);
+  }
 }
 
 /**
