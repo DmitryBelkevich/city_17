@@ -16,8 +16,8 @@ class Model {
   
   decrement() {
     if (this.count > 0) {
-        this.count--;
-        this._commit();
+      this.count--;
+      this._commit();
     }
   }
   
