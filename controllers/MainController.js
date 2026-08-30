@@ -1,5 +1,7 @@
 export default class MainController {
-  constructor(params) {
-    console.log(this);
+  constructor() {
+    // view
+    this.view = new MainView();
+    this.view.update();
   }
 }
