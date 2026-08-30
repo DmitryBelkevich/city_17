@@ -28,4 +28,10 @@ function main() {
   frontController.register('/404', () => console.log('Page Not Found'));
 }
 
-const app = main();
+// const app = main();
+
+const frontController = new FrontController();
+
+frontController.register('/', () => console.log('Home Page View'));
+frontController.register('/about', () => console.log('About Page View'));
+frontController.register('/404', () => console.log('Page Not Found'));
