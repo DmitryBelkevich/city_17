@@ -2,7 +2,7 @@ class Dispatcher {
   constructor() {
     this.routes = {};
 
-    this.register('/', () => console.log('Home Page View'));
+    this.register('/', () => console.log('Main Page View'));
     this.register('/list', () => console.log('List Page View'));
     this.register('/song', () => console.log('Song Page View'));
     this.register('/404', () => console.log('Page not found'));
