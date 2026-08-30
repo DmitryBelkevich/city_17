@@ -1,6 +1,6 @@
 import Song from '../models/Song.js';
 import SongView from '../views/SongView.js';
-import SongService from '../dao/SongService.js';
+import SongService from '../services/SongService.js';
 
 export default class SongController {
   constructor(params) {
