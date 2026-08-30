@@ -21,9 +21,7 @@ export default class Dispatcher {
   }
 
   dispatch(path) {
-    const path = path.slice("/js_app".length, -1);
-    
-    const action = this.routes[path] || this.routes["/404"];
+    const action = this.routes[path.slice("/js_app".length, -1)] || this.routes["/404"];
     action();
   }
 }
