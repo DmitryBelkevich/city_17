@@ -12,5 +12,6 @@ export default class SongController {
 
     // view
     this.view = new SongView();
+    this.view.update();
   }
 }
