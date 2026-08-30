@@ -1,1 +1,1 @@
-# js_mvc
+# js_app
