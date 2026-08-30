@@ -23,7 +23,7 @@ export default class Dispatcher {
     const routeName = path.slice("/js_app".length, -1);
 
     const params = this.getParams();
-    console.log(params.get("id"));
+    // console.log(params.get("id"));
     
     const action = this.routes[routeName] || this.routes["/404"];
     action();
