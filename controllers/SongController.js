@@ -1,4 +1,5 @@
 import Song from '../models/Song.js';
+import SongView from '../views/SongView.js';
 
 export default class SongController {
   constructor(params) {
@@ -6,6 +7,6 @@ export default class SongController {
     console.log(id);
     
     this.song = new Song();//get from database by id
-    // this.view = view;
+    this.view = new SongView();
   }
 }
