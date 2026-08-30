@@ -15,11 +15,11 @@ export default class Dispatcher {
   }
 
   handleRoute() {
-    const path = window.location.pathname;
+    const path = window.location.pathname;console.log(path);
     this.dispatch(path);
   }
 
-  dispatch(path) {console.log(path);
+  dispatch(path) {
     const action = this.routes[path] || this.routes['/404'];
     action();
   }
