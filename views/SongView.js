@@ -1,5 +1,9 @@
 export default class SongView {
   constructor() {
-    console.log("SongView is loaded");
+    
+  }
+
+  update() {
+    console.log("draw SongView");
   }
 }
