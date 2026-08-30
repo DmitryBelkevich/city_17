@@ -14,7 +14,7 @@ export default class Dispatcher {
       console.log('Load ListController');
     });
     
-    this.register("/song", (params) => return new SongController(params));
+    this.register("/song", (params) => new SongController(params));
     
     this.register("/404", () => {
       console.log('Page not found');
