@@ -1,4 +1,4 @@
-import Dispatcher from 'Dispatcher.js';
+import Dispatcher from '/Dispatcher.js';
 
 export default class FrontController {
   constructor() {
