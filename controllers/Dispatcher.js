@@ -1,6 +1,4 @@
 export default class Dispatcher {
-  appName = "/js_app";
-  
   constructor() {
     this.routes = {};
     
@@ -23,9 +21,9 @@ export default class Dispatcher {
   }
 
   dispatch(path) {
-    console.log(path);
+    console.log(path.replace('/js_app', ""));
     
-    const action = this.routes[path] || this.routes["/404"];
+    const action = this.routes[path.replace('/js_app', "")] || this.routes["/404"];
     action();
   }
 }
