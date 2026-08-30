@@ -3,11 +3,11 @@ class Song() {
 }
 
 class SongController {
-  constructor(model, view) {
+  constructor() {
     const id = 1;//get from database
     
     this.song = new Song();
-    this.view = view;
+    // this.view = view;
   }
 }
 
