@@ -5,6 +5,12 @@ class Dispatcher {
 class FrontController {
   constructor() {
     this.routes = {};
+
+    this.register('/', () => console.log('Home Page View'));
+    this.register('/list', () => console.log('List Page View'));
+    this.register('/song', () => console.log('Song Page View'));
+    this.register('/404', () => console.log('Page not found'));
+    
     window.addEventListener('popstate', () => this.handleRoute());
   }
 
@@ -25,12 +31,6 @@ class FrontController {
 
 function main() {
   const frontController = new FrontController();
-  
-  frontController.register('/', () => console.log('Home Page View'));
-  frontController.register('/list', () => console.log('List Page View'));
-  frontController.register('/song', () => console.log('Song Page View'));
-  frontController.register('/404', () => console.log('Page not found'));
-  
   frontController.dispatch("/");
 }
 
