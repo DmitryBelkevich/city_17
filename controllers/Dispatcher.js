@@ -38,7 +38,8 @@ export default class Dispatcher {
   }
 
   dispatch(path) {
-    const routeName = path.slice("/js_app".length, -1);
+    const appName = "city_17";
+    const routeName = path.slice(("/" + appName).length, -1);
 
     const params = this.getParams();
     
