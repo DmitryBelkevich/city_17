@@ -3,7 +3,7 @@ export default class SongView {
     
   }
 
-  updete() {
+  update() {
     console.log("draw SongView");
   }
 }
