@@ -1,8 +1,9 @@
 export default class Dispatcher {
+  appName = "/js_app";
+  
   constructor() {
     this.routes = {};
-
-    const appName = "/js_app";
+    
     this.register(appName + "", () => console.log('Main Page View'));
     this.register(appName + "/list", () => console.log('List Page View'));
     this.register(appName + "/song", () => console.log('Song Page View'));
