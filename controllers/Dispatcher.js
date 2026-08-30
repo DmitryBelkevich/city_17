@@ -1,16 +1,4 @@
-class Song {
-  
-}
-
-class SongController {
-  constructor(params) {
-    const id = params.get("id");
-    console.log(id);
-    
-    this.song = new Song();//get from database by id
-    // this.view = view;
-  }
-}
+import SongController from './SongController.js';
 
 export default class Dispatcher {
   constructor() {
