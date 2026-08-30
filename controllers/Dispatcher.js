@@ -3,10 +3,10 @@ class Song {
 }
 
 class SongController {
-  constructor() {
-    const id = 1;//get from database
+  constructor(params) {
+    const id = params.get("id");
     
-    this.song = new Song();
+    this.song = new Song();//get from database by id
     // this.view = view;
   }
 }
@@ -25,11 +25,11 @@ export default class Dispatcher {
       console.log('Load ListController');
     });
     
-    this.register("/song", (id) => {
+    this.register("/song", (params) => {
       console.log('Song Page View');
       console.log('Load SongController');
-      console.log('id=' + id);
-      // return new SongController();
+      
+      return new SongController(params);
     });
     
     this.register("/404", () => {
@@ -52,10 +52,9 @@ export default class Dispatcher {
     const routeName = path.slice("/js_app".length, -1);
 
     const params = this.getParams();
-    console.log(params.get("id"));
     
     const action = this.routes[routeName] || this.routes["/404"];
-    action("5");
+    action(params);
   }
 
   getParams() {
