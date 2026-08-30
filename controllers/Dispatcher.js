@@ -14,8 +14,8 @@ export default class Dispatcher {
     this.routes[path] = action;
   }
 
-  handleRoute() {
-    const path = window.location.pathname;console.log(path);
+  handleRoute() {console.log("handleRoute");
+    const path = window.location.pathname;
     this.dispatch(path);
   }
 
