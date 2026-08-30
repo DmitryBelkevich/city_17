@@ -1,3 +1,5 @@
+import MainView from '../views/MainView.js';
+
 export default class MainController {
   constructor() {
     // view
