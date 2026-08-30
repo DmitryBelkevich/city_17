@@ -23,11 +23,11 @@ function main() {
   const frontController = new FrontController();
   
   frontController.register('/', () => console.log('Home Page View'));
-  frontController.register('/about', () => console.log('About Page View'));
-  frontController.register('/404', () => console.log('Page Not Found'));
+  frontController.register('/list', () => console.log('List Page View'));
+  frontController.register('/song', () => console.log('Song Page View'));
+  frontController.register('/404', () => console.log('Page not found'));
   
   frontController.dispatch("/");
-  // frontController.dispatch("/song");
 }
 
 const app = main();
