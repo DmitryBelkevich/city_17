@@ -4,13 +4,13 @@ export default class Dispatcher {
 
     this.register('/js_app' + '/', () => console.log('Main Page View'));
     this.register('/js_app' + '/list', () => console.log('List Page View'));
-    this.register('/js_app' + '/song', () => console.log('Song Page View'));
+    this.register('/js_app' + '/song/', () => console.log('Song Page View'));
     this.register('/js_app' + '/404', () => console.log('Page not found'));
 
     window.addEventListener('popstate', () => this.handleRoute());
   }
 
-  register(path, action) {
+  register(path, action) {console.log(path);
     this.routes[path] = action;
   }
 
