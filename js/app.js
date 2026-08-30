@@ -1,3 +1,7 @@
+class Dispatcher {
+  
+}
+
 class FrontController {
   constructor() {
     this.routes = {};
