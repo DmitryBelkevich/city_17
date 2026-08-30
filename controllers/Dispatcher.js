@@ -1,24 +1,39 @@
+class Song() {
+  
+}
+
+class SongController {
+  constructor(model, view) {
+    const id = 1;//get from database
+    
+    this.song = new Song();
+    this.view = view;
+  }
+}
+
 export default class Dispatcher {
   constructor() {
     this.routes = {};
     
     this.register("", () => {
-      console.log('Main Page View')
-      console.log('Load MainController')
+      console.log('Main Page View');
+      console.log('Load MainController');
     });
     
     this.register("/list", () => {
-      console.log('List Page View')
-      console.log('Load ListController')
+      console.log('List Page View');
+      console.log('Load ListController');
     });
     
-    this.register("/song", () => {
-      console.log('Song Page View')
-      console.log('Load SongController')
+    this.register("/song", (id) => {
+      console.log('Song Page View');
+      console.log('Load SongController');
+      console.log('id=' + id);
+      // return new SongController();
     });
     
     this.register("/404", () => {
-      console.log('Page not found')
+      console.log('Page not found');
     });
     
     window.addEventListener('popstate', () => this.handleRoute());
@@ -40,7 +55,7 @@ export default class Dispatcher {
     console.log(params.get("id"));
     
     const action = this.routes[routeName] || this.routes["/404"];
-    action();
+    action("5");
   }
 
   getParams() {
