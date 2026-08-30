@@ -1,5 +1,10 @@
+import FrontController from '../controllers/FrontController.js';
+
 function main() {
-  console.log("Hello World");
+  const frontController = new FrontController();
+
+  const path = window.location.pathname;
+  frontController.dispatch(path);
 }
 
 const app = main();
