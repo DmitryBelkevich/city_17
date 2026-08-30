@@ -19,7 +19,7 @@ export default class Dispatcher {
     this.dispatch(path);
   }
 
-  dispatch(path) {
+  dispatch(path) {console.log(path);
     const action = this.routes[path] || this.routes['/404'];
     action();
   }
