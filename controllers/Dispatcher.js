@@ -1,14 +1,12 @@
+import MainController from './MainController.js';
+import ListController from './ListController.js';
 import SongController from './SongController.js';
 
 export default class Dispatcher {
   constructor() {
     this.routes = {};
     
-    this.register("", () => {
-      console.log('Main Page View');
-      console.log('Load MainController');
-    });
-    
+    this.register("", () => new MainController());
     this.register("/list", () => new ListController());
     this.register("/song", (params) => new SongController(params));
     
