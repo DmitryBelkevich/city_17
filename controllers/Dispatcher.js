@@ -22,15 +22,15 @@ export default class Dispatcher {
   dispatch(path) {
     const routeName = path.slice("/js_app".length, -1);
 
-    const id = this.getParams("id");console.log(id);
+    const params = this.getParams();console.log(params.id);
     
     const action = this.routes[routeName] || this.routes["/404"];
     action();
   }
 
-  getParams(param) {
+  getParams() {
     const queryString = window.location.search;
     const urlParams = new URLSearchParams(queryString);
-    return urlParams.get(param);
+    return urlParams;
   }
 }
