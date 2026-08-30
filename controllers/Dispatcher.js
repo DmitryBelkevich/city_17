@@ -2,7 +2,7 @@ import SongController from './SongController.js';
 
 export default class Dispatcher {
   constructor() {
-    this.routes = {};
+    this.routes = { };
     
     this.register("", () => {
       console.log('Main Page View');
