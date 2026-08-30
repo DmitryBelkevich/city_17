@@ -1,5 +1,13 @@
+class FrontController {
+  dispatch(request) {
+    console.log("Page requested: " + request);
+  }
+}
+
 function main() {
-  console.log("Hello World");
+  const frontController = new FrontController();
+  
+  frontController.dispatch("/song");
 }
 
 const app = main();
