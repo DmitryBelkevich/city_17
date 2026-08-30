@@ -1,5 +1,5 @@
 export default class SongView {
   constructor() {
-    colsole.log("SongView is loaded");
+    console.log("SongView is loaded");
   }
 }
