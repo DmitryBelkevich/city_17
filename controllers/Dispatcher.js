@@ -9,11 +9,7 @@ export default class Dispatcher {
       console.log('Load MainController');
     });
     
-    this.register("/list", () => {
-      console.log('List Page View');
-      console.log('Load ListController');
-    });
-    
+    this.register("/list", () => new ListController());
     this.register("/song", (params) => new SongController(params));
     
     this.register("/404", () => {
