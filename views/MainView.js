@@ -3,7 +3,7 @@ export default class MainView {
     
   }
 
-  update() {
+  updates() {
     console.log("draw MainView");
   }
 }
