@@ -2,11 +2,12 @@ export default class Dispatcher {
   constructor() {
     this.routes = {};
 
-    this.register('/js_app' + '' + '/', () => console.log('Main Page View'));
-    this.register('/js_app' + '/list' + '/', () => console.log('List Page View'));
-    this.register('/js_app' + '/song' + '/', () => console.log('Song Page View'));
-    this.register('/js_app' + '/404' + '/', () => console.log('Page not found'));
-
+    this.register("", () => console.log('Main Page View'));
+    this.register("/list", () => console.log('List Page View'));
+    this.register("/song", () => console.log('Song Page View'));
+    this.register("/404", () => console.log('Page not found'));
+    console.log(this.routes);
+    
     window.addEventListener('popstate', () => this.handleRoute());
   }
 
