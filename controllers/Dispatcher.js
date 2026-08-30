@@ -2,10 +2,11 @@ export default class Dispatcher {
   constructor() {
     this.routes = {};
 
-    this.register("", () => console.log('Main Page View'));
-    this.register("/list", () => console.log('List Page View'));
-    this.register("/song", () => console.log('Song Page View'));
-    this.register("/404", () => console.log('Page not found'));
+    const appName = "/js_app";
+    this.register(appName + "", () => console.log('Main Page View'));
+    this.register(appName + "/list", () => console.log('List Page View'));
+    this.register(appName + "/song", () => console.log('Song Page View'));
+    this.register(appName + "/404", () => console.log('Page not found'));
     console.log(this.routes);
     
     window.addEventListener('popstate', () => this.handleRoute());
@@ -21,10 +22,7 @@ export default class Dispatcher {
   }
 
   dispatch(path) {
-    const p = path;
-    console.log(p);
-    
-    const action = this.routes[path] || this.routes['/404'];
+    const action = this.routes[path] || this.routes[appName + "/404"];
     action();
   }
 }
