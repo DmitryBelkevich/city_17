@@ -20,7 +20,17 @@ export default class Dispatcher {
   }
 
   dispatch(path) {
-    const action = this.routes[path.slice("/js_app".length, -1)] || this.routes["/404"];
+    const routeName = path.slice("/js_app".length, -1);
+
+    const id = getParams("id");
+    
+    const action = this.routes[routeName] || this.routes["/404"];
     action();
+  }
+
+  getParams(param) {
+    const queryString = window.location.search;
+    const urlParams = new URLSearchParams(queryString);
+    return urlParams.get(param);
   }
 }
