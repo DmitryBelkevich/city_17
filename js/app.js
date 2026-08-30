@@ -22,12 +22,12 @@ class FrontController {
 function main() {
   const frontController = new FrontController();
   
-  // frontController.dispatch("/song");
   frontController.register('/', () => console.log('Home Page View'));
   frontController.register('/about', () => console.log('About Page View'));
   frontController.register('/404', () => console.log('Page Not Found'));
-
+  
   frontController.dispatch("/");
+  // frontController.dispatch("/song");
 }
 
 const app = main();
