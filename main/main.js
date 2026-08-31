@@ -1,7 +1,7 @@
 import FrontController from '../controllers/front/FrontController.js';
 import DatabaseLoader from '../dao/loaders/DatabaseLoader.js';
 
-function main() {
+async function main() {
   const frontController = new FrontController();
 
   const path = window.location.pathname;
