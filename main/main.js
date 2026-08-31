@@ -7,9 +7,9 @@ async function main() {
   const path = window.location.pathname;
   frontController.dispatch(path);
 
-  const databaseLoader = new DatabaseLoader();
-  const data = await databaseLoader.loadData();
-  console.log(data);
+  // const databaseLoader = new DatabaseLoader();
+  // const data = await databaseLoader.loadData();
+  // console.log(data);
 }
 
 const app = main();
