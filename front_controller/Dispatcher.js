@@ -1,25 +1,21 @@
-import MainController from '../MainController.js';
-import ListController from '../ListController.js';
-import SongController from '../SongController.js';
+import MainController from '../controllers/MainController.js';
+import ListController from '../controllers/ListController.js';
+import SongController from '../controllers/SongController.js';
 
 export default class Dispatcher {
+  #routes = [];
+  
   constructor() {
-    this.routes = {};
-    
-    this.addRoute("", new MainController());
-    this.addRoute("/list", new ListController());
-    this.addRoute("/song", new SongController());
+    this.#routes[""] = new MainController();
+    this.#routes["/list"] = new ListController();
+    this.#routes["/song"] = new SongController();
   }
-
-  addRoute(path, controller) {
-    this.routes[path] = controller;
-  }
-
+  
   dispatch(path) {
     const appName = "city_17";
     const routeName = path.slice(("/" + appName).length, -1);
     
-    const controller = this.routes[routeName];
+    const controller = this.#routes[routeName];
     
     controller.params = this.getParams();
     controller.init();
