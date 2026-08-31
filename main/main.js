@@ -1,6 +1,6 @@
 import FrontController from '../controllers/front/FrontController.js';
 
-function main() {
+async function main() {
   const frontController = new FrontController();
 
   const path = window.location.pathname;
