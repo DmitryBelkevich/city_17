@@ -6,7 +6,7 @@ export default class SongDao {
     this.databaseLoader = new DatabaseLoader();
   }
   
-  getById(id) {
+  async getById(id) {
     console.log("get from database by id=" + id);
     const data = await this.databaseLoader.loadData();
 
