@@ -9,6 +9,7 @@ function main() {
 
   const databaseLoader = new DatabaseLoader();
   const data = await databaseLoader.loadData();
+  cosole.log(data);
 }
 
 const app = main();
