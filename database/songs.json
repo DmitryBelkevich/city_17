@@ -1660,7 +1660,18 @@
       {
         "title": "Guitar",
         "capo": 3
-      },
+      }
+    ],
+    "visible": "true"
+  },
+  {
+    "id": "410",
+    "band": "Комната культуры", "title": "Поезда",
+    "genre": "Rock, Punk",
+    "text": "Rock, Punk/Комната культуры/Комната культуры - Поезда (bass).html",
+    "score": "https://drive.google.com/file/d/1MQ796S-_aWUagbADHZXbht-xT3ZMKR5E/view?usp=drive_link",
+    "playback": "https://drive.google.com/drive/folders/1cRnbIuaPHRkS3hPNmnoNFEUN8ctUEAoh?usp=drive_link",
+    "instruments": [
       {
         "title": "Bass Guitar",
         "tuning": ["E", "A", "D", "G"]

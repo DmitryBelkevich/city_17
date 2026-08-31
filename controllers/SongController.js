@@ -10,6 +10,8 @@ export default class SongController {
     const songService = new SongService();
     this.song = songService.getById(id);
 
+    console.log(this.song);
+
     // view
     this.view = new SongView();
     this.view.update();
