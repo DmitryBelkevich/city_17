@@ -9,7 +9,7 @@ async function main() {
 
   const databaseLoader = new DatabaseLoader();
   const data = await databaseLoader.loadData();
-  cosole.log(data);
+  cosole.log(data );
 }
 
 const app = main();
