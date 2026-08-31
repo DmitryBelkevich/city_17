@@ -8,6 +8,7 @@ function main() {
   frontController.dispatch(path);
 
   const databaseLoader = new DatabaseLoader();
+  const data = databaseLoader.loadData();
 }
 
 const app = main();
