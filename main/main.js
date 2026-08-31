@@ -7,4 +7,4 @@ function main() {
   frontController.dispatch(path);
 }
 
-const app = main();
+const main = main();
