@@ -22,7 +22,7 @@ export default class Dispatcher {
     const controller = this.routes[routeName];
     
     controller.params = this.getParams();
-    controller.init();
+    await controller.init();
   }
 
   getParams() {
