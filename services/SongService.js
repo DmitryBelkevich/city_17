@@ -8,6 +8,7 @@ export default class SongService {
   getById(id) {
     const song = this.songDao.getById(id);
 
+    consol.log(song);
     // fill empty fields
 
     return song;
