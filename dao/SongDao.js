@@ -8,7 +8,7 @@ export default class SongDao {
   
   async getById(id) {
     const data = await this.databaseLoader.loadData();
-    console.log(data);
+    // console.log(data);
 
     const song = new Song();
 
