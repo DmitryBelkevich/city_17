@@ -1,4 +1,4 @@
-import FrontController from '../controllers/FrontController.js';
+import FrontController from '../controllers/front/FrontController.js';
 
 function main() {
   const frontController = new FrontController();

@@ -1,6 +1,6 @@
-import MainController from './MainController.js';
-import ListController from './ListController.js';
-import SongController from './SongController.js';
+import MainController from '../MainController.js';
+import ListController from '../ListController.js';
+import SongController from '../SongController.js';
 
 export default class Dispatcher {
   constructor() {
