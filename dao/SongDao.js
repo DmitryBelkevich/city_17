@@ -1,5 +1,5 @@
 import Song from '../models/Song.js';
-import DatabaseLoader from '/dao/loaders/DatabaseLoader.js';
+import DatabaseLoader from '/loaders/DatabaseLoader.js';
 
 export default class SongDao {
   getById(id) {
