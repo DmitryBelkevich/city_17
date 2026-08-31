@@ -5,8 +5,8 @@ export default class SongService {
     this.songDao = new SongDao();
   }
   
-  getById(id) {
-    const song = this.songDao.getById(id);
+  async getById(id) {
+    const song = await this.songDao.getById(id);
 
     console.log(song);
     // fill empty fields
