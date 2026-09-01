@@ -6,6 +6,11 @@
 }
 
 #settings {
+  display: flex;
+  justify-content: flex-end;
+}
+
+#settings {
   #autoscroll {
     margin: 0px;
     padding: 10px;
