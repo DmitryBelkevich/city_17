@@ -1,7 +1,5 @@
 export default class DatabaseLoader {
-  async loadData() {
-    const path = "../database/songs.json";
-    
+  async loadData(path) {
     try {
       // 1. Wait for the server headers and response status
       const response = await fetch(path);
