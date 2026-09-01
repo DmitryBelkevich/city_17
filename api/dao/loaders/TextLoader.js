@@ -1,10 +1,12 @@
 export default class TextLoader {
-  async loadData() {
-    const path = "../storage/Text & Chords/" + "Template.html";
-    
+  constructor() {
+    this.storage = "../storage/Text & Chords/";
+  }
+  
+  async loadData(path) {
     try {
       // 1. Wait for the server headers and response status
-      const response = await fetch(path);
+      const response = await fetch(this.storage + path);
       
       // 2. Check if the HTTP status code is successful (200-299)
       if (!response.ok) {
