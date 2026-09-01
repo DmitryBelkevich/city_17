@@ -1,6 +1,6 @@
 import Song from '../models/Song.js';
-import SongView from '../views/SongView.js';
 import SongService from '../services/SongService.js';
+import SongView from '../views/SongView.js';
 
 export default class SongController {
   #params;
