@@ -7,8 +7,8 @@ export default class SongDao {
   }
   
   async getById(id) {
-    const path = "../database/songs.json";
-    const data = await this.databaseLoader.loadData(path);
+    // const path = "../database/songs.json";
+    const data = await this.databaseLoader.loadData("../database/songs.json");
     const result = data.find(song => song.id == id) || null;
 
     if (!result)
