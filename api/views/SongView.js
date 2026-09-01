@@ -46,6 +46,7 @@ export default class SongView {
     this.autoscroll = document.createElement("button");
     this.autoscroll.id = "autoscroll";
     this.autoscroll.textContent = "⏬ auto-scroll";
+    this.setAutoscroll();
 
     this.settings.append(this.autoscroll);
 
@@ -111,6 +112,12 @@ export default class SongView {
         return;
       
       window.open(playback, "_blank");
+    });
+  }
+
+  setAutoscroll() {
+    this.autoscroll.addEventListener("click", () => {
+      console.log("Autoscroll");
     });
   }
 
