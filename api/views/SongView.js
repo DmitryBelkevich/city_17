@@ -17,6 +17,10 @@ export default class SongView {
     this.tab_score = document.createElement("button");
     this.tab_playback = document.createElement("button");
 
+    this.tab_text.id = "tab_text";
+    this.tab_score.id = "tab_score";
+    this.tab_playback.id = "tab_playback";
+
     this.tab_text.classList.add("tab");
     this.tab_score.classList.add("tab");
     this.tab_playback.classList.add("tab");
