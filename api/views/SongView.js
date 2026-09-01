@@ -108,6 +108,11 @@ export default class SongView {
     });
   }
 
+  setTuning(instruments) {
+    this.guitarTuning.textContent = instruments[0].tuning;
+    this.bassTuning.textContent = instruments[1].tuning;
+  }
+
   setText(text) {
     this.text.innerHTML = text;
   }
