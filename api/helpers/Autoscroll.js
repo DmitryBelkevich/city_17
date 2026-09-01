@@ -1,5 +1,7 @@
 export default class Autoscroll {
-  #state = false;
+  constructor() {
+    this.#state = false;
+  }
   
   set state(state) {
     this.#state = state;
