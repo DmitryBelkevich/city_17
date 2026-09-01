@@ -26,7 +26,7 @@ export default class AutoScroll {
       }
 
       if (!this.#state)
-        break;
+        return;
     }
     
     // Запустить автоскролл
