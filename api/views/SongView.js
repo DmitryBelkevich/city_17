@@ -37,16 +37,6 @@ export default class SongView {
     this.tuning = document.createElement("div");
     this.tuning.id = "tuning";
     this.loadCSS("../css/song/tuning.css");
-
-    // Guitar Tuning
-    this.guitarTuning = document.createElement("div");
-    this.guitarTuning.classList.add("guitar");
-
-    // Bass Guitar Tuning
-    this.bassTuning = document.createElement("div");
-    this.bassTuning.classList.add("bass-guitar");
-    
-    this.tuning.append(this.guitarTuning, this.bassTuning);
     
     // Text
     this.text = document.createElement("div");
@@ -108,9 +98,21 @@ export default class SongView {
     });
   }
 
-  setTuning(instruments) {
-    this.guitarTuning.textContent = instruments[0].tuning;
-    this.bassTuning.textContent = instruments[1].tuning;
+  addTuning(title, tuning) {
+    console.log(title + " " + tuning);
+    
+    // Guitar Tuning
+    // this.guitarTuning = document.createElement("div");
+    // this.guitarTuning.classList.add("guitar");
+
+    // Bass Guitar Tuning
+    // this.bassTuning = document.createElement("div");
+    // this.bassTuning.classList.add("bass-guitar");
+    
+    // this.tuning.append(this.guitarTuning, this.bassTuning);
+    
+    // this.guitarTuning.textContent = instruments[0].tuning;
+    // this.bassTuning.textContent = instruments[1].tuning;
   }
 
   setText(text) {
