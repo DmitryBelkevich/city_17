@@ -340,6 +340,16 @@
     "text": "Metal/Эпидемия/Эпидемия - Всадник из льда.html",
     "score": "",
     "playback": "https://drive.google.com/drive/folders/1IldgkFBComMiC1WS49ROU4AqIQjXAEWT?usp=drive_link",
+    "instruments": [
+      {
+        "title": "Guitar",
+        "tuning": ["D#", "G#", "C#", "F#", "A#", "D#"]
+      },
+      {
+        "title": "Bass Guitar",
+        "tuning": ["D#", "G#", "C#", "F#"]
+      }
+    ],
     "visible": "true"
   },
   {
@@ -404,8 +414,7 @@
         "capo": 2
       },
       {
-        "title": "Bass Guitar",
-        "tuning": ["E", "A", "D", "G"]
+        "title": "Bass Guitar"
       }
     ],
     "visible": "true"
@@ -423,8 +432,7 @@
         "capo": 2
       },
       {
-        "title": "Bass Guitar",
-        "tuning": ["E", "A", "D", "G"]
+        "title": "Bass Guitar"
       }
     ],
     "visible": "true"
@@ -540,8 +548,7 @@
         "capo": 2
       },
       {
-        "title": "Bass Guitar",
-        "tuning": ["E", "A", "D", "G"]
+        "title": "Bass Guitar"
       }
     ],
     "visible": "true"
@@ -559,8 +566,7 @@
         "capo": 2
       },
       {
-        "title": "Bass Guitar",
-        "tuning": ["E", "A", "D", "G"]
+        "title": "Bass Guitar"
       }
     ],
     "visible": "true"
@@ -706,8 +712,7 @@
         "capo": 2
       },
       {
-        "title": "Bass Guitar",
-        "tuning": ["E", "A", "D", "G"]
+        "title": "Bass Guitar"
       }
     ],
     "visible": "true"
@@ -743,8 +748,7 @@
         "capo": 6
       },
       {
-        "title": "Bass Guitar",
-        "tuning": ["E", "A", "D", "G"]
+        "title": "Bass Guitar"
       }
     ],
     "visible": "true"
@@ -762,8 +766,7 @@
         "capo": 6
       },
       {
-        "title": "Bass Guitar",
-        "tuning": ["E", "A", "D", "G"]
+        "title": "Bass Guitar"
       }
     ],
     "visible": "true"
@@ -1033,8 +1036,7 @@
         "capo": 3
       },
       {
-        "title": "Bass Guitar",
-        "tuning": ["E", "A", "D", "G"]
+        "title": "Bass Guitar"
       }
     ],
     "visible": "true"
@@ -1052,8 +1054,7 @@
         "capo": 3
       },
       {
-        "title": "Bass Guitar",
-        "tuning": ["E", "A", "D", "G"]
+        "title": "Bass Guitar"
       }
     ],
     "visible": "true"
@@ -1071,8 +1072,7 @@
         "capo": 2
       },
       {
-        "title": "Bass Guitar",
-        "tuning": ["E", "A", "D", "G"]
+        "title": "Bass Guitar"
       }
     ],
     "visible": "true"
@@ -1090,8 +1090,7 @@
         "capo": 2
       },
       {
-        "title": "Bass Guitar",
-        "tuning": ["E", "A", "D", "G"]
+        "title": "Bass Guitar"
       }
     ],
     "visible": "true"
@@ -1172,8 +1171,7 @@
         "capo": 3
       },
       {
-        "title": "Bass Guitar",
-        "tuning": ["E", "A", "D", "G"]
+        "title": "Bass Guitar"
       }
     ],
     "visible": "true"
@@ -1191,8 +1189,7 @@
         "capo": 3
       },
       {
-        "title": "Bass Guitar",
-        "tuning": ["E", "A", "D", "G"]
+        "title": "Bass Guitar"
       }
     ],
     "visible": "true"
@@ -1673,8 +1670,7 @@
     "playback": "https://drive.google.com/drive/folders/1cRnbIuaPHRkS3hPNmnoNFEUN8ctUEAoh?usp=drive_link",
     "instruments": [
       {
-        "title": "Bass Guitar",
-        "tuning": ["E", "A", "D", "G"]
+        "title": "Bass Guitar"
       }
     ],
     "visible": "true"
@@ -2411,8 +2407,7 @@
         "title": "Guitar"
       },
       {
-        "title": "Bass Guitar",
-        "tuning": ["E", "A", "D", "G"]
+        "title": "Bass Guitar"
       }
     ],
     "visible": "true"
@@ -2448,8 +2443,7 @@
         "capo": 4
       },
       {
-        "title": "Bass Guitar",
-        "tuning": ["E", "A", "D", "G"]
+        "title": "Bass Guitar"
       }
     ],
     "visible": "true"
@@ -2467,8 +2461,7 @@
         "capo": 4
       },
       {
-        "title": "Bass Guitar",
-        "tuning": ["E", "A", "D", "G"]
+        "title": "Bass Guitar"
       }
     ],
     "visible": "true"
@@ -2522,8 +2515,7 @@
         "capo": 5
       },
       {
-        "title": "Bass Guitar",
-        "tuning": ["E", "A", "D", "G"]
+        "title": "Bass Guitar"
       }
     ],
     "visible": "true"
@@ -2668,8 +2660,7 @@
         "capo": 7
       },
       {
-        "title": "Bass Guitar",
-        "tuning": ["E", "A", "D", "G"]
+        "title": "Bass Guitar"
       }
     ],
     "visible": "true"
@@ -2687,8 +2678,7 @@
         "capo": 7
       },
       {
-        "title": "Bass Guitar",
-        "tuning": ["E", "A", "D", "G"]
+        "title": "Bass Guitar"
       }
     ],
     "visible": "true"
@@ -2724,8 +2714,7 @@
         "capo": 5
       },
       {
-        "title": "Bass Guitar",
-        "tuning": ["E", "A", "D", "G"]
+        "title": "Bass Guitar"
       }
     ],
     "visible": "true"
@@ -2743,8 +2732,7 @@
         "capo": 5
       },
       {
-        "title": "Bass Guitar",
-        "tuning": ["E", "A", "D", "G"]
+        "title": "Bass Guitar"
       }
     ],
     "visible": "true"
@@ -2901,8 +2889,7 @@
         "capo": 2
       },
       {
-        "title": "Bass Guitar",
-        "tuning": ["E", "A", "D", "G"]
+        "title": "Bass Guitar"
       }
     ],
     "visible": "true"
@@ -2920,8 +2907,7 @@
         "capo": 2
       },
       {
-        "title": "Bass Guitar",
-        "tuning": ["E", "A", "D", "G"]
+        "title": "Bass Guitar"
       }
     ],
     "visible": "true"
@@ -2939,8 +2925,7 @@
         "capo": 1
       },
       {
-        "title": "Bass Guitar",
-        "tuning": ["E", "A", "D", "G"]
+        "title": "Bass Guitar"
       }
     ],
     "visible": "true"
@@ -2958,8 +2943,7 @@
         "capo": 1
       },
       {
-        "title": "Bass Guitar",
-        "tuning": ["E", "A", "D", "G"]
+        "title": "Bass Guitar"
       }
     ],
     "visible": "true"
@@ -3526,8 +3510,7 @@
         "capo": 1
       },
       {
-        "title": "Bass Guitar",
-        "tuning": ["E", "A", "D", "G"]
+        "title": "Bass Guitar"
       }
     ],
     "visible": "true"
@@ -3545,8 +3528,7 @@
         "capo": 1
       },
       {
-        "title": "Bass Guitar",
-        "tuning": ["E", "A", "D", "G"]
+        "title": "Bass Guitar"
       }
     ],
     "visible": "true"
@@ -3600,8 +3582,7 @@
         "capo": 1
       },
       {
-        "title": "Bass Guitar",
-        "tuning": ["E", "A", "D", "G"]
+        "title": "Bass Guitar"
       }
     ],
     "visible": "true"
@@ -3619,8 +3600,7 @@
         "capo": 1
       },
       {
-        "title": "Bass Guitar",
-        "tuning": ["E", "A", "D", "G"]
+        "title": "Bass Guitar"
       }
     ],
     "visible": "true"
@@ -3892,8 +3872,7 @@
         "capo": 1
       },
       {
-        "title": "Bass Guitar",
-        "tuning": ["E", "A", "D", "G"]
+        "title": "Bass Guitar"
       }
     ],
     "visible": "true"
@@ -3920,8 +3899,7 @@
         "capo": 6
       },
       {
-        "title": "Bass Guitar",
-        "tuning": ["E", "A", "D", "G"]
+        "title": "Bass Guitar"
       }
     ],
     "visible": "true"
@@ -3939,8 +3917,7 @@
         "tuning": ["D", "A", "D", "G", "B", "E"]
       },
       {
-        "title": "Bass Guitar",
-        "tuning": ["E", "A", "D", "G"]
+        "title": "Bass Guitar"
       }
     ],
     "visible": "true"
@@ -4141,8 +4118,7 @@
         "capo": 3
       },
       {
-        "title": "Bass Guitar",
-        "tuning": ["E", "A", "D", "G"]
+        "title": "Bass Guitar"
       }
     ],
     "visible": "true"
@@ -4160,8 +4136,7 @@
         "capo": 3
       },
       {
-        "title": "Bass Guitar",
-        "tuning": ["E", "A", "D", "G"]
+        "title": "Bass Guitar"
       }
     ],
     "visible": "true"
