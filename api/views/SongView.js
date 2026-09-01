@@ -5,6 +5,9 @@ export default class SongView {
     this.title = document.createElement("div");
     this.title.id = "title";
 
+    this.text = document.createElement("div");
+    this.text.id = "text";
+
     this.body.append(this.title);
   }
 
@@ -12,6 +15,8 @@ export default class SongView {
     this.setPageTitle();
     
     this.title.textContent = "Hello World";
+
+    this.text.innerHTML = "<div>Text & Chords</div>";
   }
 
   setPageTitle() {
