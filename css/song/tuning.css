@@ -6,16 +6,16 @@
 }
 
 #tuning {
-  /* delete */
-  
-  /* .guitar {
-    display: block;
+  .guitar {
+    /* display: block; */
   }
   
   .bass-guitar {
-    display: none;
-  } */
+    /* display: none; */
+  }
+}
 
+#tuning {
   .capo {
     color: red;
   }
