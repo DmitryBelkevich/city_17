@@ -1,6 +1,6 @@
 #settings {
   margin: 0px;
-  padding: 10px;
+  padding: 30px;
   
   border: 1px solid black;
 }
