@@ -3,11 +3,11 @@ import DatabaseLoader from './loaders/DatabaseLoader.js';
 
 export default class SongDao {
   constructor() {
-    this.databaseLoader = new DatabaseLoader();
+    this.loader = new DatabaseLoader();
   }
   
   async getById(id) {
-    const data = await this.databaseLoader.loadData();
+    const data = await this.loader.loadData("songs.json");
     const result = data.find(song => song.id == id) || null;
 
     if (!result)
