@@ -15,7 +15,7 @@ export default class AutoScroll {
   }
 
   operation() {
-    const autoScroll = () => {
+    const autoScroll = () => {console.log(this.#state);
       // Прокручиваем страницу на 1 пиксель вниз
       window.scrollBy(0, 1); 
       
