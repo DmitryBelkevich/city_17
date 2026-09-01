@@ -120,7 +120,7 @@ export default class SongView {
 
   setAutoscroll() {
     this.autoscroll.addEventListener("click", () => {
-      console.log("Autoscroll");
+      this.autoscroll.run();
     });
   }
 
