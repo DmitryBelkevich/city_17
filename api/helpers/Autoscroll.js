@@ -5,6 +5,10 @@ export default class Autoscroll {
     this.#state = state;
   }
 
+  nextState() {
+    this.#state = !this.#state;
+  }
+
   run() {
     console.log("Autoscroll");
   }
