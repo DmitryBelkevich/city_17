@@ -56,7 +56,7 @@ export default class SongView {
     // Text
     this.text = document.createElement("div");
     this.text.id = "text";
-    this.loadCSS("../api/css/song/text.css");
+    this.loadCSS("../css/song/text.css");
 
     // Footer
     this.footer = document.createElement("div");
