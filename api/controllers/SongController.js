@@ -24,9 +24,9 @@ export default class SongController {
     const id = this.#params.get("id");
     
     // model
-    const song = await this.songService.getById(id);
+    this.song = await this.songService.getById(id);
 
-    console.log(song);
+    console.log(this.song);
 
     // view
     this.view.update();
