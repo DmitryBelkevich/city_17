@@ -10,7 +10,16 @@ export default class Autoscroll {
   }
 
   run() {
-    console.log(this.#state);
     this.nextState();
+    this.operation();
+  }
+
+  operation() {
+    const element = document.getElementById("text");
+
+    element.scrollIntoView({
+      behavior: "smooth", // Плавная прокрутка ("instant" для мгновенной)
+      block: "start",     // Выравнивание элемента: "start", "center", "end", "nearest"
+    });
   }
 }
