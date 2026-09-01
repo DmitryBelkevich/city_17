@@ -22,8 +22,9 @@ export default class AutoScroll {
       // Проверяем, не достигли ли мы конца страницы
       if ((window.innerHeight + window.scrollY) < document.body.offsetHeight && this.#state) {
         requestAnimationFrame(autoScroll);
-      } else
+      } else {
         this.nextState();
+      }
     }
     
     // Запустить автоскролл
