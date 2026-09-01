@@ -1,4 +1,4 @@
-import Tuning from '/Tuning.js';
+import Tuning from '../helpers/Tuning.js';
 
 export default class SongView {
   constructor() {
