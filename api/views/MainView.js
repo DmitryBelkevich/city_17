@@ -4,6 +4,6 @@ export default class MainView {
   }
 
   update() {
-    console.log("draw MainView");
+    console.log("drawing... MainView");
   }
 }
