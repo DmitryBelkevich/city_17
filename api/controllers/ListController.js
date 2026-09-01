@@ -1,3 +1,5 @@
+import ListView from '../views/ListView.js';
+
 export default class ListController {
   async init() {
     // view
