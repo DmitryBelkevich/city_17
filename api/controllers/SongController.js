@@ -19,10 +19,13 @@ export default class SongController {
     // model
     const id = this.#params.get("id");
     this.song = await this.songService.getById(id);
-
-    console.log(this.song);
-
+    
     // view
-    this.view.update();
+    this.view.setPageTitle(this.song.band, this.song.title);
+
+    this.view.setTitle(this.song.band, this.song.title);
+
+    const text = "<div>Am Dm F G</div><div>Text Text Text</div>";
+    this.view.setText(text);
   }
 }
