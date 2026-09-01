@@ -119,6 +119,8 @@ export default class SongView {
     capo_e.classList.add("capo");
 
     capo_e.textContent = "Capo: +" + capo;
+
+    this.tuning.append(capo_e);
   }
 
   setText(text) {
