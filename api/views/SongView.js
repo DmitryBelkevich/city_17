@@ -1,14 +1,54 @@
 export default class SongView {
   constructor() {
-    this.body = document.body;
+    // reset css
+    this.loadCSS("../css/reset.css");
     
+    // Title
     this.title = document.createElement("div");
     this.title.id = "title";
+    this.loadCSS("../css/song/title.css");
 
+    // Tabs
+    this.tabs = document.createElement("div");
+    this.tabs.id = "tabs";
+    this.loadCSS("../css/song/tabs.css");
+
+    this.tab_text = document.createElement("button");
+    this.tab_score = document.createElement("button");
+    this.tab_playback = document.createElement("button");
+
+    this.tab_text.id = "tab_text";
+    this.tab_score.id = "tab_score";
+    this.tab_playback.id = "tab_playback";
+
+    this.tab_text.classList.add("tab");
+    this.tab_score.classList.add("tab");
+    this.tab_playback.classList.add("tab");
+
+    this.tab_text.textContent = "📝 Text & Chords";
+    this.tab_score.textContent = "🎵 Scores";
+    this.tab_playback.textContent = "🎧 Playbacks";
+
+    this.tabs.append(this.tab_text, this.tab_score, this.tab_playback);
+
+    // Text
     this.text = document.createElement("div");
     this.text.id = "text";
+    this.loadCSS("../css/song/text.css");
 
-    this.body.append(this.title, this.text);
+    // body fill
+    this.body = document.body;
+    this.body.append(this.title, this.tabs, this.text);
+  }
+
+  loadCSS(url) {
+    const link = document.createElement("link");
+    
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = url;
+    
+    document.head.appendChild(link);
   }
 
   setPageTitle(band, title) {
@@ -23,6 +63,26 @@ export default class SongView {
     band_e.textContent = band;
     
     this.title.append(title_e, band_e);
+  }
+
+  setTabs(score, playback) {
+    this.tab_text.addEventListener("click", () => {
+      console.log("open text tab");
+    });
+    
+    this.tab_score.addEventListener("click", () => {
+      if (!score)
+        return;
+      
+      window.open(score, "_blank");
+    });
+    
+    this.tab_playback.addEventListener("click", () => {
+      if (!playback)
+        return;
+      
+      window.open(playback, "_blank");
+    });
   }
 
   setText(text) {
