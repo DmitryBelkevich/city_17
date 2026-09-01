@@ -102,7 +102,7 @@ export default class SongView {
     const tuning_e = document.createElement("div");
     // tuning_e.classList.add("guitar");
     
-    this.tuning.append(tuning)_e;
+    this.tuning.append(tuning_e);
     
     // this.guitarTuning.textContent = instruments[0].tuning;
     // this.bassTuning.textContent = instruments[1].tuning;
