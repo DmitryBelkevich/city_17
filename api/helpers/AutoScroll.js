@@ -1,14 +1,17 @@
 export default class AutoScroll {
   operation() {
-    var speed = 1;
+    var speed = 10;//1 slow, 10 normal, 100 fast.
     
     let animationFrameId;
 
     function step() {
-      window.scrollBy(0, speed);
+      window.scrollBy(0, 1);
       
-      if ((window.innerHeight + window.scrollY) < document.body.offsetHeight)
-        animationFrameId = requestAnimationFrame(step);
+      if ((window.innerHeight + window.scrollY) < document.body.offsetHeight) {
+        setTimeout(() => {
+          animationFrameId = requestAnimationFrame(step);
+        }, 1000 / speed);
+      }
     }
     
     // 1. Start the scroll loop
