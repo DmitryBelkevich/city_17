@@ -108,7 +108,7 @@ export default class SongView {
     else
       tuning_e.classList.add("non-standard");
     
-    tuning_e.textContent = title + " " + "[" + tuning + "]";
+    tuning_e.textContent = title + "(" + Tuning.getTitle(tuning) + ")" + " " + "[" + tuning + "]";
     
     this.tuning.append(tuning_e);
 
