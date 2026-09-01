@@ -1,6 +1,6 @@
 export default class DatabaseLoader {
   async loadData() {
-    const path = '../database/songs.json';
+    const path = "../database/songs.json";
     
     try {
       // 1. Wait for the server headers and response status
