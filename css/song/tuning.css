@@ -1,0 +1,30 @@
+#tuning {
+  margin: 0px 0px;
+  padding: 10px 10px;
+  
+  border: 1px solid black;
+}
+
+#tuning {
+  .guitar {
+    /* display: block; */
+  }
+  
+  .bass-guitar {
+    /* display: none; */
+  }
+
+  .standard {
+    color: green;
+  }
+
+  .non-standard {
+    color: red;
+  }
+}
+
+#tuning {
+  .capo {
+    color: red;
+  }
+}

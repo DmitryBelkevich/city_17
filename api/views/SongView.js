@@ -1,3 +1,5 @@
+import Tuning from '../helpers/Tuning.js';
+
 export default class SongView {
   constructor() {
     // reset css
@@ -8,29 +10,36 @@ export default class SongView {
     this.title.id = "title";
     this.loadCSS("../css/song/title.css");
 
+    // Tab 1
+    this.tab_text = document.createElement("button");
+    this.tab_text.id = "tab_text";
+    this.tab_text.classList.add("tab");
+    this.tab_text.textContent = "📝 Text & Chords";
+
+    // Tab 2
+    this.tab_score = document.createElement("button");
+    this.tab_score.id = "tab_score";
+    this.tab_score.classList.add("tab");
+    this.tab_score.textContent = "🎵 Scores";
+
+    // Tab 3
+    this.tab_playback = document.createElement("button");
+    this.tab_playback.id = "tab_playback";
+    this.tab_playback.classList.add("tab");
+    this.tab_playback.textContent = "🎧 Playbacks";
+
     // Tabs
     this.tabs = document.createElement("div");
     this.tabs.id = "tabs";
     this.loadCSS("../css/song/tabs.css");
-
-    this.tab_text = document.createElement("button");
-    this.tab_score = document.createElement("button");
-    this.tab_playback = document.createElement("button");
-
-    this.tab_text.id = "tab_text";
-    this.tab_score.id = "tab_score";
-    this.tab_playback.id = "tab_playback";
-
-    this.tab_text.classList.add("tab");
-    this.tab_score.classList.add("tab");
-    this.tab_playback.classList.add("tab");
-
-    this.tab_text.textContent = "📝 Text & Chords";
-    this.tab_score.textContent = "🎵 Scores";
-    this.tab_playback.textContent = "🎧 Playbacks";
-
+    
     this.tabs.append(this.tab_text, this.tab_score, this.tab_playback);
 
+    // Tuning
+    this.tuning = document.createElement("div");
+    this.tuning.id = "tuning";
+    this.loadCSS("../css/song/tuning.css");
+    
     // Text
     this.text = document.createElement("div");
     this.text.id = "text";
@@ -39,12 +48,12 @@ export default class SongView {
     // Footer
     this.footer = document.createElement("div");
     this.footer.id = "footer";
-    this.footer.textContent = "Copyright © Dmitry Belkevich";
     this.loadCSS("../css/song/footer.css");
+    this.footer.textContent = "Copyright © Dmitry Belkevich";
 
     // body fill
     this.body = document.body;
-    this.body.append(this.title, this.tabs, this.text, this.footer);
+    this.body.append(this.title, this.tabs, this.tuning, this.text, this.footer);
   }
 
   loadCSS(url) {
@@ -89,6 +98,19 @@ export default class SongView {
       
       window.open(playback, "_blank");
     });
+  }
+
+  addTuning(title, tuning) {
+    const tuning_e = document.createElement("div");
+
+    if (Tuning.isStandard(tuning))
+      tuning_e.classList.add("standard");
+    else
+      tuning_e.classList.add("non-standard");
+    
+    tuning_e.textContent = title + " " + "[" + tuning + "]";
+    
+    this.tuning.append(tuning_e);
   }
 
   setText(text) {
