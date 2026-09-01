@@ -25,7 +25,7 @@ export default class SongController {
 
     this.view.setTitle(this.song.band, this.song.title);
 
-    const text = "<div>Text & Chords</div><div>Text & Chords</div>";
+    const text = "<div>Am Dm F G</div><div>Text Text Text</div>";
     this.view.setText(text);
   }
 }
