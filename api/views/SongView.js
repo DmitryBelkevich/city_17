@@ -13,20 +13,22 @@ export default class SongView {
     this.tabs.id = "tabs";
     this.loadCSS("../css/song/tabs.css");
 
+    // Tab 1
     this.tab_text = document.createElement("button");
-    this.tab_score = document.createElement("button");
-    this.tab_playback = document.createElement("button");
-
     this.tab_text.id = "tab_text";
-    this.tab_score.id = "tab_score";
-    this.tab_playback.id = "tab_playback";
-
     this.tab_text.classList.add("tab");
-    this.tab_score.classList.add("tab");
-    this.tab_playback.classList.add("tab");
-
     this.tab_text.textContent = "📝 Text & Chords";
+
+    // Tab 2
+    this.tab_score = document.createElement("button");
+    this.tab_score.id = "tab_score";
+    this.tab_score.classList.add("tab");
     this.tab_score.textContent = "🎵 Scores";
+
+    // Tab 3
+    this.tab_playback = document.createElement("button");
+    this.tab_playback.id = "tab_playback";
+    this.tab_playback.classList.add("tab");
     this.tab_playback.textContent = "🎧 Playbacks";
 
     this.tabs.append(this.tab_text, this.tab_score, this.tab_playback);
