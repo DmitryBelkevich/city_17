@@ -14,7 +14,7 @@ export default class SongView {
   update() {
     this.setPageTitle();
     
-    this.title.textContent = "Hello World";
+    this.title.textContent = "Band" + " - " + "Title";
 
     this.text.innerHTML = "<div>Text & Chords</div>";
   }
