@@ -5,7 +5,7 @@ export default class AutoScroll {
     let animationFrameId;
 
     function step() {
-      window.scrollBy(0, 10);
+      window.scrollBy(0, speed);
       
       if ((window.innerHeight + window.scrollY) < document.body.offsetHeight)
         animationFrameId = requestAnimationFrame(step);
