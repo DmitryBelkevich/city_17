@@ -11,17 +11,6 @@ export default class SongView {
     this.body.append(this.title, this.text);
   }
 
-  update() {
-    const band = "Band";
-    const title = "Title";
-    const text = "<div>Text & Chords</div><div>Text & Chords</div>";
-    
-    this.setPageTitle(band, title);
-
-    this.setTitle(band, title);
-    this.setText(text);
-  }
-
   setPageTitle(band, title) {
     document.title = band + " - " + title;
   }
