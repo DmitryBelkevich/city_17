@@ -1,18 +1,23 @@
 export default class SongView {
   constructor() {
+    // reset css
     this.loadCSS("../css/reset.css");
-    this.loadCSS("../css/song/title.css");
-    this.loadCSS("../css/song/tabs.css");
-    this.loadCSS("../css/song/text.css");
     
-    this.body = document.body;
-    
+    // Title
     this.title = document.createElement("div");
     this.title.id = "title";
+    this.loadCSS("../css/song/title.css");
 
+    // Tabs
+    this.loadCSS("../css/song/tabs.css");
+
+    // Text
     this.text = document.createElement("div");
     this.text.id = "text";
+    this.loadCSS("../css/song/text.css");
 
+    // body fill
+    this.body = document.body;
     this.body.append(this.title, this.text);
   }
 
