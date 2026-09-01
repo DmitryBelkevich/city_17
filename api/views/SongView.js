@@ -1,17 +1,17 @@
 export default class SongView {
   constructor() {
     // reset css
-    // this.loadCSS("../css/reset.css");
+    this.loadCSS("../css/reset.css");
     
     // Title
     this.title = document.createElement("div");
     this.title.id = "title";
-    // this.loadCSS("../css/song/title.css");
+    this.loadCSS("../css/song/title.css");
 
     // Tabs
     this.tabs = document.createElement("div");
     this.tabs.id = "tabs";
-    // this.loadCSS("../css/song/tabs.css");
+    this.loadCSS("../css/song/tabs.css");
 
     this.tab_text = document.createElement("button");
     this.tab_score = document.createElement("button");
@@ -34,16 +34,11 @@ export default class SongView {
     // Text
     this.text = document.createElement("div");
     this.text.id = "text";
-    // this.loadCSS("../css/song/text.css");
+    this.loadCSS("../css/song/text.css");
 
     // body fill
     this.body = document.body;
     this.body.append(this.title, this.tabs, this.text);
-
-    this.loadCSS("../css/reset.css");
-    this.loadCSS("../css/song/title.css");
-    this.loadCSS("../css/song/tabs.css");
-    this.loadCSS("../css/song/text.css");
   }
 
   loadCSS(url) {
