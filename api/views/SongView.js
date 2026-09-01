@@ -38,7 +38,7 @@ export default class SongView {
     // Settings
     this.settings = document.createElement("div");
     this.settings.id = "settings";
-    this.loadCSS("../css/song/settings.css");
+    // this.loadCSS("../css/song/settings.css");
 
     // Auto-scroll
     this.autoscroll = document.createElement("button");
@@ -46,6 +46,7 @@ export default class SongView {
     this.autoscroll.textContent = "⏬ auto-scroll";
 
     this.settings.append(this.autoscroll);
+    this.loadCSS("../css/song/settings.css");
 
     // Tuning
     this.tuning = document.createElement("div");
