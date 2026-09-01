@@ -1,8 +1,8 @@
 export default class SongView {
   constructor() {
     this.loadCSS("../css/reset.css");
-    this.loadCSS("../css/title.css");
-    this.loadCSS("../css/text.css");
+    this.loadCSS("../css/song/title.css");
+    this.loadCSS("../css/song/text.css");
     
     this.body = document.body;
     
