@@ -12,6 +12,7 @@ export default class SongController {
     
     // model
     this.songService = new SongService();
+    this.loader = new TextLoader();
 
     // view
     this.view = new SongView();
@@ -26,9 +27,8 @@ export default class SongController {
     this.view.setPageTitle(this.song.band, this.song.title);
 
     this.view.setTitle(this.song.band, this.song.title);
-
-    const loader = new TextLoader();
-    const text = await loader.loadData(this.song.text);
+    
+    const text = await this.loader.loadData(this.song.text);
     this.view.setText(text);
   }
 }
