@@ -10,7 +10,7 @@ export default class AutoScroll {
   }
 
   run() {
-    // this.nextState();
+    this.nextState();
     this.operation();
   }
 
@@ -20,7 +20,7 @@ export default class AutoScroll {
       window.scrollBy(0, 1); 
       
       // Проверяем, не достигли ли мы конца страницы
-      if ((window.innerHeight + window.scrollY) < document.body.offsetHeight) {
+      if ((window.innerHeight + window.scrollY) < document.body.offsetHeight || !this.#state) {
         requestAnimationFrame(autoScroll);
       }
     }
