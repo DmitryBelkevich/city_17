@@ -20,7 +20,7 @@ export default class SongController {
     this.#params = params;
   }
 
-  async init() {
+  init() {
     const id = this.#params.get("id");
     
     // model
