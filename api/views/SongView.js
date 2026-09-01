@@ -65,6 +65,26 @@ export default class SongView {
     this.title.append(title_e, band_e);
   }
 
+  setTabs(score, playback) {
+    this.tab_text.addEventListener("click", () => {
+      console.log("open text tab");
+    });
+    
+    this.tab_score.addEventListener("click", () => {
+      if (!score)
+        return;
+      
+      window.open(this.#song.score, "_blank");
+    });
+    
+    this.tab_playback.addEventListener("click", () => {
+      if (!playback)
+        return;
+      
+      window.open(this.#song.playback, "_blank");
+    });
+  }
+
   setText(text) {
     this.text.innerHTML = text;
   }
