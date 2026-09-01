@@ -1,7 +1,7 @@
 export default class SongView {
   constructor() {
     // reset css
-    this.loadCSS("../css/reset.css");
+    // this.loadCSS("../css/reset.css");
     
     // Title
     this.title = document.createElement("div");
@@ -39,6 +39,11 @@ export default class SongView {
     // body fill
     this.body = document.body;
     this.body.append(this.title, this.tabs, this.text);
+
+    this.loadCSS("../css/reset.css");
+    this.loadCSS("../css/song/title.css");
+    this.loadCSS("../css/song/tabs.css");
+    this.loadCSS("../css/song/text.css");
   }
 
   loadCSS(url) {
