@@ -18,6 +18,8 @@ export default class SongController {
   }
 
   async init() {
+    console.log(window.location.href);
+    
     const id = this.params.get("id");
     
     // model
