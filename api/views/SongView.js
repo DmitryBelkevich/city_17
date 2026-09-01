@@ -12,10 +12,12 @@ export default class SongView {
   }
 
   update() {
+    const text = "<div>Text & Chords</div><div>Text & Chords</div>";
+    
     this.setPageTitle();
 
     this.setTitle();
-    this.setText();
+    this.setText(text);
   }
 
   setPageTitle() {
@@ -26,7 +28,7 @@ export default class SongView {
     this.title.textContent = "Band" + " - " + "Title";
   }
 
-  setText() {
-    this.text.innerHTML = "<div>Text & Chords</div>";
+  setText(text) {
+    this.text.innerHTML = text;
   }
 }
