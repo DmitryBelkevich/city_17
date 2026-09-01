@@ -21,7 +21,7 @@ export default class AutoScroll {
       
       // Проверяем, не достигли ли мы конца страницы
       if ((window.innerHeight + window.scrollY) < document.body.offsetHeight && true) {
-        console.log(!this.#state);
+        console.log(!super.#state);
         requestAnimationFrame(autoScroll);
       }
 
