@@ -33,6 +33,19 @@ export default class SongView {
     
     this.tabs.append(this.tab_text, this.tab_score, this.tab_playback);
 
+    // Tuning
+    this.tuning = document.createElement("div");
+    this.tuning.id = "tuning";
+    this.loadCSS("../css/song/tuning.css");
+
+    // Guitar Tuning
+    this.guitarTuning = document.createElement("div");
+
+    // Bass Guitar Tuning
+    this.bassTuning = document.createElement("div");
+    
+    this.tuning.append(this.guitarTuning, this.bassTuning);
+    
     // Text
     this.text = document.createElement("div");
     this.text.id = "text";
@@ -41,12 +54,12 @@ export default class SongView {
     // Footer
     this.footer = document.createElement("div");
     this.footer.id = "footer";
-    this.footer.textContent = "Copyright © Dmitry Belkevich";
     this.loadCSS("../css/song/footer.css");
+    this.footer.textContent = "Copyright © Dmitry Belkevich";
 
     // body fill
     this.body = document.body;
-    this.body.append(this.title, this.tabs, this.text, this.footer);
+    this.body.append(this.title, this.tabs, this.tuning, this.text, this.footer);
   }
 
   loadCSS(url) {
