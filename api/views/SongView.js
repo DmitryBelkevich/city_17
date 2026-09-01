@@ -100,14 +100,11 @@ export default class SongView {
 
   addTuning(title, tuning) {
     const tuning_e = document.createElement("div");
-    // tuning_e.classList.add("guitar");
-
+    tuning_e.classList.add("standard");
+    
     tuning_e.textContent = title + " " + tuning;
     
     this.tuning.append(tuning_e);
-    
-    // this.guitarTuning.textContent = instruments[0].tuning;
-    // this.bassTuning.textContent = instruments[1].tuning;
   }
 
   setText(text) {
