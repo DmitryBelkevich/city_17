@@ -9,7 +9,12 @@ export default class SongView {
   }
 
   update() {
-    console.log("draw SongView");
+    setPageTitle();
+    
     this.title.textContent = "Hello World";
+  }
+
+  setPageTitle() {
+    document.title = "Hello World";
   }
 }
