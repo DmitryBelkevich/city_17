@@ -40,6 +40,7 @@ export default class SongView {
     this.settings.id = "settings";
     this.loadCSS("../css/song/settings.css");
 
+    // Auto-scroll
     this.autoscroll = document.createElement("button");
     this.autoscroll.id = "autoscroll";
     this.autoscroll.textContent = "⏬ auto-scroll";
