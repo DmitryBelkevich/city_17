@@ -27,6 +27,8 @@ export default class SongController {
     this.view.setPageTitle(this.song.band, this.song.title);
 
     this.view.setTitle(this.song.band, this.song.title);
+
+    this.view.setTabs(this.score, this.playback);
     
     const text = await this.loader.loadData(this.song.text);
     this.view.setText(text);
