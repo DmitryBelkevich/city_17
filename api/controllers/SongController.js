@@ -16,11 +16,7 @@ export default class SongController {
     this.view = new SongView();
   }
 
-  set params(params) {
-    this.#params = params;
-  }
-
-  init() {
+  async init() {
     const id = this.#params.get("id");
     
     // model
