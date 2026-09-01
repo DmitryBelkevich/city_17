@@ -24,6 +24,9 @@ export default class AutoScroll {
         console.log(window.innerHeight + window.scrollY + " | " + document.body.offsetHeight);
         requestAnimationFrame(autoScroll);
       }
+
+      if (!this.#state)
+        break;
     }
     
     // Запустить автоскролл
