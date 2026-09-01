@@ -65,7 +65,7 @@ export default class SongView {
     this.title.append(title_e, band_e);
   }
 
-  setTabs(score, playback) {
+  setTabs(score, playback) {console.log(playback);
     this.tab_text.addEventListener("click", () => {
       console.log("open text tab");
     });
@@ -78,7 +78,6 @@ export default class SongView {
     });
     
     this.tab_playback.addEventListener("click", () => {
-      console.log(playback);
       if (!playback)
         return;
       
