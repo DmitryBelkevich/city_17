@@ -33,7 +33,7 @@ export default class SongView {
     const band_e = document.createElement('h2');
     band_e.textContent = band;
     
-    element.append(title_e, band_e);
+    this.title.append(title_e, band_e);
   }
 
   setText(text) {
