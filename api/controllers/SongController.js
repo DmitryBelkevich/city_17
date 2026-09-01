@@ -6,8 +6,7 @@ export default class SongController {
   #params;
   
   constructor() {
-    const queryString = window.location.search;
-    this.#params = new URLSearchParams(queryString);
+    this.#params = new URLSearchParams(window.location.search);
     
     // model
     this.songService = new SongService();
