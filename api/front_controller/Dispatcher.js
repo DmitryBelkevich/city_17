@@ -16,14 +16,6 @@ export default class Dispatcher {
     const routeName = path.slice(("/" + appName).length, -1);
     
     const controller = this.#routes[routeName];
-    
-    controller.params = this.getParams();
     controller.init();
-  }
-
-  getParams() {
-    const queryString = window.location.search;
-    const urlParams = new URLSearchParams(queryString);
-    return urlParams;
   }
 }

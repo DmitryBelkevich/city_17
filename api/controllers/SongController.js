@@ -1,11 +1,13 @@
 import Song from '../models/Song.js';
-import SongView from '../views/SongView.js';
 import SongService from '../services/SongService.js';
+import SongView from '../views/SongView.js';
 
 export default class SongController {
   #params;
   
   constructor() {
+    this.#params = new URLSearchParams(window.location.search);
+    
     // model
     this.songService = new SongService();
 
@@ -13,17 +15,12 @@ export default class SongController {
     this.view = new SongView();
   }
 
-  set params(params) {
-    this.#params = params;
-  }
-
   async init() {
-    const id = this.params.get("id");
-    
     // model
-    const song = await this.songService.getById(16);
+    const id = this.#params.get("id");
+    this.song = await this.songService.getById(id);
 
-    console.log(song);
+    console.log(this.song);
 
     // view
     this.view.update();

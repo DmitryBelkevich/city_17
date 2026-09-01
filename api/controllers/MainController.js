@@ -1,7 +1,7 @@
 import MainView from '../views/MainView.js';
 
 export default class MainController {
-  constructor() {
+  async init() {
     // view
     this.view = new MainView();
     this.view.update();
