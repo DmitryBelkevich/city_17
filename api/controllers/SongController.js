@@ -32,6 +32,7 @@ export default class SongController {
 
     this.song.instruments.forEach((instrument, index) => {
       this.view.addTuning(instrument.title, instrument.tuning, instrument.capo);
+      console.log(instrument);
     });
     
     const text = await this.loader.loadData(this.song.text);
