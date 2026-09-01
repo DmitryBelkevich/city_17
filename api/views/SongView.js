@@ -12,20 +12,28 @@ export default class SongView {
   }
 
   update() {
+    const band = "Band";
+    const title = "Title";
     const text = "<div>Text & Chords</div><div>Text & Chords</div>";
     
-    this.setPageTitle();
+    this.setPageTitle(band, title);
 
-    this.setTitle();
+    this.setTitle(band, title);
     this.setText(text);
   }
 
-  setPageTitle() {
-    document.title = "Band" + " - " + "Title";
+  setPageTitle(band, title) {
+    document.title = band + " - " + title;
   }
 
-  setTitle() {
-    this.title.textContent = "Band" + " - " + "Title";
+  setTitle(band, title) {
+    const title_e = document.createElement('h1');
+    title_e.textContent = title;
+    
+    const band_e = document.createElement('h2');
+    band_e.textContent = band;
+    
+    element.append(title_e, band_e);
   }
 
   setText(text) {
