@@ -1,5 +1,7 @@
 export default class SongView {
   constructor() {
+    loadCSS("../css/reset.css");
+    
     this.body = document.body;
     
     this.title = document.createElement("div");
@@ -9,6 +11,16 @@ export default class SongView {
     this.text.id = "text";
 
     this.body.append(this.title, this.text);
+  }
+
+  loadCSS(url) {
+    const link = document.createElement("link");
+    
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = url;
+    
+    document.head.appendChild(link);
   }
 
   setPageTitle(band, title) {
