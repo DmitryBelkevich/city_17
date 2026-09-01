@@ -6,11 +6,13 @@
 }
 
 #settings {
-  button {
+  #autoscroll {
     margin: 0px;
     padding: 10px;
   }
+}
 
+#settings {
   select {
     margin: 0px;
     padding: 10px;
