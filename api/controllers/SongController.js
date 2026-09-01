@@ -2,6 +2,8 @@ import Song from '../models/Song.js';
 import SongService from '../services/SongService.js';
 import SongView from '../views/SongView.js';
 
+import TextLoader from '../loaders/TextLoader.js';
+
 export default class SongController {
   #params;
   
@@ -10,6 +12,7 @@ export default class SongController {
     
     // model
     this.songService = new SongService();
+    this.loader = new TextLoader();
 
     // view
     this.view = new SongView();
@@ -24,8 +27,8 @@ export default class SongController {
     this.view.setPageTitle(this.song.band, this.song.title);
 
     this.view.setTitle(this.song.band, this.song.title);
-
-    const text = "<div>Am Dm F G</div><div>Text Text Text</div>";
+    
+    const text = await this.loader.loadData(this.song.text);
     this.view.setText(text);
   }
 }
