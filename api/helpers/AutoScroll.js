@@ -1,6 +1,6 @@
 export default class AutoScroll {
   operation() {
-    var speed = 10;//1 slow, 10 normal, 100 fast.
+    var speed = 50;//1 slow, 10 normal, 100 fast.
     
     let animationFrameId;
 
