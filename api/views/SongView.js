@@ -44,7 +44,7 @@ export default class SongView {
 
     // Bass Guitar Tuning
     this.bassTuning = document.createElement("div");
-    this.guitarTuning.classList.add("bass-guitar");
+    this.bassTuning.classList.add("bass-guitar");
     
     this.tuning.append(this.guitarTuning, this.bassTuning);
     
