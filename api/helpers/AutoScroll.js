@@ -1,16 +1,20 @@
 export default class AutoScroll {
   operation() {
-    function autoScroll() {
-      // Прокручиваем страницу на 1 пиксель вниз
-      window.scrollBy(0, 1); 
+    let animationFrameId;
+
+    function step() {
+      window.scrollBy(0, 10);
       
-      // Проверяем, не достигли ли мы конца страницы
-      if ((window.innerHeight + window.scrollY) < document.body.offsetHeight) {
-        requestAnimationFrame(autoScroll);
-      }
+      if ((window.innerHeight + window.scrollY) < document.body.offsetHeight)
+        animationFrameId = requestAnimationFrame(step);
     }
     
-    // Запустить автоскролл
-    autoScroll();
+    // 1. Start the scroll loop
+    animationFrameId = requestAnimationFrame(step);
+    
+    // 2. Stop the scroll loop
+    function stopAutoScroll() {
+      cancelAnimationFrame(animationFrameId);
+    }
   }
 }
