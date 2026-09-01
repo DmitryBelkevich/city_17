@@ -9,7 +9,7 @@ export default class SongView {
   }
 
   update() {
-    setPageTitle();
+    this.setPageTitle();
     
     this.title.textContent = "Hello World";
   }
