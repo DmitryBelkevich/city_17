@@ -39,6 +39,7 @@ export default class SongView {
     // Footer
     this.footer = document.createElement("div");
     this.footer.id = "footer";
+    this.tab_text.textContent = "Copyright © Dmitry Belkevich";
     this.loadCSS("../css/song/footer.css");
 
     // body fill
