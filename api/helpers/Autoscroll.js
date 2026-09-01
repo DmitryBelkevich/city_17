@@ -3,8 +3,8 @@ export default class Autoscroll {
     this.state = false;
   }
   
-  set state(state) {
-    this.state = state;
+  set state(st) {
+    this.state = st;
   }
 
   run() {
