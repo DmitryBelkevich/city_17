@@ -78,6 +78,7 @@ export default class SongView {
     });
     
     this.tab_playback.addEventListener("click", () => {
+      console.log("open playback tab");
       if (!playback)
         return;
       
