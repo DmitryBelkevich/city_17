@@ -100,7 +100,7 @@ export default class SongView {
     });
   }
 
-  addTuning(title, tuning) {
+  addTuning(title, tuning, capo) {
     const tuning_e = document.createElement("div");
 
     if (Tuning.isStandard(tuning))
@@ -111,6 +111,9 @@ export default class SongView {
     tuning_e.textContent = title + " " + "[" + tuning + "]";
     
     this.tuning.append(tuning_e);
+
+    if (capo)
+      addCapo(capo);
   }
 
   addCapo(capo) {
