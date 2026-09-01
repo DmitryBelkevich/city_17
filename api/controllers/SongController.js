@@ -33,7 +33,6 @@ export default class SongController {
     this.view.setTuning(this.song.instruments);
     
     const text = await this.loader.loadData(this.song.text);
-    
     this.view.setText(text);
   }
 }
