@@ -9,7 +9,15 @@ export default class SongView {
     this.loadCSS("../css/song/title.css");
 
     // Tabs
+    this.tabs = document.createElement("div");
+    this.tabs.id = "tabs";
     this.loadCSS("../css/song/tabs.css");
+
+    this.tab_text = document.createElement("button");
+    this.tab_score = document.createElement("button");
+    this.tab_playback = document.createElement("button");
+
+    this.tabs.append(this.tab_text, this.tab_score, this.tab_playback);
 
     // Text
     this.text = document.createElement("div");
@@ -18,7 +26,7 @@ export default class SongView {
 
     // body fill
     this.body = document.body;
-    this.body.append(this.title, this.text);
+    this.body.append(this.title, this.tabs, this.text);
   }
 
   loadCSS(url) {
