@@ -2,6 +2,8 @@ import Song from '../models/Song.js';
 import SongService from '../services/SongService.js';
 import SongView from '../views/SongView.js';
 
+import TextLoader from '../dao/loaders/TextLoader.js';
+
 export default class SongController {
   #params;
   
@@ -25,7 +27,8 @@ export default class SongController {
 
     this.view.setTitle(this.song.band, this.song.title);
 
-    const text = "<div>Am Dm F G</div><div>Text Text Text</div>";
+    const loader = new TextLoader();
+    const text = await loader.loadData(this.song.text);
     this.view.setText(text);
   }
 }
