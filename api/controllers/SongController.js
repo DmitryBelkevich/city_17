@@ -21,6 +21,11 @@ export default class SongController {
     this.song = await this.songService.getById(id);
     
     // view
-    this.view.update();
+    this.view.setPageTitle(this.song.band, this.song.title);
+
+    this.view.setTitle(this.song.band, this.song.title);
+
+    const text = "<div>Text & Chords</div><div>Text & Chords</div>";
+    this.view.setText(text);
   }
 }
