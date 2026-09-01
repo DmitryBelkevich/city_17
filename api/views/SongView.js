@@ -4,6 +4,8 @@ export default class SongView {
   constructor() {
     // reset css
     this.loadCSS("../css/reset.css");
+
+    // display
     
     // Title
     this.title = document.createElement("div");
