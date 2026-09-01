@@ -11,6 +11,6 @@ export default class Autoscroll {
 
   run() {
     console.log(this.#state);
-    nextState();
+    this.nextState();
   }
 }
