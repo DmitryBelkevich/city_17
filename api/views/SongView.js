@@ -8,7 +8,7 @@ export default class SongView {
     this.text = document.createElement("div");
     this.text.id = "text";
 
-    this.body.append(this.title);
+    this.body.append(this.title, this.text);
   }
 
   update() {
