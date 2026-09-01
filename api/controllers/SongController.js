@@ -17,9 +17,8 @@ export default class SongController {
   }
 
   async init() {
-    const id = this.#params.get("id");
-    
     // model
+    const id = this.#params.get("id");
     this.song = await this.songService.getById(id);
 
     console.log(this.song);
