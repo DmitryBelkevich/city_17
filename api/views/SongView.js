@@ -113,7 +113,7 @@ export default class SongView {
     this.tuning.append(tuning_e);
 
     if (capo)
-      // this.addCapo(capo);
+      this.addCapo(capo);
   }
 
   addCapo(capo) {
