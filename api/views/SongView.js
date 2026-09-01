@@ -110,7 +110,7 @@ export default class SongView {
     
     tuning_e.textContent = title + " " + "[" + tuning + "]";
     
-    this.tuning.append(tuning_e);
+    this.tuning.append(tuning_e);console.log(!!capo);
 
     if (capo)
       addCapo(capo);
