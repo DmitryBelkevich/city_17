@@ -20,5 +20,5 @@
 }
 
 #settings {
-  /* display: none; */
+  display: none;
 }
