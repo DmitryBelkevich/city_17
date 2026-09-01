@@ -31,7 +31,7 @@ export default class SongController {
     this.view.setTabs(this.song.score, this.song.playback);
 
     this.song.instruments.forEach((instrument, index) => {
-      console.log(instrument);
+      this.view.addTuning(instrument.title, instrument.tuning);
     });
     
     const text = await this.loader.loadData(this.song.text);
