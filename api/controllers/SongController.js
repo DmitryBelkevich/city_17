@@ -2,7 +2,7 @@ import Song from '../models/Song.js';
 import SongService from '../services/SongService.js';
 import SongView from '../views/SongView.js';
 
-import TextLoader from '../dao/loaders/TextLoader.js';
+import TextLoader from '../loaders/TextLoader.js';
 
 export default class SongController {
   #params;
