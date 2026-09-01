@@ -13,13 +13,20 @@ export default class SongView {
 
   update() {
     this.setPageTitle();
-    
-    this.title.textContent = "Band" + " - " + "Title";
 
-    this.text.innerHTML = "<div>Text & Chords</div>";
+    this.setTitle();
+    this.setText();
   }
 
   setPageTitle() {
     document.title = "Band" + " - " + "Title";
+  }
+
+  setTitle() {
+    this.title.textContent = "Band" + " - " + "Title";
+  }
+
+  setText() {
+    this.text.innerHTML = "<div>Text & Chords</div>";
   }
 }
