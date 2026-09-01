@@ -20,6 +20,6 @@ export default class SongView {
   }
 
   setPageTitle() {
-    document.title = "Hello World";
+    document.title = "Band - Title";
   }
 }
