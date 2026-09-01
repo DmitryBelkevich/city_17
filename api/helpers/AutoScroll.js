@@ -15,7 +15,7 @@ export default class AutoScroll {
   }
 
   operation() {
-    function autoScroll() {console.log(this);
+    const autoScroll = () => {
       // Прокручиваем страницу на 1 пиксель вниз
       window.scrollBy(0, 1); 
       
@@ -23,9 +23,6 @@ export default class AutoScroll {
       if ((window.innerHeight + window.scrollY) < document.body.offsetHeight && true) {
         requestAnimationFrame(autoScroll);
       }
-
-      // if (!this.#state)
-        // return;
     }
     
     // Запустить автоскролл
