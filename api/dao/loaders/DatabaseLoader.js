@@ -1,8 +1,12 @@
 export default class DatabaseLoader {
+  constructor() {
+    this.database = "../database/";
+  }
+  
   async loadData(path) {
     try {
       // 1. Wait for the server headers and response status
-      const response = await fetch(path);
+      const response = await fetch(this.database + path);
       
       // 2. Check if the HTTP status code is successful (200-299)
       if (!response.ok) {
