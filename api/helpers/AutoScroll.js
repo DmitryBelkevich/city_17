@@ -1,5 +1,7 @@
 export default class AutoScroll {
   operation() {
+    var speed = 1;
+    
     let animationFrameId;
 
     function step() {
