@@ -10,6 +10,7 @@ export default class Autoscroll {
   }
 
   run() {
-    console.log("Autoscroll");
+    console.log(this.#state);
+    nextState();
   }
 }
