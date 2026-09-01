@@ -1,5 +1,5 @@
 import Tuning from '../helpers/Tuning.js';
-import Autoscroll from '../helpers/Autoscroll.js';
+import Autoscroll from '../helpers/AutoScroll.js';
 
 export default class SongView {
   constructor() {
