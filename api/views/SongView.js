@@ -119,7 +119,7 @@ export default class SongView {
   }
 
   setAutoscroll() {
-    this.autoscroll.addEventListener("click", () => {
+    this.autoscroll_e.addEventListener("click", () => {
       this.autoscroll.run();
     });
   }
