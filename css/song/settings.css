@@ -1,0 +1,25 @@
+#settings {
+  margin: 0px;
+  padding: 10px;
+  
+  border: 1px solid black;
+}
+
+#settings {
+  display: flex;
+  justify-content: flex-end;
+}
+
+#settings {
+  #autoscroll {
+    margin: 0px;
+    padding: 10px;
+  }
+}
+
+#settings {
+  select {
+    margin: 0px;
+    padding: 10px;
+  }
+}
