@@ -36,6 +36,11 @@ export default class SongView {
     this.text.id = "text";
     this.loadCSS("../css/song/text.css");
 
+    // Footer
+    this.footer = document.createElement("div");
+    this.footer.id = "footer";
+    this.loadCSS("../css/song/footer.css");
+
     // body fill
     this.body = document.body;
     this.body.append(this.title, this.tabs, this.text);
