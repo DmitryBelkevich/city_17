@@ -35,6 +35,17 @@ export default class SongView {
     
     this.tabs.append(this.tab_text, this.tab_score, this.tab_playback);
 
+    // Settings
+    this.settings = document.createElement("div");
+    this.settings.id = "settings";
+    this.loadCSS("../css/song/settings.css");
+
+    this.autoscroll = document.createElement("button");
+    this.autoscroll.id = "autoscroll";
+    this.autoscroll.textContent = "⏬ auto-scroll";
+
+    this.settings.append(this.autoscroll);
+
     // Tuning
     this.tuning = document.createElement("div");
     this.tuning.id = "tuning";
@@ -53,7 +64,7 @@ export default class SongView {
 
     // body fill
     this.body = document.body;
-    this.body.append(this.title, this.tabs, this.tuning, this.text, this.footer);
+    this.body.append(this.title, this.tabs, this.settings, this.tuning, this.text, this.footer);
   }
 
   loadCSS(url) {
