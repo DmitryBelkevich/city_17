@@ -1,10 +1,8 @@
 export default class Autoscroll {
-  constructor() {
-    this.state = false;
-  }
+  #state = false;
   
-  set state(st) {
-    this.state = st;
+  set state(state) {
+    this.#state = state;
   }
 
   run() {
