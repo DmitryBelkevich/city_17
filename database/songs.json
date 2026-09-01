@@ -20,7 +20,7 @@
         "title": "Guitar"
       },
       {
-        "title": "Bass Guitar",
+        "title": "5-string Bass Guitar",
         "tuning": ["B", "E", "A", "D", "G"]
       }
     ],
@@ -66,7 +66,7 @@
         "title": "Guitar"
       },
       {
-        "title": "Bass Guitar",
+        "title": "5-string Bass Guitar",
         "tuning": ["B", "E", "A", "D", "G"]
       }
     ],
@@ -327,7 +327,7 @@
     "playback": "https://drive.google.com/drive/folders/1jOYtYQkapoxvRZNLmaiubSZ01xmYpc63?usp=drive_link",
     "instruments": [
       {
-        "title": "Bass Guitar",
+        "title": "5-string Bass Guitar",
         "tuning": ["B", "E", "A", "D", "G"]
       }
     ],
@@ -2222,7 +2222,7 @@
         "title": "Guitar"
       },
       {
-        "title": "Bass Guitar",
+        "title": "5-string Bass Guitar",
         "tuning": ["B", "E", "A", "D", "G"]
       }
     ],
@@ -2424,7 +2424,7 @@
         "title": "Guitar"
       },
       {
-        "title": "Bass Guitar",
+        "title": "5-string Bass Guitar",
         "tuning": ["B", "E", "A", "D", "G"]
       }
     ],
@@ -3711,7 +3711,7 @@
         "capo": 5
       },
       {
-        "title": "Bass Guitar",
+        "title": "5-string Bass Guitar",
         "tuning": ["B", "E", "A", "D", "G"]
       }
     ],
@@ -4027,7 +4027,7 @@
         "title": "Guitar"
       },
       {
-        "title": "Bass Guitar",
+        "title": "5-string Bass Guitar",
         "tuning": ["B", "E", "A", "D", "G"]
       }
     ],
