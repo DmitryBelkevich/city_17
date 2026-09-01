@@ -13,6 +13,14 @@
   .bass-guitar {
     /* display: none; */
   }
+
+  .standard {
+    color: green;
+  }
+
+  .non-standard {
+    color: red;
+  }
 }
 
 #tuning {
