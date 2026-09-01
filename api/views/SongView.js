@@ -113,6 +113,14 @@ export default class SongView {
     this.tuning.append(tuning_e);
   }
 
+  addCapo(capo) {
+    const capo_e = document.createElement("div");
+
+    capo_e.classList.add("capo");
+
+    capo_e.textContent = "Capo: +" + capo;
+  }
+
   setText(text) {
     this.text.innerHTML = text;
   }
