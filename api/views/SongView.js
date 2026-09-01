@@ -74,14 +74,14 @@ export default class SongView {
       if (!score)
         return;
       
-      window.open(this.#song.score, "_blank");
+      window.open(score, "_blank");
     });
     
     this.tab_playback.addEventListener("click", () => {
       if (!playback)
         return;
       
-      window.open(this.#song.playback, "_blank");
+      window.open(playback, "_blank");
     });
   }
 
