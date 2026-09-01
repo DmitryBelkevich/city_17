@@ -1,4 +1,4 @@
-import SongController from '/api/controllers/SongController.js';
+import SongController from './api/controllers/SongController.js';
 
 function main() {
   const controller = new SongController();
