@@ -1,3 +1,5 @@
+import Tuning from 'Tuning.js';
+
 export default class SongView {
   constructor() {
     // reset css
