@@ -17,6 +17,14 @@ export default class SongView {
     this.tab_score = document.createElement("button");
     this.tab_playback = document.createElement("button");
 
+    this.tab_text.classList.add("tab");
+    this.tab_score.classList.add("tab");
+    this.tab_playback.classList.add("tab");
+
+    this.tab_text.textContent = "📝 Text & Chords";
+    this.tab_text.tab_score = "🎵 Scores";
+    this.tab_text.tab_playback = "🎧 Playbacks";
+
     this.tabs.append(this.tab_text, this.tab_score, this.tab_playback);
 
     // Text
