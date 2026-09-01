@@ -22,8 +22,8 @@ export default class SongView {
     this.tab_playback.classList.add("tab");
 
     this.tab_text.textContent = "📝 Text & Chords";
-    this.tab_text.tab_score = "🎵 Scores";
-    this.tab_text.tab_playback = "🎧 Playbacks";
+    this.tab_score.textContent = "🎵 Scores";
+    this.tab_playback.textContent = "🎧 Playbacks";
 
     this.tabs.append(this.tab_text, this.tab_score, this.tab_playback);
 
