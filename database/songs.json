@@ -284,7 +284,7 @@
     "visible": "true"
   },
   {
-    "id": "19",
+    "id": "18b",
     "band": "Кипелов", "title": "Я свободен!",
     "genre": "Metal",
     "text": "Metal/Кипелов/Кипелов - Я свободен! (bass).html",
@@ -317,7 +317,7 @@
     "visible": "true"
   },
   {
-    "id": "409",
+    "id": "20b",
     "band": "Слот", "title": "Круги на воде",
     "genre": "Metal",
     "text": "Metal/Слот/Слот - Круги на воде (bass).html",
@@ -417,7 +417,7 @@
     "visible": "true"
   },
   {
-    "id": "403",
+    "id": "25b",
     "band": "Joan Osborne", "title": "One of Us",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Joan Osborne/Joan Osborne - One of Us (bass).html",
@@ -551,7 +551,7 @@
     "visible": "true"
   },
   {
-    "id": "408",
+    "id": "35b",
     "band": "The Rolling Stones", "title": "Paint It Black",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/The Rolling Stones/The Rolling Stones - Paint It Black (bass).html",
@@ -770,7 +770,7 @@
     "visible": "true"
   },
   {
-    "id": "404",
+    "id": "51b",
     "band": "Антон Токарев", "title": "Седьмой лепесток",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Антон Токарев/Антон Токарев - Седьмой лепесток (bass).html",
@@ -1055,7 +1055,7 @@
     "visible": "true"
   },
   {
-    "id": "81",
+    "id": "80b",
     "band": "ДДТ", "title": "Песня о свободе",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/ДДТ/ДДТ - Песня о свободе (bass).html",
@@ -1084,7 +1084,7 @@
     "visible": "true"
   },
   {
-    "id": "83",
+    "id": "82b",
     "band": "ДДТ", "title": "Просвистела",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/ДДТ/ДДТ - Просвистела (bass).html",
@@ -1187,7 +1187,7 @@
     "visible": "true"
   },
   {
-    "id": "92",
+    "id": "91b",
     "band": "Звери", "title": "Напитки покрепче",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Звери/Звери - Напитки покрепче (bass).html",
@@ -1672,7 +1672,7 @@
     "visible": "true"
   },
   {
-    "id": "410",
+    "id": "143b",
     "band": "Комната культуры", "title": "Поезда",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Комната культуры/Комната культуры - Поезда (bass).html",
@@ -2457,7 +2457,7 @@
     "visible": "true"
   },
   {
-    "id": "223",
+    "id": "222b",
     "band": "Нервы", "title": "Слишком влюблён",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Нервы/Нервы - Слишком влюблён (bass).html",
@@ -2674,7 +2674,7 @@
     "visible": "true"
   },
   {
-    "id": "244",
+    "id": "243b",
     "band": "Сплин", "title": "Линия жизни",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Сплин/Сплин - Линия жизни (bass).html",
@@ -2728,7 +2728,7 @@
     "visible": "true"
   },
   {
-    "id": "248",
+    "id": "247b",
     "band": "Сплин", "title": "Романс",
     "genre": "Rock, Punk",
     "text": "Rock, Punk/Сплин/Сплин - Романс (bass).html",
@@ -2903,7 +2903,7 @@
     "visible": "true"
   },
   {
-    "id": "265",
+    "id": "264b",
     "band": "30.02", "title": "Звёзды в лужах",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/30.02/30.02 - Звёзды в лужах (bass).html",
@@ -2939,7 +2939,7 @@
     "visible": "true"
   },
   {
-    "id": "267",
+    "id": "266b",
     "band": "DaBro", "title": "Юность",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/DaBro/DaBro - Юность (bass).html",
@@ -3524,7 +3524,7 @@
     "visible": "true"
   },
   {
-    "id": "326",
+    "id": "325b",
     "band": "Пропаганда", "title": "Мелом",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Пропаганда/Пропаганда - Мелом (bass).html",
@@ -3596,7 +3596,7 @@
     "visible": "true"
   },
   {
-    "id": "332",
+    "id": "331b",
     "band": "Шура", "title": "Ты не верь слезам",
     "genre": "Pop, Dance",
     "text": "Pop, Dance/Шура/Шура - Ты не верь слезам (bass).html",
@@ -4130,7 +4130,7 @@
     "visible": "true"
   },
   {
-    "id": "381",
+    "id": "380b",
     "band": "Михаил Боярский", "title": "Спасибо, родная",
     "genre": "Estrada",
     "text": "Estrada/Михаил Боярский/Михаил Боярский - Спасибо, родная (bass).html",
