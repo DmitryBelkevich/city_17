@@ -575,6 +575,14 @@
     "text": "Rock, Punk/7Б/7Б - Молодые ветра.html",
     "score": "https://drive.google.com/file/d/1eYzhDcris1aoBnhlXWwdShia95uxkGFb/view?usp=drive_link",
     "playback": "https://drive.google.com/drive/folders/1s-FzSHUSBmJ7Hml-kvo0af9tMMHibJZL?usp=drive_link",
+    "instruments": [
+      {
+        "title": "Guitar"
+      },
+      {
+        "title": "5-string Bass Guitar"
+      }
+    ],
     "visible": "true"
   },
   {
@@ -1085,6 +1093,14 @@
     "text": "Rock, Punk/ДДТ/ДДТ - Что такое осень.html",
     "score": "https://drive.google.com/file/d/1W3_ooNht11qdUMWUi74Z3X0AX7KqZvJV/view?usp=drive_link",
     "playback": "https://drive.google.com/drive/folders/1fhAOWT6BIcLMC2aoS7uGmqzHHEJ5ORJL?usp=drive_link",
+    "instruments": [
+      {
+        "title": "Guitar"
+      },
+      {
+        "title": "Bass Guitar"
+      }
+    ],
     "visible": "true"
   },
   {
