@@ -1031,9 +1031,6 @@
       {
         "title": "Guitar",
         "capo": 3
-      },
-      {
-        "title": "Bass Guitar"
       }
     ],
     "visible": "true"
@@ -1046,10 +1043,6 @@
     "score": "https://drive.google.com/file/d/1HXGRBoGMUORyZkM1OgVHi3Ukj0G6IuYR/view?usp=drive_link",
     "playback": "https://drive.google.com/drive/folders/16mVE4iegYnhYoMbBPCQapWbwM-2XAyX3?usp=drive_link",
     "instruments": [
-      {
-        "title": "Guitar",
-        "capo": 3
-      },
       {
         "title": "Bass Guitar"
       }
@@ -1067,9 +1060,6 @@
       {
         "title": "Guitar",
         "capo": 2
-      },
-      {
-        "title": "Bass Guitar"
       }
     ],
     "visible": "true"
@@ -1082,10 +1072,6 @@
     "score": "https://drive.google.com/file/d/19Du4f0244a5b_KhNixdCzTdexuMK9IJo/view?usp=drive_link",
     "playback": "https://drive.google.com/drive/folders/1rNWj98ziApT6giq2fpi0lfsmjfOH2e6U?usp=drive_link",
     "instruments": [
-      {
-        "title": "Guitar",
-        "capo": 2
-      },
       {
         "title": "Bass Guitar"
       }
