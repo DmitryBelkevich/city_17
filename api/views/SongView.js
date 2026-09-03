@@ -9,9 +9,9 @@ export default class SongView {
     this.loadCSS("../css/reset.css");
 
     // display
-    this.loadCSS("../css/display.css");
     this.display = document.createElement("div");
     this.display.id = "display";
+    this.loadCSS("../css/display.css");
     
     // Title
     this.title = document.createElement("div");
