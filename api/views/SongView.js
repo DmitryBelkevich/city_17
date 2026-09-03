@@ -43,7 +43,7 @@ export default class SongView {
     this.display.id = "display";
     this.loadCSS("../css/song/display.css");
 
-    this.display.textContent = "Key: Am";
+    this.display.textContent = "Key: Am, [Voice 1] [Bass Guitar]";
     
     // Settings
     this.settings = document.createElement("div");
