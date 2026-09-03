@@ -49,7 +49,7 @@ export default class SongController {
     // autoscroll
     this.view.bindAutoscroll(this.autoscroll.opearation);
 
-    console.log(this.#params);
+    console.log(this);
   }
 
   openText() {
