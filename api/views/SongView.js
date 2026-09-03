@@ -79,7 +79,7 @@ export default class SongView {
     this.body.append(
       this.title,
       this.tabs,
-      this.display,
+      // this.display,
       this.settings,
       this.tuning,
       this.text,
