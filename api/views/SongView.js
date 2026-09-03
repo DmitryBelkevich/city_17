@@ -1,10 +1,7 @@
 import Tuning from '../helpers/Tuning.js';
-import Autoscroll from '../helpers/AutoScroll.js';
 
 export default class SongView {
   constructor() {
-    this.autoscroll = new Autoscroll();
-    
     // reset css
     this.loadCSS("../css/reset.css");
     
@@ -54,7 +51,6 @@ export default class SongView {
     this.autoscroll_e = document.createElement("button");
     this.autoscroll_e.id = "autoscroll";
     this.autoscroll_e.textContent = "⏬ auto-scroll";
-    this.setAutoscroll();
     
     this.settings.append(this.autoscroll_e);
     
@@ -131,9 +127,9 @@ export default class SongView {
     });
   }
 
-  setAutoscroll() {
+  bindAutoscroll(autoscroll) {
     this.autoscroll_e.addEventListener("click", () => {
-      this.autoscroll.operation();
+      autoscroll.operation();
     });
   }
 
