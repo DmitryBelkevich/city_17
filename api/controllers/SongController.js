@@ -33,8 +33,6 @@ export default class SongController {
 
     this.view.setTitle(this.song.band, this.song.title);
 
-    this.view.setTabs(this.song.score, this.song.playback);
-
     this.song.instruments.forEach((instrument, index) => {
       this.view.addTuning(instrument.title, instrument.tuning, instrument.capo);
     });
@@ -42,7 +40,31 @@ export default class SongController {
     const text = await this.loader.loadData(this.song.text);
     this.view.setText(text);
 
+    // binds:
+
+    // tabs
+    this.view.bindTextTab();
+    this.view.bindScoreTab();
+    this.view.bindPlaybackTab();
     // autoscroll
     this.view.bindAutoscroll(this.autoscroll);
+  }
+
+  openText() {
+    console.log("open text tab");
+  }
+
+  openScore() {
+    if (!this.song.score)
+        return;
+    
+    window.open(this.song.score, "_blank");
+  }
+
+  openPlayback() {
+    if (!this.song.playback)
+        return;
+    
+    window.open(this.song.playback, "_blank");
   }
 }
