@@ -210,6 +210,14 @@
     "text": "Metal/Ария/Ария - Беспечный ангел.html",
     "score": "https://drive.google.com/file/d/1xr2qEyGWfg49XipC_CjkfMoZZsT9PtHk/view?usp=drive_link",
     "playback": "https://drive.google.com/drive/folders/14vYanUZSu8oJbKUNZzHxmsrXVb7l6Z02?usp=drive_link",
+    "instruments": [
+      {
+        "title": "Guitar"
+      },
+      {
+        "title": "Bass Guitar"
+      }
+    ],
     "visible": "true"
   },
   {
@@ -219,6 +227,14 @@
     "text": "Metal/Ария/Ария - Осколок льда.html",
     "score": "https://drive.google.com/file/d/11EhF0SkLPBuPXIImGC7yIcoFe1lwtDHV/view?usp=drive_link",
     "playback": "https://drive.google.com/drive/folders/1qNEow5ELO3tsB_QuF74q9lsQl038AePD?usp=drive_link",
+    "instruments": [
+      {
+        "title": "Guitar"
+      },
+      {
+        "title": "Bass Guitar"
+      }
+    ],
     "visible": "true"
   },
   {
@@ -228,6 +244,14 @@
     "text": "Metal/Ария/Ария - Свобода.html",
     "score": "https://drive.google.com/file/d/1O8PIGbnQNv4UOKIGJ3aVtai275YXmC4Z/view?usp=drive_link",
     "playback": "https://drive.google.com/drive/folders/1x56DJUxYZfbGHZiGEjhQ7DXXUC-Ze-ai?usp=drive_link",
+    "instruments": [
+      {
+        "title": "Guitar"
+      },
+      {
+        "title": "Bass Guitar"
+      }
+    ],
     "visible": "true"
   },
   {
@@ -293,10 +317,6 @@
     "instruments": [
       {
         "title": "Guitar"
-      },
-      {
-        "title": "Bass Guitar",
-        "tuning": ["D", "G", "C", "F"]
       }
     ],
     "visible": "true"
@@ -308,10 +328,6 @@
     "text": "Metal/Кипелов/Кипелов - Я свободен! (bass).html",
     "score": "https://drive.google.com/file/d/1xkSwpQp7QG6_qKK5BCv9KCTieFM_YGXo/view?usp=drive_link",
     "playback": "https://drive.google.com/drive/folders/1NzZgkt2VJ07ge67Xkyp6mceYfJQSX0aD?usp=drive_link",
-    "instruments": [
-      {
-        "title": "Guitar"
-      },
       {
         "title": "Bass Guitar",
         "tuning": ["D", "G", "C", "F"]
