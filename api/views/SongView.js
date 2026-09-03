@@ -13,13 +13,6 @@ export default class SongView {
     this.title.id = "title";
     this.loadCSS("../css/song/title.css");
     
-    // display
-    this.display = document.createElement("div");
-    this.display.id = "display";
-    this.loadCSS("../css/song/display.css");
-
-    this.display.textContent = "Key: Am";
-    
     // Tab 1
     this.tab_text = document.createElement("button");
     this.tab_text.id = "tab_text";
@@ -44,6 +37,13 @@ export default class SongView {
     this.loadCSS("../css/song/tabs.css");
     
     this.tabs.append(this.tab_text, this.tab_score, this.tab_playback);
+
+    // display
+    this.display = document.createElement("div");
+    this.display.id = "display";
+    this.loadCSS("../css/song/display.css");
+
+    this.display.textContent = "Key: Am";
     
     // Settings
     this.settings = document.createElement("div");
@@ -76,7 +76,7 @@ export default class SongView {
     
     // body fill
     this.body = document.body;
-    this.body.append(this.title, this.display, this.tabs, this.settings, this.tuning, this.text, this.footer);
+    this.body.append(this.title, this.tabs, this.display, this.settings, this.tuning, this.text, this.footer);
   }
 
   loadCSS(url) {
