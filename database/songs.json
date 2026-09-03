@@ -203,57 +203,7 @@
     ],
     "visible": "true"
   },
-  {
-    "id": "12",
-    "band": "Ария", "title": "Беспечный ангел",
-    "genre": "Metal",
-    "text": "Metal/Ария/Ария - Беспечный ангел.html",
-    "score": "https://drive.google.com/file/d/1xr2qEyGWfg49XipC_CjkfMoZZsT9PtHk/view?usp=drive_link",
-    "playback": "https://drive.google.com/drive/folders/14vYanUZSu8oJbKUNZzHxmsrXVb7l6Z02?usp=drive_link",
-    "instruments": [
-      {
-        "title": "Guitar"
-      },
-      {
-        "title": "Bass Guitar"
-      }
-    ],
-    "visible": "true"
-  },
-  {
-    "id": "13",
-    "band": "Ария", "title": "Осколок льда",
-    "genre": "Metal",
-    "text": "Metal/Ария/Ария - Осколок льда.html",
-    "score": "https://drive.google.com/file/d/11EhF0SkLPBuPXIImGC7yIcoFe1lwtDHV/view?usp=drive_link",
-    "playback": "https://drive.google.com/drive/folders/1qNEow5ELO3tsB_QuF74q9lsQl038AePD?usp=drive_link",
-    "instruments": [
-      {
-        "title": "Guitar"
-      },
-      {
-        "title": "Bass Guitar"
-      }
-    ],
-    "visible": "true"
-  },
-  {
-    "id": "14",
-    "band": "Ария", "title": "Свобода",
-    "genre": "Metal",
-    "text": "Metal/Ария/Ария - Свобода.html",
-    "score": "https://drive.google.com/file/d/1O8PIGbnQNv4UOKIGJ3aVtai275YXmC4Z/view?usp=drive_link",
-    "playback": "https://drive.google.com/drive/folders/1x56DJUxYZfbGHZiGEjhQ7DXXUC-Ze-ai?usp=drive_link",
-    "instruments": [
-      {
-        "title": "Guitar"
-      },
-      {
-        "title": "Bass Guitar"
-      }
-    ],
-    "visible": "true"
-  },
+  
   {
     "id": "15",
     "band": "Ария", "title": "Там высоко",
