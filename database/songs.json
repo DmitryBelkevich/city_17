@@ -203,6 +203,23 @@
     ],
     "visible": "true"
   },
+  {
+    "id": "12",
+    "band": "Ария", "title": "Беспечный ангел",
+    "genre": "Metal",
+    "text": "Metal/Ария/Ария - Беспечный ангел.html",
+    "score": "https://drive.google.com/file/d/1xr2qEyGWfg49XipC_CjkfMoZZsT9PtHk/view?usp=drive_link",
+    "playback": "https://drive.google.com/drive/folders/14vYanUZSu8oJbKUNZzHxmsrXVb7l6Z02?usp=drive_link",
+    "instruments": [
+      {
+        "title": "Guitar"
+      },
+      {
+        "title": "Bass Guitar"
+      }
+    ],
+    "visible": "true"
+  },
   
   
   {
