@@ -1,4 +1,57 @@
 [
+  {
+    "id": "1",
+    "band": "Metallica", "title": "No Leaf Clover",
+    "genre": "Metal",
+    "text": "Metal/Metallica/Metallica - No Leaf Clover.html",
+    "score": "https://drive.google.com/file/d/14Kg2H5G781StQz8jUIRkeI64iaY4rsvZ/view?usp=drive_link",
+    "playback": "https://drive.google.com/drive/folders/1DduCv5KOrkQvUOLi4UoMsPpDhI8SAY3A?usp=drive_link",
+    "instruments": [
+      {
+        "title": "Guitar",
+        "tuning": ["D#", "G#", "C#", "F#", "A#", "D#"]
+      },
+      {
+        "title": "Bass Guitar",
+        "tuning": ["D#", "G#", "C#", "F#"]
+      }
+    ],
+    "visible": "true"
+  },
+  {
+    "id": "2",
+    "band": "Metallica", "title": "Nothing Else Matters",
+    "genre": "Metal",
+    "text": "Metal/Metallica/Metallica - Nothing Else Matters.html",
+    "score": "https://drive.google.com/file/d/1yz-dUif-3ehfv3SGH9QsMgCPgjxWShVD/view?usp=drive_link",
+    "playback": "https://drive.google.com/drive/folders/1qaR_e-oC31i2ZvcdOpBMFQopTgw2g226?usp=drive_link",
+    "instruments": [
+      {
+        "title": "Guitar"
+      },
+      {
+        "title": "5-string Bass Guitar"
+      }
+    ],
+    "visible": "true"
+  },
+  {
+    "id": "3",
+    "band": "Metallica", "title": "The Unforgiven",
+    "genre": "Metal",
+    "text": "Metal/Metallica/Metallica - The Unforgiven.html",
+    "score": "https://drive.google.com/file/d/15kFARNZLChs43m1eZT7RpwzjMvpNFBK5/view?usp=drive_link",
+    "playback": "https://drive.google.com/drive/folders/1wMxU83ZaB8sw2vSFotyGXNc1w8XwE7Ey?usp=drive_link",
+    "instruments": [
+      {
+        "title": "Guitar"
+      },
+      {
+        "title": "Bass Guitar"
+      }
+    ],
+    "visible": "true"
+  },
   
   
   {
