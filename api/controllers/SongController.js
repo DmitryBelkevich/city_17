@@ -55,12 +55,12 @@ export default class SongController {
   }
 
   openScore() {
-    if (!!this.song.score)
-      window.open(this.song.score, "_blank");
+    // if (!!this.song.score)
+      // window.open(this.song.score, "_blank");
   }
 
-  openPlayback() {
-    if (!!this.song.playback)
-      window.open(this.song.playback, "_blank");
+  openPlayback() {console.log(this.song);
+    // if (!!this.song.playback)
+      // window.open(this.song.playback, "_blank");
   }
 }
