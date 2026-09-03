@@ -17,6 +17,8 @@ export default class SongView {
     this.display = document.createElement("div");
     this.display.id = "display";
     this.loadCSS("../css/song/display.css");
+
+    this.display.textContent = "Key: Am";
     
     // Tab 1
     this.tab_text = document.createElement("button");
