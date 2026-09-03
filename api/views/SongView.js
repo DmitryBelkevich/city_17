@@ -107,26 +107,24 @@ export default class SongView {
     this.title.append(title_e, band_e);
   }
 
-  setTabs(score, playback) {
+  bindTextTab() {
     this.tab_text.addEventListener("click", () => {
       console.log("open text tab");
     });
-    
+  }
+
+  bindScoreTab() {
     this.tab_score.addEventListener("click", () => {
-      if (!score)
-        return;
-      
-      window.open(score, "_blank");
-    });
-    
-    this.tab_playback.addEventListener("click", () => {
-      if (!playback)
-        return;
-      
-      window.open(playback, "_blank");
+      console.log("open score");
     });
   }
 
+  bindPlaybackTab() {
+    this.tab_playback.addEventListener("click", () => {
+      console.log("open playback");
+    });
+  }
+  
   bindAutoscroll(autoscroll) {
     this.autoscroll_e.addEventListener("click", () => {
       autoscroll.operation();
