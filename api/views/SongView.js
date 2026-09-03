@@ -76,7 +76,15 @@ export default class SongView {
     
     // body fill
     this.body = document.body;
-    this.body.append(this.title, this.tabs, this.display, this.settings, this.tuning, this.text, this.footer);
+    this.body.append(
+      this.title,
+      this.tabs,
+      this.display,
+      this.settings,
+      this.tuning,
+      this.text,
+      this.footer
+    );
   }
 
   loadCSS(url) {
