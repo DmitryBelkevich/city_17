@@ -107,7 +107,102 @@
     ],
     "visible": "true"
   },
-  
+  {
+    "id": "7",
+    "band": "System of a Down", "title": "Aerials",
+    "genre": "Metal",
+    "text": "Metal/System of a Down/System of a Down - Aerials.html",
+    "score": "https://drive.google.com/file/d/1wc1vbPnNmv-XEtvDmU44uwvdvd7yDkLM/view?usp=drive_link",
+    "playback": "https://drive.google.com/drive/folders/10-lII3oYIwen-4AY3TI0YfLyf_njJq-t?usp=drive_link",
+    "instruments": [
+      {
+        "title": "Guitar",
+        "tuning": ["C", "G", "C", "F", "A", "D"]
+      },
+      {
+        "title": "Bass Guitar",
+        "tuning": ["C", "G", "C", "F"]
+      }
+    ],
+    "visible": "true"
+  },
+  {
+    "id": "8",
+    "band": "System of a Down", "title": "Chop Suey!",
+    "genre": "Metal",
+    "text": "Metal/System of a Down/System of a Down - Chop Suey!.html",
+    "score": "https://drive.google.com/file/d/1v6HtvOpiX96JdH-SelHMEg6m-4ZK1S7M/view?usp=drive_link",
+    "playback": "https://drive.google.com/drive/folders/1tacbbM11jp5E60IaWX0rNCzy5Et2OsN8?usp=drive_link",
+    "instruments": [
+      {
+        "title": "Guitar",
+        "tuning": ["C", "G", "C", "F", "A", "D"]
+      },
+      {
+        "title": "Bass Guitar",
+        "tuning": ["C", "G", "C", "F"]
+      }
+    ],
+    "visible": "true"
+  },
+  {
+    "id": "9",
+    "band": "System of a Down", "title": "Lonely Day",
+    "genre": "Metal",
+    "text": "Metal/System of a Down/System of a Down - Lonely Day.html",
+    "score": "https://drive.google.com/file/d/1Xr0QUfaBNugsVc_W3NMH3paBfovH1vrc/view?usp=drive_link",
+    "playback": "https://drive.google.com/drive/folders/1CjOs7eybz-6riE14VolKm2xZuZ8_NQOT?usp=drive_link",
+    "instruments": [
+      {
+        "title": "Guitar",
+        "tuning": ["D", "A", "D", "G", "B", "E"]
+      },
+      {
+        "title": "Bass Guitar",
+        "tuning": ["D", "A", "D", "G"]
+      }
+    ],
+    "visible": "true"
+  },
+  {
+    "id": "10",
+    "band": "System of a Down", "title": "Toxicity",
+    "genre": "Metal",
+    "text": "Metal/System of a Down/System of a Down - Toxicity.html",
+    "score": "https://drive.google.com/file/d/1_TmPCZIYh7ptvnDBPZ3bXEQGa7if3kvX/view?usp=drive_link",
+    "playback": "https://drive.google.com/drive/folders/1w5YuiHbulFeAZ5o8GMZV-Dx7RXTjb7tX?usp=drive_link",
+    "instruments": [
+      {
+        "title": "Guitar",
+        "tuning": ["C", "G", "C", "F", "A", "D"]
+      },
+      {
+        "title": "Bass Guitar",
+        "tuning": ["C", "G", "C", "F"]
+      }
+    ],
+    "visible": "true"
+  },
+  {
+    "id": "11",
+    "band": "Stigmata", "title": "Сентябрь",
+    "tags": ["Стигмата"],
+    "genre": "Metal",
+    "text": "Metal/Stigmata/Stigmata - Сентябрь.html",
+    "score": "https://drive.google.com/file/d/1ofOoPhPPoHpfqv3BVIM3bMiPZrhNq9t9/view?usp=drive_link",
+    "playback": "https://drive.google.com/drive/folders/1iEhSRH8mU4giToZTHCu4DKpWYhmP8vGa?usp=drive_link",
+    "instruments": [
+      {
+        "title": "Guitar",
+        "tuning": ["B", "F#", "B", "E", "G#", "C#"]
+      },
+      {
+        "title": "Bass Guitar",
+        "tuning": ["B", "F#", "B", "E"]
+      }
+    ],
+    "visible": "true"
+  },
   
   
   {
