@@ -254,7 +254,59 @@
     ],
     "visible": "true"
   },
-
+  {
+    "id": "15",
+    "band": "Ария", "title": "Там высоко",
+    "genre": "Metal",
+    "text": "Metal/Ария/Ария - Там высоко.html",
+    "score": "https://drive.google.com/file/d/1Kfod3B8jVAZd_-HupOqehgvsa5AThsNg/view?usp=drive_link",
+    "playback": "https://drive.google.com/drive/folders/17qQF5qMhdmFp5c74DlZVu5OHcdsphtw2?usp=drive_link",
+    "instruments": [
+      {
+        "title": "Guitar",
+        "tuning": ["D#", "G#", "C#", "F#", "A#", "D#"]
+      },
+      {
+        "title": "Bass Guitar",
+        "tuning": ["D#", "G#", "C#", "F#"]
+      }
+    ],
+    "visible": "true"
+  },
+  {
+    "id": "16",
+    "band": "Ария", "title": "Улица роз",
+    "genre": "Metal",
+    "text": "Metal/Ария/Ария - Улица роз.html",
+    "score": "https://drive.google.com/file/d/11thDg_jC-3rlP99nAj-wBUDxxSGtVvFF/view?usp=drive_link",
+    "playback": "https://drive.google.com/drive/folders/1opcLtjsV7-6Bbr9r_byZb6EbTzT6Lfz_?usp=drive_link",
+    "instruments": [
+      {
+        "title": "Guitar"
+      },
+      {
+        "title": "Bass Guitar"
+      }
+    ],
+    "visible": "true"
+  },
+  {
+    "id": "17",
+    "band": "Ария", "title": "Штиль",
+    "genre": "Metal",
+    "text": "Metal/Ария/Ария - Штиль.html",
+    "score": "https://drive.google.com/file/d/1NYAeDFngwEXKEo56SC9PDFaq_dsuyvWr/view?usp=drive_link",
+    "playback": "https://drive.google.com/drive/folders/1e9-FDJW1efTbYdrQN6OzKbhjTHYu_xQ1",
+    "instruments": [
+      {
+        "title": "Guitar"
+      },
+      {
+        "title": "Bass Guitar"
+      }
+    ],
+    "visible": "true"
+  },
   
   
   {
