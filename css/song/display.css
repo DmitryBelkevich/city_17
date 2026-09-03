@@ -1,0 +1,8 @@
+#display {
+  margin: 0px;
+  padding: 10px;
+  
+  border: 1px solid black;
+  color: white;
+  background-color: darkgrey;
+}
