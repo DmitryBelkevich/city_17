@@ -6,6 +6,16 @@
     "text": "Metal/Metallica/Metallica - No Leaf Clover.html",
     "score": "https://drive.google.com/file/d/14Kg2H5G781StQz8jUIRkeI64iaY4rsvZ/view?usp=drive_link",
     "playback": "https://drive.google.com/drive/folders/1DduCv5KOrkQvUOLi4UoMsPpDhI8SAY3A?usp=drive_link",
+    "instruments": [
+      {
+        "title": "Guitar",
+        "tuning": ["D#", "G#", "C#", "F#", "A#", "D#"]
+      },
+      {
+        "title": "Bass Guitar",
+        "tuning": ["D#", "G#", "C#", "F#"]
+      }
+    ],
     "visible": "true"
   },
   {
