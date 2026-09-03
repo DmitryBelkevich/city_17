@@ -43,28 +43,30 @@ export default class SongController {
     // binds:
 
     // tabs
-    this.view.bindTextTab();
-    this.view.bindScoreTab();
-    this.view.bindPlaybackTab();
+    this.view.bindTextTab(this.openText);
+    this.view.bindScoreTab(this.openScore);
+    this.view.bindPlaybackTab(this.openPlayback);
     // autoscroll
-    this.view.bindAutoscroll(this.autoscroll);
+    this.view.bindAutoscroll(this.autoscroll.opearation);
   }
 
   openText() {
-    console.log("open text tab");
+    console.log("open Text tab");
   }
 
   openScore() {
-    if (!this.song.score)
-        return;
+    console.log("open Score tab");
+    // if (!this.song.score)
+        // return;
     
-    window.open(this.song.score, "_blank");
+    // window.open(this.song.score, "_blank");
   }
 
   openPlayback() {
-    if (!this.song.playback)
-        return;
+    console.log("open Playback tab");
+    // if (!this.song.playback)
+        // return;
     
-    window.open(this.song.playback, "_blank");
+    // window.open(this.song.playback, "_blank");
   }
 }
