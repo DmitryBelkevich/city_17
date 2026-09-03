@@ -4,6 +4,8 @@ import SongView from '../views/SongView.js';
 
 import TextLoader from '../loaders/TextLoader.js';
 
+import Autoscroll from '../helpers/AutoScroll.js';
+
 export default class SongController {
   #params;
   
@@ -16,6 +18,9 @@ export default class SongController {
 
     // view
     this.view = new SongView();
+
+    // functions
+    this.autoscroll = new Autoscroll();
   }
 
   async init() {
@@ -36,5 +41,8 @@ export default class SongController {
     
     const text = await this.loader.loadData(this.song.text);
     this.view.setText(text);
+
+    // autoscroll
+    this.view.bindAutoscroll(this.autoscroll);
   }
 }
