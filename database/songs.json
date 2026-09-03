@@ -220,6 +220,25 @@
     ],
     "visible": "true"
   },
+  {
+    "id": "13",
+    "band": "Ария", "title": "Осколок льда",
+    "genre": "Metal",
+    "text": "Metal/Ария/Ария - Осколок льда.html",
+    "score": "https://drive.google.com/file/d/11EhF0SkLPBuPXIImGC7yIcoFe1lwtDHV/view?usp=drive_link",
+    "playback": "https://drive.google.com/drive/folders/1qNEow5ELO3tsB_QuF74q9lsQl038AePD?usp=drive_link",
+    "instruments": [
+      {
+        "title": "Guitar"
+      },
+      {
+        "title": "Bass Guitar"
+      }
+    ],
+    "visible": "true"
+  },
+
+
   
   
   {
