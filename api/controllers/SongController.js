@@ -40,7 +40,7 @@ export default class SongController {
     const text = await this.loader.loadData(this.song.text);
     this.view.setText(text);
 
-    // binds:
+    // binding controller-view:
 
     // tabs
     this.view.bindTextTab(this.openText);
@@ -50,11 +50,11 @@ export default class SongController {
     this.view.bindAutoscroll(this.autoscroll.opearation);
   }
 
-  openText() {
+  openText = () {
     console.log("open Text tab");
   }
 
-  openScore() {
+  openScore = () => {
     if (!!this.song.score)
       window.open(this.song.score, "_blank");
   }
