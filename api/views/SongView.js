@@ -3,10 +3,10 @@ import Tuning from '../helpers/Tuning.js';
 export default class SongView {
   constructor() {
     // reset css
-    this.loadCSS("../css/reset.css");
+    this.loadCSS("../api/views/css/reset.css");
     
     // Title
-    this.loadCSS("../css/song/title.css");
+    this.loadCSS("../api/views/css/song/title.css");
     this.title = document.createElement("div");
     this.title.id = "title";
     
@@ -29,20 +29,20 @@ export default class SongView {
     this.tab_playback.textContent = "🎧 Playbacks";
     
     // Tabs
-    this.loadCSS("../css/song/tabs.css");
+    this.loadCSS("../api/views/css/song/tabs.css");
     this.tabs = document.createElement("div");
     this.tabs.id = "tabs";
     
     this.tabs.append(this.tab_text, this.tab_score, this.tab_playback);
 
     // display
-    this.loadCSS("../css/song/display.css");
+    this.loadCSS("../api/views/css/song/display.css");
     this.display = document.createElement("div");
     this.display.id = "display";
     this.display.textContent = "Key: Am, [Voice 1] [Bass Guitar]";
     
     // Settings
-    this.loadCSS("../css/song/settings.css");
+    this.loadCSS("../api/views/css/song/settings.css");
     this.settings = document.createElement("div");
     this.settings.id = "settings";
     
@@ -54,17 +54,17 @@ export default class SongView {
     this.settings.append(this.autoscroll_e);
     
     // Tuning
-    this.loadCSS("../css/song/tuning.css");
+    this.loadCSS("../api/views/css/song/tuning.css");
     this.tuning = document.createElement("div");
     this.tuning.id = "tuning";
     
     // Text
-    this.loadCSS("../css/song/text.css");
+    this.loadCSS("../api/views/css/song/text.css");
     this.text = document.createElement("div");
     this.text.id = "text";
     
     // Footer
-    this.loadCSS("../css/song/footer.css");
+    this.loadCSS("../api/views/css/song/footer.css");
     this.footer = document.createElement("div");
     this.footer.id = "footer";
     this.footer.textContent = "Copyright © Dmitry Belkevich";
