@@ -106,30 +106,6 @@ export default class SongView {
     this.title.append(title_e, band_e);
   }
 
-  bindTextTab(handler) {
-    this.tab_text.addEventListener("click", () => {
-      handler();
-    });
-  }
-
-  bindScoreTab(handler) {
-    this.tab_score.addEventListener("click", () => {
-      handler();
-    });
-  }
-
-  bindPlaybackTab(handler) {
-    this.tab_playback.addEventListener("click", () => {
-      handler();
-    });
-  }
-  
-  bindAutoscroll(handler) {
-    this.autoscroll_e.addEventListener("click", () => {
-      handler();
-    });
-  }
-
   addTuning(title, tuning, capo) {
     const tuning_e = document.createElement("div");
 
@@ -158,5 +134,31 @@ export default class SongView {
 
   setText(text) {
     this.text.innerHTML = text;
+  }
+
+  // binding view-controller
+  
+  bindTextTab(handler) {
+    this.tab_text.addEventListener("click", () => {
+      handler();
+    });
+  }
+
+  bindScoreTab(handler) {
+    this.tab_score.addEventListener("click", () => {
+      handler();
+    });
+  }
+
+  bindPlaybackTab(handler) {
+    this.tab_playback.addEventListener("click", () => {
+      handler();
+    });
+  }
+  
+  bindAutoscroll(handler) {
+    this.autoscroll_e.addEventListener("click", () => {
+      handler();
+    });
   }
 }
