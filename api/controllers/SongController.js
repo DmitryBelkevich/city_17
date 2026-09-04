@@ -50,7 +50,7 @@ export default class SongController {
     this.view.bindAutoscroll(this.autoscroll.opearation);
   }
 
-  openText = () {
+  openText = () => {
     console.log("open Text tab");
   }
 
