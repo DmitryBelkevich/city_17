@@ -46,7 +46,7 @@ export default class SongController {
     this.view.bindTextTab(this.openText);
     this.view.bindScoreTab(this.openScore);
     this.view.bindPlaybackTab(()=>{
-      this.openText();
+      this.openPlayback();
     });
     // autoscroll
     this.view.bindAutoscroll(this.autoscroll.opearation);
@@ -62,7 +62,7 @@ export default class SongController {
   }
 
   openPlayback() {
-    
+    console.log("open Playback");
     // if (!!this.song.playback)
       // window.open(this.song.playback, "_blank");
   }
