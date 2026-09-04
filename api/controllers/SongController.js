@@ -62,7 +62,7 @@ export default class SongController {
   }
 
   openPlayback() {
-    console.log("open Playback");
+    console.log("open Playback" + this);
     // if (!!this.song.playback)
       // window.open(this.song.playback, "_blank");
   }
