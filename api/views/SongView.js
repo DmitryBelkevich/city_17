@@ -3,10 +3,10 @@ import Tuning from '../helpers/Tuning.js';
 export default class SongView {
   constructor() {
     // reset css
-    this.loadCSS("css/reset.css");
+    this.loadCSS("../api/views/css/reset.css");
     
     // Title
-    this.loadCSS("css/song/title.css");
+    this.loadCSS("../api/views/css/song/title.css");
     this.title = document.createElement("div");
     this.title.id = "title";
     
