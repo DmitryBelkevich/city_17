@@ -1,4 +1,5 @@
 export default class AutoScroll {
+  speed = 15;//1 slow, 10 normal, 100 fast.
   animationFrameId;
 
   step = () => {
@@ -7,17 +8,15 @@ export default class AutoScroll {
     if ((window.innerHeight + window.scrollY) < document.body.offsetHeight) {
       setTimeout(() => {
         this.animationFrameId = requestAnimationFrame(this.step);
-      }, 1000 / 15);
+      }, 1000 / this.speed);
     }
   }
   
-  // 1. Start the scroll loop
   run() {
     this.animationFrameId = requestAnimationFrame(this.step);
   }
   
-  // 2. Stop the scroll loop
-  stopAutoScroll() {
+  stop() {
     cancelAnimationFrame(this.animationFrameId);
   }
 }
