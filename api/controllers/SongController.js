@@ -4,7 +4,7 @@ import SongView from '../views/SongView.js';
 
 import TextLoader from '../loaders/TextLoader.js';
 
-import Autoscroll from '../helpers/AutoScroll.js';
+import Autoscroll from '../helpers/page/AutoScroll.js';
 
 export default class SongController {
   #params;
@@ -65,6 +65,6 @@ export default class SongController {
   }
 
   auto_scroll = () => {
-    this.autoscroll.operation();
+    this.autoscroll.run();
   }
 }
