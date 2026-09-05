@@ -1,6 +1,6 @@
 export default class AutoScroll {
   constructor() {
-    this.speed = 15;//1 slow, 10 normal, 100 fast.
+    this.speed = 0;//1 slow, 10 normal, 100 fast.
   }
   
   run() {
@@ -23,5 +23,9 @@ export default class AutoScroll {
     function stopAutoScroll() {
       cancelAnimationFrame(animationFrameId);
     }
+  }
+
+  speedUp() {
+    this.speed = 15;
   }
 }
