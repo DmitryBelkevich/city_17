@@ -1,7 +1,7 @@
 export default class AutoScroll {
-  speed = 15*5;//1 slow, 10 normal, 100 fast.
+  speed = 15;//1 slow, 10 normal, 100 fast.
   
-  operation() {
+  run() {
     let animationFrameId;
 
     const step = () => {
