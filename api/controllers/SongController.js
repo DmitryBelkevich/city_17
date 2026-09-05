@@ -65,6 +65,6 @@ export default class SongController {
   }
 
   auto_scroll = () => {
-    this.autoscroll.operation();
+    this.autoscroll.run();
   }
 }
