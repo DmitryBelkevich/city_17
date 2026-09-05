@@ -50,7 +50,7 @@ export default class SongController {
     this.view.bindAutoscroll(this.auto_scroll);
 
     // run
-    this.autoscroll.run();
+    // this.autoscroll.run();
   }
 
   openText = () => {
