@@ -1,7 +1,7 @@
 export default class AutoScroll {
   animationFrameId;
 
-  step() {
+  step = () => {
     window.scrollBy(0, 1);
     
     if ((window.innerHeight + window.scrollY) < document.body.offsetHeight) {
