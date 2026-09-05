@@ -1,6 +1,6 @@
 export default class AutoScroll {
   constructor() {
-    this.speed = 1;//1 slow, 10 normal, 100 fast.
+    this.speed = 0;//1 slow, 10 normal, 100 fast.
   }
   
   run() {
@@ -12,7 +12,7 @@ export default class AutoScroll {
       if ((window.innerHeight + window.scrollY) < document.body.offsetHeight) {
         setTimeout(() => {
           animationFrameId = requestAnimationFrame(step);
-        }, 1000 / this.speed);
+        }, (1000 / 0));
       }
     }
     
