@@ -555,6 +555,14 @@
     "text": "Rock, Punk/Radiohead/Radiohead - Creep.html",
     "score": "https://drive.google.com/file/d/17aOG_IDCGVFoCfnpzhsiv9BCmHU9Vzwh/view?usp=drive_link",
     "playback": "https://drive.google.com/drive/folders/1DyKE4AH5n_5EXXlbalbTD8XNWUyIy33g?usp=drive_link",
+    "instruments": [
+      {
+        "title": "Guitar"
+      },
+      {
+        "title": "Bass Guitar"
+      }
+    ],
     "visible": "true"
   },
   {
@@ -564,6 +572,14 @@
     "text": "Rock, Punk/Red Hot Chili Peppers/Red Hot Chili Peppers - Californication.html",
     "score": "https://drive.google.com/file/d/1iCbczXXChXMTrsNRRcreH_5lHsbcOrvF/view?usp=drive_link",
     "playback": "https://drive.google.com/drive/folders/1MTpXIUmGbI8EzPAmLT2feX0cNC23uUVQ?usp=drive_link",
+    "instruments": [
+      {
+        "title": "Guitar"
+      },
+      {
+        "title": "Bass Guitar"
+      }
+    ],
     "visible": "true"
   },
   {
@@ -573,6 +589,14 @@
     "text": "Rock, Punk/Scorpions/Scorpions - Still Loving You.html",
     "score": "https://drive.google.com/file/d/1DtWqV7YIoFyaHgpS-pQA8QT8mPUpK5cS/view?usp=drive_link",
     "playback": "https://drive.google.com/drive/folders/1pamciCO0fFEacA_iNA7bmXigLAeSNLnJ?usp=drive_link",
+    "instruments": [
+      {
+        "title": "Guitar"
+      },
+      {
+        "title": "5-string Bass Guitar"
+      }
+    ],
     "visible": "true"
   },
   {
@@ -597,6 +621,14 @@
     "text": "Rock, Punk/The Cranberries/The Cranberries - Zombie.html",
     "score": "https://drive.google.com/file/d/1RK0KpmokXuih_m5voNb39LKlwSTZqKZa/view?usp=drive_link",
     "playback": "https://drive.google.com/drive/folders/10uglj6dHOhZOQBamaOq9wPFQTNDnugTR?usp=drive_link",
+    "instruments": [
+      {
+        "title": "Guitar"
+      },
+      {
+        "title": "Bass Guitar"
+      }
+    ],
     "visible": "true"
   },
   {
@@ -610,9 +642,6 @@
       {
         "title": "Guitar",
         "capo": 2
-      },
-      {
-        "title": "Bass Guitar"
       }
     ],
     "visible": "true"
@@ -625,10 +654,6 @@
     "score": "https://drive.google.com/file/d/18SXrwiQC8MsbBDYofiXl9JyQZREyMNjN/view?usp=drive_link",
     "playback": "https://drive.google.com/drive/folders/1HFyp4Cl05oUFBQdZ6V2xWQ2S3sVNb-hF?usp=drive_link",
     "instruments": [
-      {
-        "title": "Guitar",
-        "capo": 2
-      },
       {
         "title": "Bass Guitar"
       }
@@ -680,6 +705,14 @@
     "text": "Rock, Punk/Animal ДжаZ/Animal ДжаZ - Три полоски.html",
     "score": "https://drive.google.com/file/d/1OkNWY1bR8d1dX5mVGW_zKmro9HouPzzV/view?usp=drive_link",
     "playback": "https://drive.google.com/drive/folders/1oYPIewoO19bDr2k2QmTNBqJnqdvZxFwW?usp=drive_link",
+    "instruments": [
+      {
+        "title": "Guitar"
+      },
+      {
+        "title": "5-string Bass Guitar"
+      }
+    ],
     "visible": "true"
   },
   {
@@ -715,6 +748,14 @@
     "text": "Rock, Punk/Lumen/Lumen - Sid & Nancy.html",
     "score": "https://drive.google.com/file/d/1LRdihZRyUf4Kp2DjZfpSLRhYS-5XyyS_/view?usp=drive_link",
     "playback": "https://drive.google.com/drive/folders/1EZNjkEzj4SjJPF2EY2EZnuma_9bHOvYI?usp=drive_link",
+    "instruments": [
+      {
+        "title": "Guitar"
+      },
+      {
+        "title": "Bass Guitar"
+      }
+    ],
     "visible": "true"
   },
   {
@@ -760,6 +801,14 @@
     "text": "Rock, Punk/Агата Кристи/Агата Кристи - Как на войне.html",
     "score": "https://drive.google.com/file/d/19CWFIhkn0hzSb7qunHcUV0rCMzqBJScd/view?usp=drive_link",
     "playback": "https://drive.google.com/drive/folders/1Z3vY58BvaE3MzWOPEYDgPxB3v17Dbgp5?usp=drive_link",
+    "instruments": [
+      {
+        "title": "Guitar"
+      },
+      {
+        "title": "Bass Guitar"
+      }
+    ],
     "visible": "true"
   },
   {
@@ -769,6 +818,14 @@
     "text": "Rock, Punk/Агата Кристи/Агата Кристи - Никогда.html",
     "score": "https://drive.google.com/file/d/1t9WpZWvCNyGocBLYFJ-4rLG101Ch3Opk/view?usp=drive_link",
     "playback": "https://drive.google.com/drive/folders/18Ou4kaBOH38iqoVPxgY88S0DRduU6FmL?usp=drive_link",
+    "instruments": [
+      {
+        "title": "Guitar"
+      },
+      {
+        "title": "Bass Guitar"
+      }
+    ],
     "visible": "true"
   },
   {
@@ -807,6 +864,11 @@
     "text": "Rock, Punk/Алексей Понамарёв/Алексей Понамарёв - А мы не ангелы, парень.html",
     "score": "",
     "playback": "https://drive.google.com/drive/folders/19TZhfHO_Nufvua6UEp0KUfKRT1YAgr_2?usp=drive_link",
+    "instruments": [
+      {
+        "title": "Guitar"
+      }
+    ],
     "visible": "true"
   },
   {
@@ -816,6 +878,14 @@
     "text": "Rock, Punk/Алиса/Алиса - Трасса Е-95.html",
     "score": "https://drive.google.com/file/d/1mB0GuKfgC55v6eGuC2w_vtnPJ6PzgNwQ/view?usp=drive_link",
     "playback": "https://drive.google.com/drive/folders/1F4FB5oQCsDj5Nc6UmQVtLWv8lhEoabgh?usp=drive_link",
+    "instruments": [
+      {
+        "title": "Guitar"
+      },
+      {
+        "title": "Bass Guitar"
+      }
+    ],
     "visible": "true"
   },
   {
@@ -829,9 +899,6 @@
       {
         "title": "Guitar",
         "capo": 6
-      },
-      {
-        "title": "Bass Guitar"
       }
     ],
     "visible": "true"
@@ -845,10 +912,6 @@
     "playback": "https://drive.google.com/drive/folders/1M_jW1kq2Nlh3vTB8FcRcC-9Q3OGQsjCr?usp=drive_link",
     "instruments": [
       {
-        "title": "Guitar",
-        "capo": 6
-      },
-      {
         "title": "Bass Guitar"
       }
     ],
@@ -861,6 +924,14 @@
     "text": "Rock, Punk/АукцЫон/АукцЫон - Дорога.html",
     "score": "https://drive.google.com/file/d/1vY20_EZ9961eGqP8POACeWSZmhqz-09A/view?usp=drive_link",
     "playback": "https://drive.google.com/drive/folders/1rirZFpMvxUyAdZhv4hU65vqaIMN7uI4M?usp=drive_link",
+    "instruments": [
+      {
+        "title": "Guitar"
+      },
+      {
+        "title": "Bass Guitar"
+      }
+    ],
     "visible": "true"
   },
   {
