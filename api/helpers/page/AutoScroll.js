@@ -13,11 +13,11 @@ export default class AutoScroll {
   
   // 1. Start the scroll loop
   run() {
-    animationFrameId = requestAnimationFrame(this.step);
+    this.animationFrameId = requestAnimationFrame(this.step);
   }
   
   // 2. Stop the scroll loop
   stopAutoScroll() {
-    cancelAnimationFrame(animationFrameId);
+    cancelAnimationFrame(this.animationFrameId);
   }
 }
