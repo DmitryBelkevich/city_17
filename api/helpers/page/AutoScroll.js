@@ -1,6 +1,6 @@
 export default class AutoScroll {
   constructor() {
-    this.speed = 0;//1 slow, 10 normal, 100 fast.
+    this.speed = 1;//1 slow, 10 normal, 100 fast.
   }
   
   run() {
