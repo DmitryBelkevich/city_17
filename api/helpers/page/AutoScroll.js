@@ -10,7 +10,7 @@ export default class AutoScroll {
       if ((window.innerHeight + window.scrollY) < document.body.offsetHeight) {
         setTimeout(() => {
           animationFrameId = requestAnimationFrame(step);
-        }, 1000 / speed);
+        }, 1000 / this.speed);
       }
     }
     
