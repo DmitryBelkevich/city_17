@@ -1,7 +1,9 @@
 export default class AutoScroll {
   constructor() {
     this.speed = 15;//1 slow, 10 normal, 100 fast.
-
+  }
+  
+  run() {
     let animationFrameId;
 
     const step = () => {
@@ -21,9 +23,5 @@ export default class AutoScroll {
     function stopAutoScroll() {
       cancelAnimationFrame(animationFrameId);
     }
-  }
-  
-  run() {
-    
   }
 }
