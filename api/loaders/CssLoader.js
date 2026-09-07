@@ -1,5 +1,5 @@
 export default class CssLoader {
-  loadCSS(url) {
+  load(url) {
     const link = document.createElement("link");
     
     link.rel = 'stylesheet';
