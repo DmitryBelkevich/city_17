@@ -9,6 +9,8 @@ export default class SongDao {
   async getAll() {
     const data = await this.loader.loadData("songs.json");
     console.log(data);
+
+    return null;
   }
   
   async getById(id) {
