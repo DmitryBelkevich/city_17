@@ -1,5 +1,8 @@
 export default class ListView {
   constructor() {
+    // reset css
+    this.loadCSS("../api/views/css/reset.css");
+    
     this.body = document.body;
   }
 
