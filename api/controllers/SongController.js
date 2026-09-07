@@ -8,41 +8,31 @@ import Autoscroll from '../helpers/page/AutoScroll.js';
 
 export default class SongController {
   #params;
-  
-  constructor() {
-    console.log("SongController constructor");
-  }
 
   async init() {
-    console.log("SongController init");
-
     this.#params = new URLSearchParams(window.location.search);
+    const id = this.#params.get("id");
     
     // model
     this.songService = new SongService();
-    this.loader = new TextLoader();
+    this.song = await this.songService.getById(id);
 
     // view
     this.view = new SongView();
-
-    // functions
-    this.autoscroll = new Autoscroll();
     
-    // model
-    const id = this.#params.get("id");
-    this.song = await this.songService.getById(id);
-    
-    // view
     this.view.setPageTitle(this.song.band, this.song.title);
-
     this.view.setTitle(this.song.band, this.song.title);
-
     this.song.instruments.forEach((instrument, index) => {
       this.view.addTuning(instrument.title, instrument.tuning, instrument.capo);
     });
-    
+
+    // load text
+    this.loader = new TextLoader();
     const text = await this.loader.loadData(this.song.text);
     this.view.setText(text);
+
+    // functions
+    this.autoscroll = new Autoscroll();
 
     // binding controller-view:
 
