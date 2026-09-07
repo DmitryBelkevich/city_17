@@ -6,6 +6,10 @@ export default class ListController {
     // model
     this.songService = new SongService();
     this.songs = await this.songService.getAll();
+
+    this.songs.forEach((song, index) => {
+      console.log(song);
+    });
     
     // view
     this.view = new ListView();
