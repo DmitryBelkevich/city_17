@@ -10,6 +10,8 @@ export default class SongController {
   #params;
   
   constructor() {
+    console.log("SongController constructor");
+    
     this.#params = new URLSearchParams(window.location.search);
     
     // model
