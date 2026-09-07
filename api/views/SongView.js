@@ -1,4 +1,4 @@
-import TextLoader from '../loaders/CssLoader.js';
+import CssLoader from '../loaders/CssLoader.js';
 import Tuning from '../helpers/Tuning.js';
 
 export default class SongView {
