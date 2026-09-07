@@ -9,7 +9,7 @@ export default class ListView {
 
   addSong(song) {
     const song_e = document.createElement("div");
-    song_e.textContent = song.band + " " + song.title;
+    song_e.textContent = song.band + " - " + song.title;
 
     this.body.append(song_e);
   }
