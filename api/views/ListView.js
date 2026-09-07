@@ -1,3 +1,5 @@
+import CssLoader from '../loaders/CssLoader.js';
+
 export default class ListView {
   constructor() {
     this.cssLoader = new CssLoader();
