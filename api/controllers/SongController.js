@@ -11,7 +11,11 @@ export default class SongController {
   
   constructor() {
     console.log("SongController constructor");
-    
+  }
+
+  async init() {
+    console.log("SongController init");
+
     this.#params = new URLSearchParams(window.location.search);
     
     // model
@@ -23,10 +27,6 @@ export default class SongController {
 
     // functions
     this.autoscroll = new Autoscroll();
-  }
-
-  async init() {
-    console.log("SongController init");
     
     // model
     const id = this.#params.get("id");
