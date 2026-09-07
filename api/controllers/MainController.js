@@ -4,6 +4,5 @@ export default class MainController {
   async init() {
     // view
     this.view = new MainView();
-    this.view.update();
   }
 }
