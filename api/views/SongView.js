@@ -1,12 +1,15 @@
+import CssLoader from '../loaders/CssLoader.js';
 import Tuning from '../helpers/Tuning.js';
 
 export default class SongView {
   constructor() {
+    this.cssLoader = new CssLoader();
+    
     // reset css
-    this.loadCSS("../api/views/css/reset.css");
+    this.cssLoader.loadCSS("../api/views/css/reset.css");
     
     // Title
-    this.loadCSS("../api/views/css/song/title.css");
+    this.cssLoader.loadCSS("../api/views/css/song/title.css");
     this.title = document.createElement("div");
     this.title.id = "title";
     
@@ -29,20 +32,20 @@ export default class SongView {
     this.tab_playback.textContent = "🎧 Playbacks";
     
     // Tabs
-    this.loadCSS("../api/views/css/song/tabs.css");
+    this.cssLoader.loadCSS("../api/views/css/song/tabs.css");
     this.tabs = document.createElement("div");
     this.tabs.id = "tabs";
     
     this.tabs.append(this.tab_text, this.tab_score, this.tab_playback);
 
     // display
-    this.loadCSS("../api/views/css/song/display.css");
+    this.cssLoader.loadCSS("../api/views/css/song/display.css");
     this.display = document.createElement("div");
     this.display.id = "display";
     this.display.textContent = "Key: Am, [Voice 1] [Bass Guitar]";
     
     // Settings
-    this.loadCSS("../api/views/css/song/settings.css");
+    this.cssLoader.loadCSS("../api/views/css/song/settings.css");
     this.settings = document.createElement("div");
     this.settings.id = "settings";
     
@@ -54,17 +57,17 @@ export default class SongView {
     this.settings.append(this.autoscroll_e);
     
     // Tuning
-    this.loadCSS("../api/views/css/song/tuning.css");
+    this.cssLoader.loadCSS("../api/views/css/song/tuning.css");
     this.tuning = document.createElement("div");
     this.tuning.id = "tuning";
     
     // Text
-    this.loadCSS("../api/views/css/song/text.css");
+    this.cssLoader.loadCSS("../api/views/css/song/text.css");
     this.text = document.createElement("div");
     this.text.id = "text";
     
     // Footer
-    this.loadCSS("../api/views/css/song/footer.css");
+    this.cssLoader.loadCSS("../api/views/css/song/footer.css");
     this.footer = document.createElement("div");
     this.footer.id = "footer";
     this.footer.textContent = "Copyright © Dmitry Belkevich";
@@ -80,16 +83,6 @@ export default class SongView {
       this.text,
       this.footer
     );
-  }
-
-  loadCSS(url) {
-    const link = document.createElement("link");
-    
-    link.rel = 'stylesheet';
-    link.type = 'text/css';
-    link.href = url;
-    
-    document.head.appendChild(link);
   }
 
   setPageTitle(band, title) {
