@@ -5,6 +5,11 @@ export default class SongDao {
   constructor() {
     this.loader = new DatabaseLoader();
   }
+
+  async getAll() {
+    const data = await this.loader.loadData("songs.json");
+    console.log(data);
+  }
   
   async getById(id) {
     const data = await this.loader.loadData("songs.json");
