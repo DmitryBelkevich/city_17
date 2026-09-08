@@ -3400,6 +3400,26 @@
     "visible": "true"
   },
   {
+    "id": "399",
+    "band": "Wham!", "title": "Last Christmas",
+    "tags": ["new year"],
+    "genre": "Pop, Dance",
+    "text": "New Year/Wham!/Wham! - Last Christmas.html",
+    "score": "",
+    "playback": "https://drive.google.com/drive/folders/1EXOcDuIDVGFsS4DAfDfPX-sixK62W9_m?usp=drive_link",
+    "visible": "true"
+  },
+  {
+    "id": "405",
+    "band": "The Limba feat. JONY & Егор Крид & A4", "title": "Новогодняя Песня",
+    "tags": ["new year"],
+    "genre": "Pop, Dance",
+    "text": "New Year/The Limba feat. JONY & Егор Крид & A4/The Limba feat. JONY & Егор Крид & A4 - Новогодняя Песня.html",
+    "score": "",
+    "playback": "https://drive.google.com/drive/folders/1kAO8UQOJDVEkZO20RzU3Ts7GDxsB-rHt?usp=drive_link",
+    "visible": "true"
+  },
+  {
     "id": "264",
     "band": "30.02", "title": "Звёзды в лужах",
     "genre": "Pop, Dance",
@@ -4875,21 +4895,12 @@
     "visible": "true"
   },
   
-  {
-    "id": "399",
-    "band": "Wham!", "title": "Last Christmas",
-    "tags": ["new year"],
-    "genre": "New Year",
-    "text": "New Year/Wham!/Wham! - Last Christmas.html",
-    "score": "",
-    "playback": "https://drive.google.com/drive/folders/1EXOcDuIDVGFsS4DAfDfPX-sixK62W9_m?usp=drive_link",
-    "visible": "true"
-  },
+  
   {
     "id": "400",
     "band": "Дилижанс", "title": "Новогодняя",
     "tags": ["new year"],
-    "genre": "New Year",
+    "genre": "Pop, Dance",
     "text": "New Year/Дилижанс/Дилижанс - Новогодняя.html",
     "score": "",
     "playback": "https://drive.google.com/drive/folders/1_sgeGfiRI-rpxoBwXiJa8XKa3dnF0MHG?usp=drive_link",
@@ -4899,7 +4910,7 @@
     "id": "401",
     "band": "Дискотека Авария", "title": "Новогодняя",
     "tags": ["new year"],
-    "genre": "New Year",
+    "genre": "Pop, Dance",
     "text": "New Year/Дискотека Авария/Дискотека Авария - Новогодняя.html",
     "score": "",
     "playback": "https://drive.google.com/drive/folders/15QMGfvo6vmVxuNskbmpU8McqrpUcJMF3?usp=drive_link",
@@ -4909,20 +4920,10 @@
     "id": "402",
     "band": "Стекловата", "title": "Новый год",
     "tags": ["new year"],
-    "genre": "New Year",
+    "genre": "Pop, Dance",
     "text": "New Year/Стекловата/Стекловата - Новый год.html",
     "score": "",
     "playback": "https://drive.google.com/drive/folders/1WGsoxmvZBOxgsyy8wjpM-jxuGCiFrC28?usp=drive_link",
-    "visible": "true"
-  },
-  {
-    "id": "405",
-    "band": "The Limba feat. JONY & Егор Крид & A4", "title": "Новогодняя Песня",
-    "tags": ["new year"],
-    "genre": "New Year",
-    "text": "New Year/The Limba feat. JONY & Егор Крид & A4/The Limba feat. JONY & Егор Крид & A4 - Новогодняя Песня.html",
-    "score": "",
-    "playback": "https://drive.google.com/drive/folders/1kAO8UQOJDVEkZO20RzU3Ts7GDxsB-rHt?usp=drive_link",
     "visible": "true"
   },
   
