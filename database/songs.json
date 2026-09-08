@@ -4115,6 +4115,16 @@
     "visible": "true"
   },
   {
+    "id": "402",
+    "band": "Стекловата", "title": "Новый год",
+    "tags": ["new year"],
+    "genre": "Pop, Dance",
+    "text": "New Year/Стекловата/Стекловата - Новый год.html",
+    "score": "",
+    "playback": "https://drive.google.com/drive/folders/1WGsoxmvZBOxgsyy8wjpM-jxuGCiFrC28?usp=drive_link",
+    "visible": "true"
+  },
+  {
     "id": "329",
     "band": "Форум", "title": "Белая ночь",
     "genre": "Pop, Dance",
@@ -4912,17 +4922,6 @@
     "text": "Classic/Gheorghe Zamfir/Gheorghe Zamfir - The Lonely Shepherd.html",
     "score": "https://drive.google.com/file/d/1n71bPDnLpi0kbB7BX0udtm-BDnvMvtqp/view?usp=drive_link",
     "playback": "https://drive.google.com/drive/folders/1F-npg_RCP_q4kHyxUSTrH3hSu9m6RSQY?usp=drive_link",
-    "visible": "true"
-  },
-  
-  {
-    "id": "402",
-    "band": "Стекловата", "title": "Новый год",
-    "tags": ["new year"],
-    "genre": "Pop, Dance",
-    "text": "New Year/Стекловата/Стекловата - Новый год.html",
-    "score": "",
-    "playback": "https://drive.google.com/drive/folders/1WGsoxmvZBOxgsyy8wjpM-jxuGCiFrC28?usp=drive_link",
     "visible": "true"
   },
   
