@@ -3847,6 +3847,26 @@
     "visible": "true"
   },
   {
+    "id": "400",
+    "band": "Дилижанс", "title": "Новогодняя",
+    "tags": ["new year"],
+    "genre": "Pop, Dance",
+    "text": "New Year/Дилижанс/Дилижанс - Новогодняя.html",
+    "score": "",
+    "playback": "https://drive.google.com/drive/folders/1_sgeGfiRI-rpxoBwXiJa8XKa3dnF0MHG?usp=drive_link",
+    "visible": "true"
+  },
+  {
+    "id": "401",
+    "band": "Дискотека Авария", "title": "Новогодняя",
+    "tags": ["new year"],
+    "genre": "Pop, Dance",
+    "text": "New Year/Дискотека Авария/Дискотека Авария - Новогодняя.html",
+    "score": "",
+    "playback": "https://drive.google.com/drive/folders/15QMGfvo6vmVxuNskbmpU8McqrpUcJMF3?usp=drive_link",
+    "visible": "true"
+  },
+  {
     "id": "305",
     "band": "Иванушки International", "title": "Где-то",
     "genre": "Pop, Dance",
@@ -4895,27 +4915,6 @@
     "visible": "true"
   },
   
-  
-  {
-    "id": "400",
-    "band": "Дилижанс", "title": "Новогодняя",
-    "tags": ["new year"],
-    "genre": "Pop, Dance",
-    "text": "New Year/Дилижанс/Дилижанс - Новогодняя.html",
-    "score": "",
-    "playback": "https://drive.google.com/drive/folders/1_sgeGfiRI-rpxoBwXiJa8XKa3dnF0MHG?usp=drive_link",
-    "visible": "true"
-  },
-  {
-    "id": "401",
-    "band": "Дискотека Авария", "title": "Новогодняя",
-    "tags": ["new year"],
-    "genre": "Pop, Dance",
-    "text": "New Year/Дискотека Авария/Дискотека Авария - Новогодняя.html",
-    "score": "",
-    "playback": "https://drive.google.com/drive/folders/15QMGfvo6vmVxuNskbmpU8McqrpUcJMF3?usp=drive_link",
-    "visible": "true"
-  },
   {
     "id": "402",
     "band": "Стекловата", "title": "Новый год",
