@@ -2201,6 +2201,15 @@
     "visible": "true"
   },
   {
+    "id": "000",
+    "band": "Корза", "title": "Тело похудело",
+    "genre": "Rock, Punk",
+    "text": "Rock, Punk/Корза/Корза - Тело похудело.html",
+    "score": "",
+    "playback": "",
+    "visible": "true"
+  },
+  {
     "id": "145",
     "band": "Король и Шут", "title": "Валет и дама",
     "genre": "Rock, Punk",
@@ -4505,6 +4514,15 @@
     "text": "Indie/Свидание/Свидание - Случайная любовь.html",
     "score": "https://drive.google.com/file/d/19xMXyvWNyfAqBZkqav4vLxuBKh9g2XTN/view?usp=drive_link",
     "playback": "https://drive.google.com/drive/folders/1N1VJNYpXuyLeQsudDpsh_Z61PwqHnv_W?usp=drive_link",
+    "visible": "true"
+  },
+  {
+    "id": "000",
+    "band": "Сёрега Пират", "title": "Прости я не знаю",
+    "genre": "Indie",
+    "text": "Indie/Сёрега Пират/Сёрега Пират - Прости я не знаю.html",
+    "score": "",
+    "playback": "",
     "visible": "true"
   },
   {
