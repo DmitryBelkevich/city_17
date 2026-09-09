@@ -16,7 +16,7 @@ export default class Song {
     return this.#id;
   }
   
-  set band(band) {console.log("setter");
+  set band(band) {
     this.#band = band;
   }
 
