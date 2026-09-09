@@ -1,4 +1,5 @@
 import SongDao from '../dao/SongDao.js';
+import JsonLoader from '../loaders/JsonLoader.js';
 
 export default class SongService {
   constructor() {
@@ -13,6 +14,9 @@ export default class SongService {
   
   async getById(id) {
     const song = await this.songDao.getById(id);
+    
+    this.loader = new JsonLoader();
+    song.text_content = await this.loader.loadData(song.text);
 
     song.instruments.forEach((instrument, index) => {
       if (instrument.title == "Guitar")
