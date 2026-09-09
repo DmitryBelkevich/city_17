@@ -25,6 +25,7 @@ export default class SongDao {
     song.band = result.band;
     song.title = result.title;
     song.text = result.text;
+    song.text_json = result.text_json;
     song.score = result.score;
     song.playback = result.playback;
     song.voices = result.voices;
