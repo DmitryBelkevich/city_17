@@ -16,8 +16,7 @@ export default class SongService {
   async getById(id) {
     const song = await this.songDao.getById(id);
     
-    const text_content = await this.loader.loadData(song.text);
-    console.log(text_content);
+    song.text_content = await this.loader.loadData(song.text_json);
 
     song.instruments.forEach((instrument, index) => {
       if (instrument.title == "Guitar")
