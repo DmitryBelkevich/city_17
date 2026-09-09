@@ -47,6 +47,9 @@ export default class SongController {
 
   openText = () => {
     console.log("open Text tab");
+
+    this.song.band = "new Band";
+    console.log(this.song);
   }
 
   openScore = () => {
