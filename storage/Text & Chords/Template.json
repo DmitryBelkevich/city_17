@@ -1,3 +1,109 @@
 [
+  {"mark Intro": "Intro"},
   
+  {
+    "part Intro": [
+      {"signature": [{"time": "4/4"}, {"key": "Am"}]},
+      {"chords": ["", "", "", ""]},
+      {"chords": ["", "", "", ""]}
+    ]
+  },
+  
+  {"mark Verse": "Verse 1"},
+  
+  {
+    "part Verse": [
+      {"chords": ["", "", "", ""]},
+      {"text": ""},
+      {"text": ""},
+      {"chords": ["", "", "", ""]},
+      {"text": ""},
+      {"text": ""}
+    ]
+  },
+  
+  {"mark Pre-Chorus": "Pre-Chorus"},
+
+  {
+    "part Pre-Chorus": [
+      {"chords": ["", "", "", ""]},
+      {"text": ""},
+      {"text": ""},
+      {"chords": ["", "", "", ""]},
+      {"text": ""},
+      {"text": ""}
+    ]
+  },
+
+  {"mark Chorus": "Chorus"},
+
+  {
+    "part Chorus": [
+      {"chords": ["", "", "", ""]},
+      {"text": ""},
+      {"text": ""},
+      {"chords": ["", "", "", ""]},
+      {"text": ""},
+      {"text": ""}
+    ]
+  },
+
+  {"mark Post-Chorus": "Post-Chorus"},
+
+  {
+    "part Post-Chorus": [
+      {"chords": ["", "", "", ""]},
+      {"text": ""},
+      {"text": ""},
+      {"chords": ["", "", "", ""]},
+      {"text": ""},
+      {"text": ""}
+    ]
+  },
+
+  {"mark Break": "Break"},
+
+  {
+    "part Break": [
+      {"chords": ["", "", "", ""]},
+      {"chords": ["", "", "", ""]}
+    ]
+  },
+
+  {"mark Solo": "Solo"},
+
+  {
+    "part Solo": [
+      {"chords": ["", "", "", ""]},
+      {"chords": ["", "", "", ""]}
+    ]
+  },
+
+  {"mark Bridge": "Bridge"},
+
+  {
+    "part Bridge": [
+      {"chords": ["", "", "", ""]},
+      {"text": ""},
+      {"text": ""},
+      {"chords": ["", "", "", ""]},
+      {"text": ""},
+      {"text": ""}
+    ]
+  },
+
+  {"mark Outro": "Outro"},
+
+  {
+    "part Outro": [
+      {"chords": ["", "", "", ""]},
+      {"chords": ["", "", "", ""]}
+    ]
+  },
+
+  {
+    "part Outro": [
+      {"chords": ["_"]}
+    ]
+  }
 ]
