@@ -30,7 +30,7 @@ export default class SongController {
     // this.loader = new TextLoader();
     // const text = await this.loader.loadData(this.song.text);
     // this.view.setText(text);
-    console.log(song);
+    console.log(this.song);
 
     // functions
     this.autoscroll = new Autoscroll();
