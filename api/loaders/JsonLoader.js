@@ -4,7 +4,7 @@ export default class JsonLoader {
   }
   
   async loadData(path) {
-    try {console.log(this.storage + path);
+    try {
       // 1. Wait for the server headers and response status
       const response = await fetch(this.storage + path);
       
