@@ -1,1 +1,212 @@
-{}
+[
+  {"mark Intro": "Intro"},
+
+  {
+    "part Intro": [
+      {"signature": [{"time": "4/4"}]},
+      {"chords": ["Gm", "Eb", "Bb", "F"]},
+      {"chords": ["Gm", "Eb", "Bb", "F"]}
+    ]
+  },
+
+  {"mark Break": "Break"},
+
+  {
+    "part Break": [
+      {"chords": ["Gm", "Eb", "Bb", "F"]},
+      {"chords": ["Gm", "Eb", "Bb", "F"]}
+    ]
+  },
+
+  {"mark Verse": "Verse 1"},
+  
+  {
+    "part Verse": [
+      {"chords": ["Gm", "Gm", "Bb", "Dm"]},
+      {"text": "ровный бег моей судьбы"},
+      {"chords": ["Gm", "Gm", "Bb", "Dm"]},
+      {"text": "ночь печаль и плеск души"},
+      {"chords": ["Cm", "Cm", "F", "F"]},
+      {"text": "лунный свет и майский дождь"}
+    ]
+  },
+
+  {
+    "part Verse": [
+      {"chords": ["Gm", "Eb", "Bb", "F"]},
+      {"text": "в небесах"}
+    ]
+  },
+
+  {"mark Solo": "Solo"},
+
+  {
+    "part Solo": [
+      {"chords": ["Gm", "Eb", "F", "Dm"]},
+      {"chords": ["Eb", "Eb", "Csus2", "Cm"]}
+      {"chords": ["Bb", "Bb", "Eb", "Eb"]},
+      {"chords": ["Db", "Db", "Bb", "Ab"]}
+    ]
+  },
+
+  {"mark Verse": "Verse 2"},
+  
+  {
+    "part Verse": [
+      {"chords": ["Gm", "Gm", "Bb", "Dm"]},
+      {"text": "долгий век моей звезды"},
+      {"chords": ["Gm", "Gm", "Bb", "Dm"]},
+      {"text": "сонный блеск земной росы"},
+      {"chords": ["Cm", "Cm", "F", "F"]},
+      {"text": "громкий смех и райский мёд"}
+    ]
+  },
+
+  {
+    "part Verse": [
+      {"chords": ["Gm", "Eb", "F", "Dm"]},
+      {"text": "в небесах"}
+    ]
+  },
+
+  {"mark Chorus": "Chorus"},
+
+  {
+    "part Chorus": [
+      {"chords": ["Gm", "Eb", "Bb", "F"]},
+      {"text": "на заре"},
+      {"chords": ["Gm", "Eb", "Bb", "F"]},
+      {"text": "голоса зовут меня"}
+    ]
+  },
+
+  {
+    "part Chorus": [
+      {"chords": ["Gm", "Eb", "Bb", "F"]},
+      {"text": "на заре"},
+      {"chords": ["Gm", "Eb", "Bb", "F"]},
+      {"text": "голоса зовут меня"}
+    ]
+  },
+
+  {"mark Break": "Break"},
+
+  {
+    "part Break": [
+      {"chords": ["Gm", "Eb", "Bb", "F"]},
+      {"chords": ["Gm", "Eb", "Bb", "F"]}
+    ]
+  },
+
+  {"mark Break": "Break"},
+
+  {
+    "part Break": [
+      {"chords": ["Gm", "Eb", "Bb", "F"]},
+      {"chords": ["Gm", "Eb", "Bb", "F"]}
+    ]
+  },
+
+  {"mark Verse": "Verse 3"},
+  
+  {
+    "part Verse": [
+      {"chords": ["Gm", "Gm", "Bb", "Dm"]},
+      {"text": "Солнца свет и сердца звук"},
+      {"chords": ["Gm", "Gm", "Bb", "Dm"]},
+      {"text": "робкий взгляд и сила рук"},
+      {"chords": ["Cm", "Cm", "F", "F"]},
+      {"text": "звёздный час моей мечты"}
+    ]
+  },
+
+  {
+    "part Verse": [
+      {"chords": ["Gm", "Eb", "Bb", "F"]},
+      {"text": "в небесах"}
+    ]
+  },
+
+  {"mark Chorus": "Chorus"},
+
+  {
+    "part Chorus": [
+      {"chords": ["Gm", "Eb", "Bb", "F"]},
+      {"text": "на заре"},
+      {"chords": ["Gm", "Eb", "Bb", "F"]},
+      {"text": "голоса зовут меня"}
+    ]
+  },
+
+  {
+    "part Chorus": [
+      {"chords": ["Gm", "Eb", "Bb", "F"]},
+      {"text": "на заре"},
+      {"chords": ["Gm", "Eb", "Bb", "F"]},
+      {"text": "голоса зовут меня"}
+    ]
+  },
+
+  {"mark Chorus": "Chorus"},
+
+  {
+    "part Chorus": [
+      {"chords": ["Gm", "Eb", "Bb", "F"]},
+      {"text": "на заре"},
+      {"chords": ["Gm", "Eb", "Bb", "F"]},
+      {"text": "голоса зовут меня"}
+    ]
+  },
+
+  {
+    "part Chorus": [
+      {"chords": ["Gm", "Eb", "Bb", "F"]},
+      {"text": "на заре"},
+      {"chords": ["Gm", "Eb", "Bb", "F"]},
+      {"text": "небеса зовут меня"}
+    ]
+  },
+
+  {"mark Outro": "Outro"},
+
+  {
+    "part Outro": [
+      {"chords": ["Gm", "Eb", "Bb", "F"]},
+      {"text": "на заре"},
+      {"chords": ["Gm", "Eb", "Bb", "F"]},
+      {"text": "у"}
+    ]
+  },
+
+  {
+    "part Outro": [
+      {"chords": ["Gm", "Eb", "Bb", "F"]},
+      {"chords": ["Gm", "Eb", "Bb", "F"]},
+      {"text": "у"}
+    ]
+  },
+
+  {
+    "part Outro": [
+      {"chords": ["Gm", "Eb", "Bb", "F"]},
+      {"chords": ["Gm", "Eb", "Bb", "F"]},
+      {"text": "у"}
+    ]
+  },
+
+  {
+    "part Outro": [
+      {"chords": ["Gm", "Eb", "Bb", "F"]},
+      {"text": ""},
+      {"chords": ["Gm", "Eb", "Bb", "F"]},
+      {"text": "у"}
+    ]
+  },
+
+  {
+    "part Outro": [
+      {"chords": ["Gm", "Eb", "Bb", "F"]},
+      {"chords": ["Gm", "Eb", "Bb", "F"]}
+    ]
+  }
+]
