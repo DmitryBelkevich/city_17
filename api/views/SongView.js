@@ -57,16 +57,16 @@ export default class SongView {
     // Transposer
     this.transposer_e = document.createElement("div");
     this.transposer_e.id = "transposer";
-
-    this.transpose_up = document.createElement("button");
-    this.transpose_up.id = "transpose_up";
-    this.transpose_up.textContent = "UP";
     
     this.transpose_down = document.createElement("button");
     this.transpose_down.id = "transpose_down";
-    this.transpose_down.textContent = "DOWN";
+    this.transpose_down.textContent = "🔽";
 
-    this.transposer_e.append(this.transpose_up, this.transpose_down);
+    this.transpose_up = document.createElement("button");
+    this.transpose_up.id = "transpose_up";
+    this.transpose_up.textContent = "🔼";
+
+    this.transposer_e.append(this.transpose_down, this.transpose_up);
     
     // Auto-scroll
     this.autoscroll_e = document.createElement("button");
