@@ -6,6 +6,7 @@ export default class Transposer {
   }
   
   transposeUp() {
+    // transpose key
     this.#key = "G#m";
 
     // transpose key on display
@@ -26,6 +27,7 @@ export default class Transposer {
   }
 
   transposeDown() {
+    // transpose key
     this.#key = "F#m";
 
     // transpose key on display
