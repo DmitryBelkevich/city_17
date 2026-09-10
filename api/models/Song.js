@@ -5,6 +5,7 @@ export default class Song {
   #text;
   #score;
   #playback;
+  #key;
   #voices = [];
   #instruments = [];
 
@@ -54,6 +55,14 @@ export default class Song {
 
   get playback() {
     return this.#playback;
+  }
+
+  set key(key) {
+    this.#key = key;
+  }
+
+  get key() {
+    return this.#key;
   }
 
   set voices(voices) {
