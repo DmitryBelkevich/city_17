@@ -1,5 +1,9 @@
 export default class Transposer {
-  transpose() {
+  transposeUp() {
+    
+  }
+
+  transposeDown() {
     
   }
 }
