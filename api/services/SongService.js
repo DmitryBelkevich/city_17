@@ -34,11 +34,8 @@ export default class SongService {
       const part = element.value;
       part.filter((obj) => {
         if (obj.class == "chords")
-        console.log(obj.value);
-        // chords.push(...line);
+          chords.push(...obj.value);
       });
-
-      
     });
 
     console.log(chords);
