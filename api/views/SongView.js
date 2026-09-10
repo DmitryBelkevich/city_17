@@ -42,19 +42,39 @@ export default class SongView {
     this.cssLoader.load("../api/views/css/song/display.css");
     this.display = document.createElement("div");
     this.display.id = "display";
-    this.display.textContent = "Key: Am, [Voice 1] [Bass Guitar]";
+
+    this.key_e = document.createElement("div");
+    this.key_e.id = "key";
+    this.key_e.textContent = "Key: ";
+    
+    this.display.append(this.key_e);
     
     // Settings
     this.cssLoader.load("../api/views/css/song/settings.css");
     this.settings = document.createElement("div");
     this.settings.id = "settings";
+
+    // Transposer
+    this.transposer_e = document.createElement("div");
+    this.transposer_e.id = "transposer";
+    
+    this.transpose_down = document.createElement("button");
+    this.transpose_down.id = "transpose_down";
+    this.transpose_down.textContent = "🔽 transpose";
+
+    this.transpose_up = document.createElement("button");
+    this.transpose_up.id = "transpose_up";
+    this.transpose_up.textContent = "🔼 transpose";
+
+    this.transposer_e.append(this.transpose_down, this.transpose_up);
     
     // Auto-scroll
     this.autoscroll_e = document.createElement("button");
     this.autoscroll_e.id = "autoscroll";
     this.autoscroll_e.textContent = "⏬ auto-scroll";
-    
-    this.settings.append(this.autoscroll_e);
+
+    // Settings fill
+    this.settings.append(this.transposer_e, this.autoscroll_e);
     
     // Tuning
     this.cssLoader.load("../api/views/css/song/tuning.css");
@@ -77,7 +97,7 @@ export default class SongView {
     this.body.append(
       this.title,
       this.tabs,
-      // this.display,
+      this.display,
       this.settings,
       this.tuning,
       this.text,
@@ -97,6 +117,12 @@ export default class SongView {
     band_e.textContent = band;
     
     this.title.append(title_e, band_e);
+  }
+
+  setKey(key) {
+    this.key_e.textContent += key;
+    // this.voice_e.textContent += "[Voice 1]";
+    // this.instrument_e.textContent += "[Guitar]";
   }
 
   addTuning(title, tuning, capo) {
@@ -129,7 +155,9 @@ export default class SongView {
     this.text.innerHTML = text;
   }
 
-  // binding view-controller
+  // *** binding view-controller ***
+
+  // tabs
   
   bindTextTab(handler) {
     this.tab_text.addEventListener("click", () => {
@@ -148,6 +176,24 @@ export default class SongView {
       handler();
     });
   }
+
+  // settings
+
+  // transposer
+  
+  bindTransposeDown(handler) {
+    this.transpose_down.addEventListener("click", () => {
+      handler();
+    });
+  }
+  
+  bindTransposeUp(handler) {
+    this.transpose_up.addEventListener("click", () => {
+      handler();
+    });
+  }
+
+  // autoscroll
   
   bindAutoscroll(handler) {
     this.autoscroll_e.addEventListener("click", () => {

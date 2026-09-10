@@ -5,6 +5,7 @@ import SongView from '../views/SongView.js';
 import TextLoader from '../loaders/TextLoader.js';
 
 import Autoscroll from '../helpers/page/AutoScroll.js';
+import Transposer from '../helpers/Transposer.js';
 
 export default class SongController {
   #params;
@@ -22,6 +23,7 @@ export default class SongController {
     
     this.view.setPageTitle(this.song.band, this.song.title);
     this.view.setTitle(this.song.band, this.song.title);
+    this.view.setKey(this.song.key);
     this.song.instruments.forEach((instrument, index) => {
       this.view.addTuning(instrument.title, instrument.tuning, instrument.capo);
     });
@@ -34,15 +36,26 @@ export default class SongController {
     // functions
     this.autoscroll = new Autoscroll();
 
-    // binding controller-view:
+    // *** binding controller-view ***
 
     // tabs
     this.view.bindTextTab(this.openText);
     this.view.bindScoreTab(this.openScore);
     this.view.bindPlaybackTab(this.openPlayback);
+
+    // settings
+
+    // transposer
+    this.view.bindTransposeDown(this.transpose_down);
+    this.view.bindTransposeUp(this.transpose_up);
+    
     // autoscroll
     this.view.bindAutoscroll(this.auto_scroll);
   }
+
+  // *** logic ***
+
+  // tabs
 
   openText = () => {
     console.log("open Text tab");
@@ -58,6 +71,20 @@ export default class SongController {
       window.open(this.song.playback, "_blank");
   }
 
+  // settings
+
+  // transposer
+
+  transpose_down = () => {
+    console.log("Transpose down");
+  }
+
+  transpose_up = () => {
+    console.log("Transpose up");
+  }
+
+  // autoscroll
+  
   auto_scroll = () => {
     this.autoscroll.run();
   }

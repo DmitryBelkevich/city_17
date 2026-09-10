@@ -23,3 +23,23 @@
     padding: 10px;
   }
 }
+
+#settings {
+  #transposer {
+    margin: 0px 10px;
+  }
+}
+
+#settings {
+  #transposer {
+    #transpose_up {
+      margin: 0px;
+      padding: 20px 10px;
+    }
+
+    #transpose_down {
+      margin: 0px;
+      padding: 20px 10px;
+    }
+  }
+}
