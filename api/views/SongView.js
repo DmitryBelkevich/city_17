@@ -155,7 +155,9 @@ export default class SongView {
     this.text.innerHTML = text;
   }
 
-  // binding view-controller
+  // *** binding view-controller ***
+
+  // tabs
   
   bindTextTab(handler) {
     this.tab_text.addEventListener("click", () => {
@@ -174,6 +176,24 @@ export default class SongView {
       handler();
     });
   }
+
+  // settings
+
+  // transposer
+  
+  bindTransposeDown(handler) {
+    this.transpose_down.addEventListener("click", () => {
+      handler();
+    });
+  }
+  
+  bindTransposeUp(handler) {
+    this.transpose_up.addEventListener("click", () => {
+      handler();
+    });
+  }
+
+  // autoscroll
   
   bindAutoscroll(handler) {
     this.autoscroll_e.addEventListener("click", () => {
