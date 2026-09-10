@@ -33,7 +33,8 @@ export default class SongService {
     parts.forEach((element) => {
       const part = element.value;
       const line = part.filter((obj) => {
-        return obj.class == "chords";
+        if (obj.class == "chords")
+        return obj.value;
       });
 
       chords.push(...line);
