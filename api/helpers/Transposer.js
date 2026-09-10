@@ -10,7 +10,7 @@ export default class Transposer {
 
     // transpose key on display
     const key_e = document.getElementById("key");
-    key_e.textContent = "new Key";
+    key_e.textContent = this.#key;
 
     // transpose all chords
     const chords_lines = document.querySelectorAll('div.chords');
@@ -30,7 +30,7 @@ export default class Transposer {
 
     // transpose key on display
     const key_e = document.getElementById("key");
-    key_e.textContent = "new Key";
+    key_e.textContent = this.#key;
 
     // transpose all chords
     const chords_lines = document.querySelectorAll('div.chords');
