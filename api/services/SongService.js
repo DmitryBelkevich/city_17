@@ -29,10 +29,15 @@ export default class SongService {
     // console.log(marks);
     // console.log(parts);
 
+    var chords;
     parts.forEach((element) => {
-      const obj = element.value;
-      console.log(obj);
+      const part = element.value;
+      chords = part.filter((obj) => {
+        return obj.class == "chords";
+      });
     });
+
+    console.log(chords);
 
     song.instruments.forEach((instrument, index) => {
       if (instrument.title == "Guitar")
