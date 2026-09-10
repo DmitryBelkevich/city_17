@@ -9,8 +9,6 @@ export default class Transposer {
     const line_arr = line.querySelectorAll('div');
       this.#chords.push(...line_arr);
     });
-
-    console.log(this.#chords);
   }
   
   set key(key) {
@@ -19,43 +17,37 @@ export default class Transposer {
   
   transposeUp() {
     // transpose key
-    this.#key = "G#m";
+    this.#key = upChord("Gm");
 
     // transpose key on display
     const key_e = document.getElementById("key");
     key_e.textContent = this.#key;
 
     // transpose all chords
-    const chords_lines = document.querySelectorAll('div.chords');
-    
-    chords_lines.forEach(chords_line => {
-      const chords_line_arr = chords_line.querySelectorAll('div');
-      chords_line_arr.forEach((chord_div) => {
-        const chord_old = chord_div.innerHTML;
-        const chord_new = "G#m";
-        chord_div.innerHTML = chord_new;
-      });
+    this.#chords.forEach(() => {
+      
     });
   }
 
   transposeDown() {
     // transpose key
-    this.#key = "F#m";
+    this.#key = upChord("Gm");
 
     // transpose key on display
     const key_e = document.getElementById("key");
     key_e.textContent = this.#key;
 
     // transpose all chords
-    const chords_lines = document.querySelectorAll('div.chords');
-    
-    chords_lines.forEach(chords_line => {
-      const chords_line_arr = chords_line.querySelectorAll('div');
-      chords_line_arr.forEach((chord_div) => {
-        const chord_old = chord_div.innerHTML;
-        const chord_new = "F#m";
-        chord_div.innerHTML = chord_new;
-      });
+    this.#chords.forEach(() => {
+      
     });
+  }
+
+  upChord(chord) {
+    return "G#m";
+  }
+
+  downChord(chord) {
+    return "F#m";
   }
 }
