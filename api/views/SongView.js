@@ -42,7 +42,12 @@ export default class SongView {
     this.cssLoader.load("../api/views/css/song/display.css");
     this.display = document.createElement("div");
     this.display.id = "display";
-    this.display.textContent = "Key: Am, [Voice 1] [Bass Guitar]";
+    // this.display.textContent = "Key: Am, [Voice 1] [Bass Guitar]";
+
+    this.key_e = document.createElement("div");
+    this.key_e.id = "key";
+    
+    this.display.append(this.key_e.id);
     
     // Settings
     this.cssLoader.load("../api/views/css/song/settings.css");
