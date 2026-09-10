@@ -45,7 +45,7 @@ export default class SongView {
 
     this.key_e = document.createElement("div");
     this.key_e.id = "key";
-    this.key.textContent = "Key: ";
+    this.key_e.textContent = "Key: ";
     
     this.display.append(this.key_e);
     
@@ -105,9 +105,9 @@ export default class SongView {
   }
 
   setKey(key) {
-    this.key.textContent += key;
-    // this.voice.textContent += "[Voice 1]";
-    // this.instrument.textContent += "[Guitar]";
+    this.key_e.textContent += key;
+    // this.voice_e.textContent += "[Voice 1]";
+    // this.instrument_e.textContent += "[Guitar]";
   }
 
   addTuning(title, tuning, capo) {
