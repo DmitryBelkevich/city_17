@@ -42,10 +42,10 @@ export default class SongView {
     this.cssLoader.load("../api/views/css/song/display.css");
     this.display = document.createElement("div");
     this.display.id = "display";
-    // this.display.textContent = "Key: Am, [Voice 1] [Bass Guitar]";
 
     this.key_e = document.createElement("div");
     this.key_e.id = "key";
+    this.key.textContent = "Key: ";
     
     this.display.append(this.key_e);
     
@@ -104,8 +104,10 @@ export default class SongView {
     this.title.append(title_e, band_e);
   }
 
-  setKey() {
-    
+  setKey(key) {
+    this.key.textContent += key;
+    // this.voice.textContent += "[Voice 1]";
+    // this.instrument.textContent += "[Guitar]";
   }
 
   addTuning(title, tuning, capo) {
