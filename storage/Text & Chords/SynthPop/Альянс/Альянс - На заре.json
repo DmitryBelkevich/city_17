@@ -218,7 +218,6 @@
     "class": "part Outro",
     "value": [
       {"class": "chords", "value": ["Gm", "Eb", "Bb", "F"]},
-      {"class": "text", "value": ""},
       {"class": "chords", "value": ["Gm", "Eb", "Bb", "F"]},
       {"class": "text", "value": "у"}
     ]
