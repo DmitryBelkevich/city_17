@@ -60,9 +60,11 @@ export default class SongView {
 
     this.transpose_up = document.createElement("button");
     this.transpose_up.id = "transpose_up";
+    this.transpose_up.textContent = "UP";
     
     this.transpose_down = document.createElement("button");
     this.transpose_down.id = "transpose_down";
+    this.transpose_down.textContent = "DOWN";
 
     this.transposer_e.append(this.transpose_up, this.transpose_down);
     
