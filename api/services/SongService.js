@@ -29,14 +29,14 @@ export default class SongService {
     // console.log(marks);
     // console.log(parts);
 
-    var chords = [];
+    const chords = [];
     parts.forEach((element) => {
       const part = element.value;
       const line = chords = part.filter((obj) => {
         return obj.class == "chords";
       });
 
-      chords = [...line];
+      chords.push(line);
     });
 
     console.log(chords);
