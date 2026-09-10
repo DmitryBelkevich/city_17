@@ -22,7 +22,12 @@ export default class SongService {
       return element.class.startsWith("mark");
     });
 
+    const parts = song.text_content.filter((element) => {
+      return element.class.startsWith("part");
+    });
+
     console.log(marks);
+    console.log(parts);
 
     song.instruments.forEach((instrument, index) => {
       if (instrument.title == "Guitar")
