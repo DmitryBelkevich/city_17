@@ -34,6 +34,7 @@ export default class SongController {
     this.view.setText(text);
 
     // functions
+    this.transposer = new Transposer();
     this.autoscroll = new Autoscroll();
 
     // *** binding controller-view ***
@@ -76,11 +77,11 @@ export default class SongController {
   // transposer
 
   transpose_down = () => {
-    console.log("Transpose down");
+    this.transposer.transposeDown();
   }
 
   transpose_up = () => {
-    console.log("Transpose up");
+    this.transposer.transposeUp();
   }
 
   // autoscroll
