@@ -45,7 +45,7 @@ export default class SongService {
       bars[i++] = element;
     });
 
-    console.log(bars);
+    song.bars = bars;
 
     song.instruments.forEach((instrument, index) => {
       if (instrument.title == "Guitar")
