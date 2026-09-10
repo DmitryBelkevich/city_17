@@ -53,13 +53,26 @@ export default class SongView {
     this.cssLoader.load("../api/views/css/song/settings.css");
     this.settings = document.createElement("div");
     this.settings.id = "settings";
+
+    // Transposer
+    this.transposer_e = document.createElement("div");
+    this.transposer_e.id = "transposer";
+
+    this.transpose_up = document.createElement("button");
+    this.transpose_up.id = "transpose_up";
+    
+    this.transpose_down = document.createElement("button");
+    this.transpose_down.id = "transpose_down";
+
+    this.transposer_e.append(this.transpose_up, this.transpose_down);
     
     // Auto-scroll
     this.autoscroll_e = document.createElement("button");
     this.autoscroll_e.id = "autoscroll";
     this.autoscroll_e.textContent = "⏬ auto-scroll";
-    
-    this.settings.append(this.autoscroll_e);
+
+    // Settings fill
+    this.settings.append(this.transposer_e, this.autoscroll_e);
     
     // Tuning
     this.cssLoader.load("../api/views/css/song/tuning.css");
