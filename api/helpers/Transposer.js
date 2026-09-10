@@ -6,8 +6,13 @@ export default class Transposer {
   }
   
   transposeUp() {
-    console.log("transpose UP from " + this.#key + " to " + " new key");
-    
+    this.#key = "G#m";
+
+    // transpose key on display
+    const key_e = document.getElementById("key");
+    key_e.textContent = "new Key";
+
+    // transpose all chords
     const chords_lines = document.querySelectorAll('div.chords');
     
     chords_lines.forEach(chords_line => {
@@ -21,8 +26,13 @@ export default class Transposer {
   }
 
   transposeDown() {
-    console.log("transpose Down from " + this.#key + " to " + " new key");
-    
+    this.#key = "F#m";
+
+    // transpose key on display
+    const key_e = document.getElementById("key");
+    key_e.textContent = "new Key";
+
+    // transpose all chords
     const chords_lines = document.querySelectorAll('div.chords');
     
     chords_lines.forEach(chords_line => {
