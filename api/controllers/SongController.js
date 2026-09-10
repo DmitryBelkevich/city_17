@@ -36,7 +36,7 @@ export default class SongController {
     // functions
     this.autoscroll = new Autoscroll();
 
-    // binding controller-view:
+    // *** binding controller-view ***
 
     // tabs
     this.view.bindTextTab(this.openText);
@@ -46,12 +46,16 @@ export default class SongController {
     // settings
 
     // transposer
+    this.view.bindTransposeDown(this.transpose_down);
+    this.view.bindTransposeUp(this.transpose_up);
     
     // autoscroll
     this.view.bindAutoscroll(this.auto_scroll);
   }
 
-  // buttons logic
+  // *** logic ***
+
+  // tabs
 
   openText = () => {
     console.log("open Text tab");
@@ -67,6 +71,20 @@ export default class SongController {
       window.open(this.song.playback, "_blank");
   }
 
+  // settings
+
+  // transposer
+
+  transpose_down = () {
+    console.log("Transpose down");
+  }
+
+  transpose_up = () {
+    console.log("Transpose up");
+  }
+
+  // autoscroll
+  
   auto_scroll = () => {
     this.autoscroll.run();
   }
