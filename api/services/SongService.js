@@ -36,7 +36,7 @@ export default class SongService {
         return obj.class == "chords";
       });
 
-      chords[...line];
+      chords = [...line];
     });
 
     console.log(chords);
