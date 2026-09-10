@@ -29,7 +29,7 @@ export default class SongService {
     // console.log(marks);
     // console.log(parts);
 
-    const chords = [];
+    var chords = [];
     parts.forEach((element) => {
       const part = element.value;
       const line = chords = part.filter((obj) => {
