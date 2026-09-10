@@ -17,7 +17,7 @@ export default class Transposer {
   
   transposeUp() {
     // transpose key
-    this.#key = upChord("Gm");
+    this.#key = this.upChord(this.#key);
 
     // transpose key on display
     const key_e = document.getElementById("key");
@@ -31,7 +31,7 @@ export default class Transposer {
 
   transposeDown() {
     // transpose key
-    this.#key = upChord("Gm");
+    this.#key = this.downChord(this.#key);
 
     // transpose key on display
     const key_e = document.getElementById("key");
