@@ -1,5 +1,5 @@
 [
-  {"mark Intro": "Intro"},
+  {"class": "mark Intro", "value": "Intro"},
   
   {
     "part Intro": [
@@ -9,7 +9,7 @@
     ]
   },
   
-  {"mark Verse": "Verse 1"},
+  {"class": "mark Verse", "value": "Verse 1"},
   
   {
     "part Verse": [
@@ -22,7 +22,7 @@
     ]
   },
   
-  {"mark Pre-Chorus": "Pre-Chorus"},
+  {"class": "mark Pre-Chorus", "value": "Pre-Chorus"},
 
   {
     "part Pre-Chorus": [
@@ -35,7 +35,7 @@
     ]
   },
 
-  {"mark Chorus": "Chorus"},
+  {"class": "mark Chorus", "value": "Chorus"},
 
   {
     "part Chorus": [
@@ -48,7 +48,7 @@
     ]
   },
 
-  {"mark Post-Chorus": "Post-Chorus"},
+  {"class": "mark Post-Chorus", "value": "Post-Chorus"},
 
   {
     "part Post-Chorus": [
@@ -61,7 +61,7 @@
     ]
   },
 
-  {"mark Break": "Break"},
+  {"class": "mark Break", "value": "Break"},
 
   {
     "part Break": [
@@ -70,7 +70,7 @@
     ]
   },
 
-  {"mark Solo": "Solo"},
+  {"class": "mark Solo", "value": "Solo"},
 
   {
     "part Solo": [
@@ -79,7 +79,7 @@
     ]
   },
 
-  {"mark Bridge": "Bridge"},
+  {"class": "mark Bridge", "value": "Bridge"},
 
   {
     "part Bridge": [
@@ -92,7 +92,7 @@
     ]
   },
 
-  {"mark Outro": "Outro"},
+  {"class": "mark Outro", "value": "Outro"},
 
   {
     "part Outro": [
