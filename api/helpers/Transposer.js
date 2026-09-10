@@ -3,11 +3,11 @@ export default class Transposer {
   #chords = [];
 
   constructor() {
-    const chords_lines = document.querySelectorAll('div.chords');
+    const lines = document.querySelectorAll('div.chords');
     
-    chords_lines.forEach(chords_line => {
-    const chords_line_arr = chords_line.querySelectorAll('div');
-      this.#chords.push(...chords_line_arr);
+    lines.forEach(line => {
+    const line_arr = line.querySelectorAll('div');
+      this.#chords.push(...line_arr);
     });
 
     console.log(this.#chords);
