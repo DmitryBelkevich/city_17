@@ -13,7 +13,9 @@ export default class Transposer {
     chords_lines.forEach(chords_line => {
       const chords_line_arr = chords_line.querySelectorAll('div');
       chords_line_arr.forEach((chord_div) => {
-        chord_div.innerHTML += "+";
+        const chord_old = chord_div.innerHTML;
+        const chord_new = "G#m";
+        chord_div.innerHTML = chord_new;
       });
     });
   }
@@ -26,7 +28,9 @@ export default class Transposer {
     chords_lines.forEach(chords_line => {
       const chords_line_arr = chords_line.querySelectorAll('div');
       chords_line_arr.forEach((chord_div) => {
-        chord_div.innerHTML -= "-";
+        const chord_old = chord_div.innerHTML;
+        const chord_new = "F#m";
+        chord_div.innerHTML = chord_new;
       });
     });
   }
