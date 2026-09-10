@@ -75,11 +75,11 @@ export default class SongController {
 
   // transposer
 
-  transpose_down = () {
+  transpose_down = () => {
     console.log("Transpose down");
   }
 
-  transpose_up = () {
+  transpose_up = () => {
     console.log("Transpose up");
   }
 
