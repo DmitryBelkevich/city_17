@@ -45,7 +45,6 @@ export default class SongView {
 
     this.key_e = document.createElement("div");
     this.key_e.id = "key";
-    this.display.textContent = "Key: ";// ------------------------------
     
     this.display.append(this.key_e);
     
