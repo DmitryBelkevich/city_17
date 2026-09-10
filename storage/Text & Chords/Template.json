@@ -4,9 +4,9 @@
   {
     "class": "part Intro",
     "value": [
-      {"signature": [{"time": "4/4"}, {"key": "Am"}]},
-      {"chords": ["", "", "", ""]},
-      {"chords": ["", "", "", ""]}
+      {"class": "signature", "value": [{"time": "4/4"}, {"key": "Am"}]},
+      {"class": "chords", "value": ["", "", "", ""]},
+      {"class": "chords", "value": ["", "", "", ""]}
     ]
   },
   
@@ -15,12 +15,12 @@
   {
     "class": "part Verse",
     "value": [
-      {"chords": ["", "", "", ""]},
-      {"text": ""},
-      {"text": ""},
-      {"chords": ["", "", "", ""]},
-      {"text": ""},
-      {"text": ""}
+      {"class": "chords", "value": ["", "", "", ""]},
+      {"class": "text", "value": ""},
+      {"class": "text", "value": ""},
+      {"class": "chords", "value": ["", "", "", ""]},
+      {"class": "text", "value": ""},
+      {"class": "text", "value": ""}
     ]
   },
   
@@ -29,12 +29,12 @@
   {
     "class": "part Pre-Chorus",
     "value": [
-      {"chords": ["", "", "", ""]},
-      {"text": ""},
-      {"text": ""},
-      {"chords": ["", "", "", ""]},
-      {"text": ""},
-      {"text": ""}
+      {"class": "chords", "value": ["", "", "", ""]},
+      {"class": "text", "value": ""},
+      {"class": "text", "value": ""},
+      {"class": "chords", "value": ["", "", "", ""]},
+      {"class": "text", "value": ""},
+      {"class": "text", "value": ""}
     ]
   },
 
@@ -43,12 +43,12 @@
   {
     "class": "part Chorus",
     "value": [
-      {"chords": ["", "", "", ""]},
-      {"text": ""},
-      {"text": ""},
-      {"chords": ["", "", "", ""]},
-      {"text": ""},
-      {"text": ""}
+      {"class": "chords", "value": ["", "", "", ""]},
+      {"class": "text", "value": ""},
+      {"class": "text", "value": ""},
+      {"class": "chords", "value": ["", "", "", ""]},
+      {"class": "text", "value": ""},
+      {"class": "text", "value": ""}
     ]
   },
 
@@ -57,12 +57,12 @@
   {
     "class": "part Post-Chorus",
     "value": [
-      {"chords": ["", "", "", ""]},
-      {"text": ""},
-      {"text": ""},
-      {"chords": ["", "", "", ""]},
-      {"text": ""},
-      {"text": ""}
+      {"class": "chords", "value": ["", "", "", ""]},
+      {"class": "text", "value": ""},
+      {"class": "text", "value": ""},
+      {"class": "chords", "value": ["", "", "", ""]},
+      {"class": "text", "value": ""},
+      {"class": "text", "value": ""}
     ]
   },
 
@@ -71,8 +71,8 @@
   {
     "class": "part Break",
     "value": [
-      {"chords": ["", "", "", ""]},
-      {"chords": ["", "", "", ""]}
+      {"class": "chords", "value": ["", "", "", ""]},
+      {"class": "chords", "value": ["", "", "", ""]}
     ]
   },
 
@@ -81,8 +81,8 @@
   {
     "class": "part Solo",
     "value": [
-      {"chords": ["", "", "", ""]},
-      {"chords": ["", "", "", ""]}
+      {"class": "chords", "value": ["", "", "", ""]},
+      {"class": "chords", "value": ["", "", "", ""]}
     ]
   },
 
@@ -91,12 +91,12 @@
   {
     "class": "part Bridge",
     "value": [
-      {"chords": ["", "", "", ""]},
-      {"text": ""},
-      {"text": ""},
-      {"chords": ["", "", "", ""]},
-      {"text": ""},
-      {"text": ""}
+      {"class": "chords", "value": ["", "", "", ""]},
+      {"class": "text", "value": ""},
+      {"class": "text", "value": ""},
+      {"class": "chords", "value": ["", "", "", ""]},
+      {"class": "text", "value": ""},
+      {"class": "text", "value": ""}
     ]
   },
 
@@ -105,15 +105,15 @@
   {
     "class": "part Outro",
     "value": [
-      {"chords": ["", "", "", ""]},
-      {"chords": ["", "", "", ""]}
+      {"class": "chords", "value": ["", "", "", ""]},
+      {"class": "chords", "value": ["", "", "", ""]}
     ]
   },
 
   {
     "class": "part Outro",
     "value": [
-      {"chords": ["_"]}
+      {"class": "chords", "value": ["_"]}
     ]
   }
 ]
