@@ -32,7 +32,7 @@ export default class SongService {
     var chords = [];
     parts.forEach((element) => {
       const part = element.value;
-      const line = chords = part.filter((obj) => {
+      const line = part.filter((obj) => {
         return obj.class == "chords";
       });
 
