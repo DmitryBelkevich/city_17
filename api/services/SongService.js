@@ -26,8 +26,15 @@ export default class SongService {
       return element.class.startsWith("part");
     });
 
-    console.log(marks);
-    console.log(parts);
+    // console.log(marks);
+    // console.log(parts);
+
+    const objs = parts.forEach((element) => {
+      const obj = element.value;
+      return obj;
+    });
+
+    console.log(objs);
 
     song.instruments.forEach((instrument, index) => {
       if (instrument.title == "Guitar")
