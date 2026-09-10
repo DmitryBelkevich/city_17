@@ -1,6 +1,13 @@
 export default class Transposer {
   transposeUp() {
-    console.log("Transpose up");
+    const chords_lines = document.querySelectorAll('div.chords');
+    
+    chords_lines.forEach(chords_line => {
+      const chords_line_arr = chords_line.querySelectorAll('div');
+      chords_line_arr.forEach((chord_div) => {
+        chord_div.innerHTML += "+";
+      });
+    });
   }
 
   transposeDown() {
