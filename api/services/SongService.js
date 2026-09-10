@@ -19,10 +19,11 @@ export default class SongService {
     song.text_content = await this.loader.loadData(song.text_json);
 
     const marks = song.text_content.filter((element) => {
-      element.class.startWith("mark");
+      // element.class.startWith("mark");
+      console.log(element.class);
     });
 
-    console.log(marks);
+    // console.log(marks);
 
     song.instruments.forEach((instrument, index) => {
       if (instrument.title == "Guitar")
