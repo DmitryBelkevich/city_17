@@ -6,6 +6,8 @@ export default class Transposer {
   }
   
   transposeUp() {
+    console.log("transpose UP from " + this.#key + " to " + " new key");
+    
     const chords_lines = document.querySelectorAll('div.chords');
     
     chords_lines.forEach(chords_line => {
@@ -17,6 +19,8 @@ export default class Transposer {
   }
 
   transposeDown() {
+    console.log("transpose Down from " + this.#key + " to " + " new key");
+    
     const chords_lines = document.querySelectorAll('div.chords');
     
     chords_lines.forEach(chords_line => {
