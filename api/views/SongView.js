@@ -47,7 +47,7 @@ export default class SongView {
     this.key_e = document.createElement("div");
     this.key_e.id = "key";
     
-    this.display.append(this.key_e.id);
+    this.display.append(this.key_e);
     
     // Settings
     this.cssLoader.load("../api/views/css/song/settings.css");
@@ -102,6 +102,10 @@ export default class SongView {
     band_e.textContent = band;
     
     this.title.append(title_e, band_e);
+  }
+
+  setKey() {
+    
   }
 
   addTuning(title, tuning, capo) {
