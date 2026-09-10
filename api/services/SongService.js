@@ -22,7 +22,7 @@ export default class SongService {
       return element.class.startsWith("mark");
     });
 
-    // console.log(marks);
+    console.log(marks);
 
     song.instruments.forEach((instrument, index) => {
       if (instrument.title == "Guitar")
