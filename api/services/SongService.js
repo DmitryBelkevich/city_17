@@ -38,7 +38,14 @@ export default class SongService {
       });
     });
 
-    console.log(chords);
+    const bars = {};
+
+    var i = 1;
+    chords.forEach((element) => {
+      bars[i++] = element;
+    });
+
+    console.log(bars);
 
     song.instruments.forEach((instrument, index) => {
       if (instrument.title == "Guitar")
