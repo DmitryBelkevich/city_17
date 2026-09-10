@@ -18,6 +18,10 @@ export default class SongService {
     
     song.text_content = await this.loader.loadData(song.text_json);
 
+    song.text_content.filter((element, index) => {
+      console.log(index);
+    });
+
     song.instruments.forEach((instrument, index) => {
       if (instrument.title == "Guitar")
         if (!instrument.tuning)
