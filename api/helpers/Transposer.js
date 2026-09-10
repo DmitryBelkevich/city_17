@@ -6,10 +6,8 @@ export default class Transposer {
     const chords_lines = document.querySelectorAll('div.chords');
     
     chords_lines.forEach(chords_line => {
-      const chords_line_arr = chords_line.querySelectorAll('div');
-        chords_line_arr.forEach((chord_div) => {
-        this.#chords.push(chord_div);
-      });
+    const chords_line_arr = chords_line.querySelectorAll('div');
+      chords.push(...chords_line_arr);
     });
 
     console.log(this.#chords);
