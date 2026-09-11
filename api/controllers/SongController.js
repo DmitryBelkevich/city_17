@@ -35,7 +35,11 @@ export default class SongController {
 
     // functions
     this.transposer = new Transposer();
-    this.transposer.key = this.song.key;
+    if (this.song.key != undefined)
+      this.transposer.key = this.song.key;
+    else
+      this.transposer.key = "";
+    
     this.autoscroll = new Autoscroll();
 
     // *** binding controller-view ***
