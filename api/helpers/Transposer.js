@@ -49,12 +49,12 @@ export default class Transposer {
     var note;
     var post;
     
-    if (chord[1] == "#" || chord[1] == "b") {
-      note = chord.slice(0, 2);
-      post = chord.slice(2);
-    } else {
-      note = chord.slice(0, 1);
-      post = chord.slice(1);
+    if (chord[1] == "#" || chord[1] == "b") {//A#m -> A# m
+      note = chord.slice(0, 2);//A#
+      post = chord.slice(2);   // m
+    } else if (chord[1] != "#" || chord[1] != "b") {//Am
+      note = chord.slice(0, 1);//A
+      post = chord.slice(1);   //m
     }
     
     if (note == "G")
