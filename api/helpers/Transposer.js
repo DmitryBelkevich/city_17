@@ -46,7 +46,43 @@ export default class Transposer {
   }
 
   upChord(chord) {
-    return "";
+    if (chord == "Gm")
+      chord = "G#m";
+
+    if (chord == "G#m")
+      chord = "Am";
+
+    if (chord == "Am")
+      chord = "A#m";
+
+    if (chord == "A#m")
+      chord = "Bm";
+
+    if (chord == "Bm")
+      chord = "Cm";
+
+    if (chord == "Cm")
+      chord = "C#m";
+
+    if (chord == "C#m")
+      chord = "Dm";
+
+    if (chord == "Dm")
+      chord = "D#m";
+
+    if (chord == "D#m")
+      chord = "Em";
+
+    if (chord == "Em")
+      chord = "Fm";
+
+    if (chord == "Fm")
+      chord = "F#m";
+
+    if (chord == "F#m")
+      chord = "Gm";
+    
+    return chord;
   }
 
   downChord(chord) {
