@@ -24,8 +24,8 @@ export default class Transposer {
     key_e.textContent = this.#key;
 
     // transpose all chords
-    this.#chords.forEach(() => {
-      
+    this.#chords.forEach((element) => {
+      console.log(element);
     });
   }
 
@@ -38,8 +38,8 @@ export default class Transposer {
     key_e.textContent = this.#key;
 
     // transpose all chords
-    this.#chords.forEach(() => {
-      
+    this.#chords.forEach((element) => {
+      console.log(element);
     });
   }
 
