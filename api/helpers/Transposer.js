@@ -46,10 +46,10 @@ export default class Transposer {
   }
 
   upChord(chord) {
-    return "G#m";
+    return "";
   }
 
   downChord(chord) {
-    return "F#m";
+    return "";
   }
 }
