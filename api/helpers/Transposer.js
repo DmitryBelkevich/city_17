@@ -46,41 +46,54 @@ export default class Transposer {
   }
 
   upChord(chord) {
-    if (chord == "Gm")
-      chord = "G#m";
+    var note;
+    var post;
+    
+    if (chord[1] == "#" || chord[1] == "b") {
+      note = chord.slice(0, 2);
+      post = chord.slice(2);
+    } else {
+      note = chord.slice(0, 1);
+      post = chord.slice(1);
+    }
+    
+    if (note == "G")
+      note = "G#";
 
-    if (chord == "G#m")
-      chord = "Am";
+    if (note == "G#")
+      return "A";
 
-    if (chord == "Am")
-      chord = "A#m";
+    if (note == "A")
+      return "A#";
 
-    if (chord == "A#m")
-      chord = "Bm";
+    if (note == "A#")
+      chord = "B";
 
-    if (chord == "Bm")
-      chord = "Cm";
+    if (note == "B")
+      chord = "C";
 
-    if (chord == "Cm")
-      chord = "C#m";
+    if (note == "C")
+      chord = "C#";
 
-    if (chord == "C#m")
-      chord = "Dm";
+    if (note == "C#")
+      chord = "D";
 
-    if (chord == "Dm")
-      chord = "D#m";
+    if (note == "D")
+      chord = "D#";
 
-    if (chord == "D#m")
-      chord = "Em";
+    if (note == "D#")
+      chord = "E";
 
-    if (chord == "Em")
-      chord = "Fm";
+    if (note == "E")
+      chord = "F";
 
-    if (chord == "Fm")
-      chord = "F#m";
+    if (note == "F")
+      chord = "F#";
 
-    if (chord == "F#m")
-      chord = "Gm";
+    if (note == "F#")
+      chord = "G";
+
+    chord = note + post;
     
     return chord;
   }
