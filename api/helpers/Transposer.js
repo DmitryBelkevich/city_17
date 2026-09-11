@@ -118,7 +118,7 @@ export default class Transposer {
     else if (note == "C")
       note = "B";
     else if (note == "D")
-      note = "DB";
+      note = "Db";
     else if (note == "E")
       note = "Eb";
     else if (note == "F")
