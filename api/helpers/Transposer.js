@@ -100,6 +100,56 @@ export default class Transposer {
   }
 
   downChord(chord) {
-    return "";
+    var note;
+    var post;
+    
+    if (chord[1] == "#" || chord[1] == "b") {//A#m -> A# m
+      note = chord.slice(0, 2);//A#
+      post = chord.slice(2);   // m
+    } else if (chord[1] != "#" && chord[1] != "b") {//Am
+      note = chord.slice(0, 1);//A
+      post = chord.slice(1);   //m
+    }
+    
+    if (note == "A")
+      note = "Ab";
+    else if (note == "B")
+      note = "Bb";
+    else if (note == "C")
+      note = "B";
+    else if (note == "D")
+      note = "DB";
+    else if (note == "E")
+      note = "Eb";
+    else if (note == "F")
+      note = "E";
+    else if (note == "G")
+      note = "Gb";
+      
+    else if (note == "A#")
+      note = "A";
+    else if (note == "C#")
+      note = "C";
+    else if (note == "D#")
+      note = "D";
+    else if (note == "F#")
+      note = "F";
+    else if (note == "G#")
+      note = "G";
+
+    else if (note == "Bb")
+      note = "A";
+    else if (note == "Db")
+      note = "C";
+    else if (note == "Eb")
+      note = "D";
+    else if (note == "Gb")
+      note = "F";
+    else if (note == "Ab")
+      note = "G";
+
+    chord = note + post;
+    
+    return chord;
   }
 }
