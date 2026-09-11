@@ -47,7 +47,7 @@ export default class Transposer {
 
   upChord(chord) {
     if (chord == "Gm")
-      chord = "000";
+      chord = "G#m";
 
     if (chord == "G#m")
       chord = "Am";
