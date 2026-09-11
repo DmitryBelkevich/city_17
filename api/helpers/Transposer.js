@@ -49,7 +49,7 @@ export default class Transposer {
     console.log(chord == "Gm");
     
     if (chord == "Gm")
-      chord = "000";
+      chord = "G#m";
 
     if (chord == "G#m")
       chord = "Am";
