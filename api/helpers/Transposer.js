@@ -57,30 +57,42 @@ export default class Transposer {
       post = chord.slice(1);   //m
     }
     
-    if (note == "G")
-      note = "G#";
-    else if (note == "G#")
-      note = "A";
-    else if (note == "A")
+    if (note == "A")
       note = "A#";
-    else if (note == "A#")
-      note = "B";
     else if (note == "B")
       note = "C";
     else if (note == "C")
       note = "C#";
-    else if (note == "C#")
-      note = "D";
     else if (note == "D")
       note = "D#";
-    else if (note == "D#")
-      note = "E";
     else if (note == "E")
       note = "F";
     else if (note == "F")
       note = "F#";
+    else if (note == "G")
+      note = "G#";
+      
+    else if (note == "A#")
+      note = "B";
+    else if (note == "C#")
+      note = "D";
+    else if (note == "D#")
+      note = "E";
     else if (note == "F#")
       note = "G";
+    else if (note == "G#")
+      note = "A";
+
+    else if (note == "Bb")
+      note = "B";
+    else if (note == "Db")
+      note = "D";
+    else if (note == "Eb")
+      note = "E";
+    else if (note == "Gb")
+      note = "G";
+    else if (note == "Ab")
+      note = "A";
 
     chord = note + post;
     
