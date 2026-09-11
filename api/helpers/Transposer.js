@@ -46,10 +46,8 @@ export default class Transposer {
   }
 
   upChord(chord) {
-    console.log(chord == "Gm");
-    
     if (chord == "Gm")
-      chord = "G#m";
+      chord = "000";
 
     if (chord == "G#m")
       chord = "Am";
