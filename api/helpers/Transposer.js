@@ -26,7 +26,7 @@ export default class Transposer {
     // transpose all chords
     this.#chords.forEach((element) => {
       const chord = element.innerHTML;
-      this.upChord(chord);
+      console.log(this.upChord(chord));
     });
   }
 
