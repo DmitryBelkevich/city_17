@@ -59,38 +59,27 @@ export default class Transposer {
     
     if (note == "G")
       note = "G#";
-
-    if (note == "G#")
+    else if (note == "G#")
       note = "A";
-
-    if (note == "A")
+    else if (note == "A")
       note = "A#";
-
-    if (note == "A#")
+    else if (note == "A#")
       note = "B";
-
-    if (note == "B")
+    else if (note == "B")
       note = "C";
-
-    if (note == "C")
+    else if (note == "C")
       note = "C#";
-
-    if (note == "C#")
+    else if (note == "C#")
       note = "D";
-
-    if (note == "D")
+    else if (note == "D")
       note = "D#";
-
-    if (note == "D#")
+    else if (note == "D#")
       note = "E";
-
-    if (note == "E")
+    else if (note == "E")
       note = "F";
-
-    if (note == "F")
+    else if (note == "F")
       note = "F#";
-
-    if (note == "F#")
+    else if (note == "F#")
       note = "G";
 
     chord = note + post;
