@@ -52,7 +52,7 @@ export default class Transposer {
     if (chord[1] == "#" || chord[1] == "b") {//A#m -> A# m
       note = chord.slice(0, 2);//A#
       post = chord.slice(2);   // m
-    } else if (chord[1] != "#" || chord[1] != "b") {//Am
+    } else if (chord[1] != "#" && chord[1] != "b") {//Am
       note = chord.slice(0, 1);//A
       post = chord.slice(1);   //m
     }
