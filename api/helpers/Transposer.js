@@ -21,7 +21,7 @@ export default class Transposer {
 
     // transpose key on display
     const key_e = document.getElementById("key");
-    // key_e.textContent = this.#key;
+    key_e.textContent = this.#key;
 
     // transpose all chords
     this.#chords.forEach((element) => {
@@ -35,12 +35,13 @@ export default class Transposer {
 
     // transpose key on display
     const key_e = document.getElementById("key");
-    // key_e.textContent = this.#key;
+    key_e.textContent = this.#key;
 
     // transpose all chords
     this.#chords.forEach((element) => {
       const chord = element.innerHTML;
-      this.downChord(chord);
+      console.log(chord);
+      // this.downChord(chord);
     });
   }
 
