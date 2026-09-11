@@ -23,7 +23,10 @@ export default class SongController {
     
     this.view.setPageTitle(this.song.band, this.song.title);
     this.view.setTitle(this.song.band, this.song.title);
-    this.view.setKey(this.song.key);
+    
+    if (this.song.key != undefined)
+      this.view.setKey(this.song.key);
+    
     this.song.instruments.forEach((instrument, index) => {
       this.view.addTuning(instrument.title, instrument.tuning, instrument.capo);
     });
@@ -35,7 +38,11 @@ export default class SongController {
 
     // functions
     this.transposer = new Transposer();
-    this.transposer.key = this.song.key;
+    if (this.song.key != undefined)
+      this.transposer.key = this.song.key;
+    else
+      this.transposer.key = "";
+    
     this.autoscroll = new Autoscroll();
 
     // *** binding controller-view ***
