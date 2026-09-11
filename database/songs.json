@@ -1103,6 +1103,7 @@
     "text": "Rock, Punk/Братья Грим/Братья Грим - Кустурица.html",
     "score": "",
     "playback": "https://drive.google.com/drive/folders/1I_epGx0SleBRoHLXkAZiPUzVVXfUGmMc?usp=drive_link",
+    "key": "C#m",
     "visible": "true"
   },
   {
@@ -1112,6 +1113,7 @@
     "text": "Rock, Punk/Братья Грим/Братья Грим - Ресницы.html",
     "score": "",
     "playback": "https://drive.google.com/drive/folders/10OaYl1nA-YUVJJR4UWtwYL8tTwfhtNep?usp=drive_link",
+    "key": "Cm",
     "visible": "true"
   },
   {
@@ -1121,6 +1123,7 @@
     "text": "Rock, Punk/Валентин Стрыкало/Валентин Стрыкало - Дешёвые драмы.html",
     "score": "https://drive.google.com/file/d/1bVnJq_IESOgt7vQLiEan0IweF7-Tutb3/view?usp=drive_link",
     "playback": "https://drive.google.com/drive/folders/1sIMrllRMkUfQCYmzBK_PoBWA1NAc4tlg?usp=drive_link",
+    "key": "Am",
     "instruments": [
       {
         "title": "Guitar"
@@ -1135,6 +1138,7 @@
     "text": "Rock, Punk/Валентин Стрыкало/Валентин Стрыкало - Наше лето.html",
     "score": "https://drive.google.com/file/d/1_vomWppUB8W1PS3wNJEDWStbhaUP7i2k/view?usp=drive_link",
     "playback": "https://drive.google.com/drive/folders/1Z2oq4dS7t__caDRWS9i9Vrf5mNTxpe1w?usp=drive_link",
+    "key": "Am",
     "instruments": [
       {
         "title": "Guitar"
@@ -1170,6 +1174,7 @@
     "text": "Rock, Punk/Ваня Дмитриенко/Ваня Дмитриенко - Шёлк.html",
     "score": "",
     "playback": "https://drive.google.com/drive/folders/1ExTAGOjruZERHQRu705F9tPOUfQLWf3e?usp=drive_link",
+    "key": "Em",
     "visible": "true"
   },
   {
@@ -1179,6 +1184,7 @@
     "text": "Rock, Punk/Город 312/Город 312 - Вне зоны доступа.html",
     "score": "https://drive.google.com/file/d/1H7bPb5AabFdOaDVfKyUry888yJJ1xIPK/view?usp=drive_link",
     "playback": "https://drive.google.com/drive/folders/1G3kYNovq2El4XDpGqidz9dSWp32tDZYZ?usp=drive_link",
+    "key": "Am",
     "instruments": [
       {
         "title": "Guitar"
@@ -1205,6 +1211,7 @@
     "text": "Rock, Punk/Город 312/Город 312 - Останусь.html",
     "score": "https://drive.google.com/file/d/1pfPDFVVtG5D6-FdrN8CN1N7cPa-OU56o/view?usp=drive_link",
     "playback": "https://drive.google.com/drive/folders/1sEupWdkviudPAZFt5PAwsvxdyQYCgKEK?usp=drive_link",
+    "key": "Gm",
     "instruments": [
       {
         "title": "Guitar"
@@ -1222,6 +1229,7 @@
     "text": "Rock, Punk/Город 312/Город 312 - Фонари.html",
     "score": "https://drive.google.com/file/d/1avDRpck5YpQ-D-HKixjSI-8fjbeQiqYW/view?usp=drive_link",
     "playback": "https://drive.google.com/drive/folders/1s7HhOLCCVTGqHJRpJVaVJ5YI0--dLBNG?usp=drive_link",
+    "key": "C#m",
     "instruments": [
       {
         "title": "Guitar"
@@ -1239,6 +1247,7 @@
     "text": "Rock, Punk/Градусы/Градусы - Голая.html",
     "score": "",
     "playback": "https://drive.google.com/drive/folders/199Qudn-myUU5_jUgFTyrJDuaHlqexvfP?usp=drive_link",
+    "key": "Am",
     "visible": "true"
   },
   {
@@ -1248,6 +1257,7 @@
     "text": "Rock, Punk/Градусы/Градусы - Научиться бы не париться.html",
     "score": "",
     "playback": "https://drive.google.com/drive/folders/1ihmiimHZ7KEhwCDTSwuhH5IiB7JE69Ix?usp=drive_link",
+    "key": "Dm",
     "visible": "true"
   },
   {
@@ -1257,6 +1267,7 @@
     "text": "Rock, Punk/Градусы/Градусы - Режиссёр.html",
     "score": "https://drive.google.com/file/d/1jhUJen9jX0Dq2LONlC3bl9R3I_9GFB3w/view?usp=drive_link",
     "playback": "https://drive.google.com/drive/folders/1vjX6ompL0UT2t5aYchy5ymnEDnasfBh7?usp=drive_link",
+    "key": "Fm",
     "visible": "true"
   },
   {
@@ -1266,6 +1277,7 @@
     "text": "Rock, Punk/Гражданская оборона/Гражданская оборона - Всё идёт по плану.html",
     "score": "https://drive.google.com/file/d/1CpX7zw6tA0hJTne6EjXkO2y5qKYE83os/view?usp=drive_link",
     "playback": "https://drive.google.com/drive/folders/1w_kkuy-XldSyiWLk9M_g0AzG-0566HzR?usp=drive_link",
+    "key": "Am",
     "instruments": [
       {
         "title": "Guitar"
@@ -1283,6 +1295,7 @@
     "text": "Rock, Punk/Гражданская оборона/Гражданская оборона - Мы идём в тишине.html",
     "score": "https://drive.google.com/file/d/1W9LdjSGn2ypfJH1UmPPmc7MDZWdvY6B2/view?usp=drive_link",
     "playback": "https://drive.google.com/drive/folders/1SfM8dB_Al2TV0QQdTzwA1zQchw-OynkB?usp=drive_link",
+    "key": "G",
     "instruments": [
       {
         "title": "Guitar"
@@ -1300,6 +1313,7 @@
     "text": "Rock, Punk/Гражданская оборона/Гражданская оборона - Про дурачка.html",
     "score": "https://drive.google.com/file/d/1d5eNM2E47rNV9WyeTvpEGgzmi-T4uMm_/view?usp=drive_link",
     "playback": "https://drive.google.com/drive/folders/1sbgNw-tUqUThBzYVhiDJIlI-IS3mevV-?usp=drive_link",
+    "key": "Bm",
     "instruments": [
       {
         "title": "Guitar"
