@@ -24,10 +24,7 @@ export default class SongController {
     this.view.setPageTitle(this.song.band + " - " + this.song.title);
     this.view.setTitle(this.song.title);
     this.view.setBand(this.song.band);
-    
-    if (this.song.key != undefined)
-      this.view.setKey(this.song.key);
-    
+    this.view.setKey(this.song.key);
     this.song.instruments.forEach((instrument, index) => {
       this.view.addTuning(instrument.title, instrument.tuning, instrument.capo);
     });
