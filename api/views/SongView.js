@@ -104,8 +104,8 @@ export default class SongView {
     );
   }
 
-  setPageTitle(band, title) {
-    document.title = band + " - " + title;
+  setPageTitle(title) {
+    document.title = title;
   }
 
   setTitle(band, title) {
