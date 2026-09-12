@@ -16,7 +16,7 @@ export default class SongView {
     this.title = document.createElement('h1');
     this.band = document.createElement('h2');
     
-    this.title_container.append(title, band);
+    this.title_container.append(this.title, this.band);
     
     // Tab 1
     this.tab_text = document.createElement("button");
