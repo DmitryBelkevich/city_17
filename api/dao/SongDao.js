@@ -27,7 +27,7 @@ export default class SongDao {
     song.text = result.text;
     song.score = result.score;
     song.playback = result.playback;
-    song.key = result.key;
+    song.key = result.key || null;
     song.voices = result.voices;
     song.instruments = result.instruments;
 
