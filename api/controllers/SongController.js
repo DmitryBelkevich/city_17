@@ -21,7 +21,7 @@ export default class SongController {
     // view
     this.view = new SongView();
     
-    this.view.setPageTitle(this.song.band, this.song.title);
+    this.view.setPageTitle(this.song.band + " - " + this.song.title);
     this.view.setTitle(this.song.band, this.song.title);
     
     if (this.song.key != undefined)
