@@ -11,7 +11,7 @@ export default class SongView {
     // Title
     this.cssLoader.load("../api/views/css/song/title.css");
     this.title_container = document.createElement("div");
-    this.title.id = "title";
+    this.title_container.id = "title";
 
     this.title = document.createElement('h1');
     this.band = document.createElement('h2');
