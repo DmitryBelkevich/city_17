@@ -99,7 +99,7 @@ export default class SongView {
     // body fill
     this.body = document.body;
     this.body.append(
-      this.title,
+      this.title_container,
       this.tabs,
       this.display,
       this.settings,
